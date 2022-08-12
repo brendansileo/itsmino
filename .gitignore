@@ -1,4 +1,5 @@
 projects/mox_hubs/comp_decklists.json
+*.secret
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -118,9 +119,6 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
-
-# mkdocs documentation
-/site
 
 # mypy
 .mypy_cache/
