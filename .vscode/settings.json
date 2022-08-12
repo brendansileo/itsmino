@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./projects/api"
+        "./projects/api",
+        "./projects/power_level"
     ]
 }

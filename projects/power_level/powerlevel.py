@@ -81,7 +81,7 @@ def train():
       f.write(json.dumps(data))
 
 def rate(decklist):
-   with open('trained.json', 'r') as f:
+   with open('/home/pi/itsmino/projects/power_level/trained.json', 'r') as f:
       data = json.loads(f.read())
    deck_list = list(decklist.keys())
    deck_string = '~'.join(deck_list)

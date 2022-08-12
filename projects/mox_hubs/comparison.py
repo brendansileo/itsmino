@@ -1,4 +1,6 @@
 import json
+import sys
+sys.path.insert(0, '../power_level')
 import powerlevel
 
 with open('comp_decklists.json', 'r') as f:
@@ -8,7 +10,7 @@ power_levels = {}
 i = 0
 for url, deck in moxlists.items():
     print(i)
-    level = powerlevel.rate(deck)
+    level = powerlevel.rate(deck['decklist'])
     if level in ['HIGH', 'MAX']:
         level = 'Competitive'
     else:

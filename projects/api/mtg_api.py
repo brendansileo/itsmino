@@ -11,7 +11,10 @@ class Deck:
         return self.deck['mainboard']
 
     def get_commander(self):
-        return self.deck['commanders'].keys()
+        return list(self.deck['commanders'].keys())
+    
+    def get_format(self):
+        return self.deck['format']
 
 def get_deck(link):
     if link[-1] == '/':
