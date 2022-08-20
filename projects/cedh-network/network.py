@@ -1,7 +1,9 @@
 from pyvis.network import Network
+import matplotlib.pyplot as plt
 import random
 import json
 import sys
+import networkx as nx
 sys.path.insert(0, '../api')
 import mtg_api
 
@@ -24,13 +26,14 @@ def chart(nodes, edges, file_name):
             },
             "physics": {
                 "barnesHut": {
-                "springLength": 500,
-                "avoidOverlap": 0.59
+                "springLength": 250,
+                "avoidOverlap": 0.6
                 },
                 "minVelocity": 0.11
             }
         }
         """)
+    
     for node in nodes:
         size = 0
         for edge in edges:
@@ -45,7 +48,7 @@ def chart(nodes, edges, file_name):
         net.add_edge(edge['to'], edge['from'], label='', title=str(edge['label'])+' card difference', color='black')
     net.save_graph(file_name)
 
-with open('ddb_decks_no_lands.json', 'r') as f:
+with open('ddb_decks_entry.json', 'r') as f:
     data = json.load(f)
 nodes = []
 for name, info in data.items():
@@ -57,7 +60,7 @@ for name, info in data.items():
     colors = list(set(colors))
     colors.sort()
     color = ''.join(colors).lower()
-    nodes.append({'name': name, 'commander': commander, 'image': 'http://itsmino.tk/'+color+'.png'})
+    nodes.append({'name': name, 'commander': commander, 'image': 'http://24.62.6.16/'+color+'.png'})
 edges = []
 max_distance = 30
 for deck, deck_data in data.items():
@@ -77,4 +80,4 @@ for deck, deck_data in data.items():
         edge = i.split(';')
         distance = distances[i]
         edges.append({'to':edge[0], 'from':edge[1], 'width': max_distance-distance, 'label': distance})
-chart(nodes, edges, '../../site/templates/graph3.html')
+chart(nodes, edges, '../../site/templates/graph2.html')

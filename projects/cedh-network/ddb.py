@@ -25,11 +25,13 @@ for entry in data:
             if 'Land' not in info['card']['type_line']:
                 d2[card] = info
         d['mainboard'] = d2
-        all_lists[entry['title']] = d
+        colors = entry['colors']
+        colors.sort()
+        all_lists[entry['title']] = {'deck':d, 'colors':''.join(colors)}
     else:
         print('non-moxfield')
     print(count)
     count += 1
     time.sleep(2)
-with open('ddb_decks_no_lands.json', 'w') as f:
+with open('ddb_decks_entry.json', 'w') as f:
         f.write(json.dumps(all_lists, indent=4))

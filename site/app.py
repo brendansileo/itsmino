@@ -9,11 +9,11 @@ app = Flask(__name__)
 
 @app.route('/2')
 def home():
-    return render_template("graph.html")
+    return render_template("similar.html")
 
 @app.route('/')
 def home2():
-    return render_template("graph3.html")
+    return render_template("home.html")
 
 @app.route('/power-level', methods=['POST'])
 def power_level():
@@ -23,6 +23,10 @@ def power_level():
     level = powerlevel.rate(decklist)
     return level
 
-@app.route('/<color>')
+@app.route('/color/<color>')
 def color_image(color):
     return send_file('color_images/'+color, mimetype='image/png')
+
+@app.route('/similar/<name>')
+def similar(name):
+    return render_template('/similarities/'+name+'.html')
