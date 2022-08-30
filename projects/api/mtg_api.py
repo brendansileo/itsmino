@@ -15,6 +15,9 @@ class Deck:
 
     def get_commander(self):
         return list(self.deck['commanders'].keys())
+
+    def get_commander_info(self):
+        return self.deck['commanders']
     
     def get_format(self):
         return self.deck['format']
