@@ -31,3 +31,29 @@ def decks_name(name):
 def mulligans():
     chosen_deck, hand = pick7.pick7()
     return render_template('mulligans.html', chosen_deck=chosen_deck, hand=hand)
+
+"""
+@app.route('/2')
+def home():
+    return render_template("similar.html")
+
+@app.route('/')
+def home2():
+    return render_template("home.html")
+
+@app.route('/power-level', methods=['POST'])
+def power_level():
+    data = request.json
+    url = data['url']
+    decklist = mtg_api.get_deck(url).get_decklist()
+    level = powerlevel.rate(decklist)
+    return level
+
+@app.route('/color/<color>')
+def color_image(color):
+    return send_file('color_images/'+color, mimetype='image/png')
+
+@app.route('/similar/<name>')
+def similar(name):
+    return render_template('/similarities/'+name+'.html')
+"""

@@ -2,6 +2,8 @@ projects/mox_hubs/comp_decklists.json
 projects/cedh-network/ddb_deck*.json
 *.secret
 projects/mox_hubs/comp_decks/*
+projects/openinghand/ddb.json
+site/ddb.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

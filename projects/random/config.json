@@ -1,0 +1,7 @@
+{
+    "db_name": "database name",
+    "table_name": "table name",
+    "username": "psql user",
+    "hostname": "localhost",
+    "password": "psql password"
+}

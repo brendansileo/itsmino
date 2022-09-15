@@ -1,0 +1,13 @@
+<html>
+<head>
+  {% include 'includes.html' %}
+</head>
+<body>
+  {{chosen_deck}}<br>
+  {% for card, info in hand.items() %}
+    <img src="{{info['image']}}">
+  {% endfor %}<br>
+  Keep?<br>
+  <button onclick="location.reload();">Yes</button><button onclick="location.reload();">No</button>
+</body>
+</html>

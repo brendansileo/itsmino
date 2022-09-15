@@ -38,3 +38,6 @@ def get_deck(link):
 
 def get_card(card_name):
     return requests.get('https://api.scryfall.com/cards/named?exact='+card_name.replace(' ','+')).json()
+
+def get_picture(card_name, size):
+    return requests.get('https://api.scryfall.com/cards/named?exact='+card_name.replace(' ','+')).json()['image_uris'][size]
