@@ -1,0 +1,2294 @@
+~~~~~Grixis (UBR)~~~~~
+    Combo: 654
+    Spellslinger: 414
+    Control: 407
+    Tribal: 353
+    Wheels: 282
+    Reanimator: 257
+    Midrange: 217
+    Storm: 213
+    Discard: 159
+    +1/+1 Counters: 145
+    Artifacts: 139
+    Aggro: 129
+    Aristocrats: 128
+    Thieves: 118
+    Tokens: 115
+    Group Slug: 108
+    Clones: 106
+    Mill: 102
+    Extra Turns: 100
+    Goodstuff: 95
+    Burn: 85
+    Enchantments: 84
+    Blink / Flicker: 82
+    Chaos: 72
+    Voltron: 71
+    Super Friends: 57
+    Equipment: 56
+    Battlecruiser: 55
+    Turbo: 51
+    Tempo: 46
+    Toolbox: 44
+    Farm: 42
+    Group Hug: 33
+    Auras: 33
+    Infect: 32
+    Stax: 32
+    Extra Combats: 30
+    Suicide: 28
+    Ramp: 24
+    Vorthos: 18
+    Flying: 17
+    Death & Taxes: 16
+    Pillowfort: 16
+    Life Gain: 15
+    Cycling: 14
+    Land Destruction: 14
+    Hatebears: 13
+    Dredge: 13
+    Aikido: 12
+    -1/-1 Counters: 12
+    Modified: 12
+    Lands Matter: 10
+    Affinity: 10
+    Modular: 9
+    Formula X-1: 9
+    Tron: 8
+    Snow: 8
+    Delver: 8
+    Rock: 8
+    Colorless: 7
+    Devotion: 7
+    Miracles: 7
+    Birthing Pod / Pod: 6
+    Morph: 6
+    Eggs: 6
+    Blue Moon: 6
+    Vehicles: 6
+    Zoo: 5
+    Historic: 5
+    Mutate: 4
+    Maverick: 4
+    Stoneblade: 4
+    Defender: 4
+~~~~~Abzan (WBG)~~~~~
+    Reanimator: 374
+    Combo: 330
+    +1/+1 Counters: 328
+    Aristocrats: 240
+    Tokens: 178
+    Midrange: 173
+    Tribal: 147
+    Enchantments: 145
+    Stax: 130
+    Hatebears: 125
+    Life Gain: 106
+    Aggro: 100
+    Toolbox: 78
+    Dredge: 74
+    Mill: 74
+    Goodstuff: 65
+    Birthing Pod / Pod: 59
+    Voltron: 54
+    Death & Taxes: 45
+    Battlecruiser: 44
+    Ramp: 42
+    Mutate: 38
+    Control: 37
+    Blink / Flicker: 33
+    -1/-1 Counters: 31
+    Artifacts: 30
+    Farm: 29
+    Lands Matter: 24
+    Defender: 24
+    Modified: 23
+    Super Friends: 22
+    Historic: 21
+    Pillowfort: 20
+    Equipment: 15
+    Rock: 15
+    Auras: 14
+    Suicide: 14
+    Tempo: 14
+    Discard: 14
+    Vorthos: 13
+    Clones: 12
+    Group Slug: 12
+    Infect: 12
+    Land Destruction: 11
+    Storm: 10
+    Maverick: 10
+    Flying: 9
+    Zoo: 9
+    Tron: 8
+    Formula X-1: 8
+    Aikido: 6
+    Colorless: 6
+    Devotion: 6
+    Chaos: 6
+    Morph: 6
+    Cycling: 6
+    Turbo: 6
+    Group Hug: 5
+    Eggs: 5
+    Extra Turns: 5
+    Snow: 5
+    Burn: 5
+    Spellslinger: 5
+    Extra Combats: 5
+    Delver: 5
+    Vehicles: 5
+    Wheels: 4
+    Affinity: 4
+    Blue Moon: 4
+    Miracles: 4
+    Stoneblade: 4
+    Thieves: 4
+    Modular: 3
+~~~~~Golgari (BG)~~~~~
+    Tokens: 872
+    Tribal: 734
+    Combo: 701
+    Aristocrats: 632
+    Reanimator: 529
+    +1/+1 Counters: 344
+    Life Gain: 314
+    Aggro: 285
+    Ramp: 253
+    Midrange: 246
+    Dredge: 213
+    Voltron: 164
+    Artifacts: 150
+    Lands Matter: 146
+    Mill: 124
+    -1/-1 Counters: 115
+    Control: 115
+    Goodstuff: 87
+    Discard: 85
+    Stax: 84
+    Super Friends: 77
+    Infect: 73
+    Battlecruiser: 68
+    Toolbox: 68
+    Birthing Pod / Pod: 67
+    Group Slug: 62
+    Suicide: 57
+    Enchantments: 44
+    Rock: 43
+    Equipment: 38
+    Farm: 35
+    Storm: 35
+    Death & Taxes: 34
+    Tempo: 33
+    Burn: 27
+    Zoo: 26
+    Land Destruction: 24
+    Hatebears: 22
+    Modified: 21
+    Turbo: 21
+    Colorless: 20
+    Spellslinger: 18
+    Auras: 16
+    Eggs: 15
+    Mutate: 15
+    Group Hug: 12
+    Devotion: 12
+    Chaos: 12
+    Vorthos: 11
+    Pillowfort: 10
+    Delver: 10
+    Cycling: 9
+    Tron: 8
+    Flying: 8
+    Formula X-1: 8
+    Historic: 8
+    Extra Turns: 7
+    Snow: 7
+    Blink / Flicker: 7
+    Affinity: 7
+    Clones: 6
+    Wheels: 6
+    Maverick: 6
+    Morph: 5
+    Miracles: 5
+    Stoneblade: 5
+    Aikido: 4
+    Extra Combats: 4
+    Blue Moon: 4
+    Defender: 4
+    Thieves: 4
+    Vehicles: 4
+    Modular: 3
+~~~~~Simic (GU)~~~~~
+    Combo: 574
+    Ramp: 528
+    Tokens: 452
+    +1/+1 Counters: 392
+    Lands Matter: 368
+    Tribal: 313
+    Midrange: 252
+    Clones: 250
+    Control: 242
+    Aggro: 157
+    Goodstuff: 144
+    Extra Turns: 137
+    Mill: 129
+    Battlecruiser: 128
+    Artifacts: 115
+    Enchantments: 82
+    Spellslinger: 80
+    Tempo: 71
+    Storm: 64
+    Toolbox: 63
+    Blink / Flicker: 61
+    Mutate: 60
+    Zoo: 59
+    Voltron: 58
+    Auras: 56
+    Infect: 54
+    Birthing Pod / Pod: 38
+    Snow: 26
+    Stax: 25
+    Flying: 23
+    Group Hug: 22
+    Turbo: 22
+    Super Friends: 20
+    Farm: 18
+    Dredge: 17
+    Pillowfort: 15
+    Affinity: 15
+    -1/-1 Counters: 14
+    Life Gain: 14
+    Thieves: 14
+    Cycling: 13
+    Modified: 13
+    Vorthos: 13
+    Colorless: 12
+    Equipment: 12
+    Wheels: 12
+    Reanimator: 12
+    Aristocrats: 12
+    Hatebears: 11
+    Land Destruction: 11
+    Devotion: 10
+    Discard: 10
+    Chaos: 9
+    Morph: 9
+    Rock: 9
+    Suicide: 8
+    Group Slug: 7
+    Burn: 7
+    Stoneblade: 7
+    Formula X-1: 7
+    Aikido: 6
+    Tron: 6
+    Death & Taxes: 6
+    Extra Combats: 6
+    Miracles: 6
+    Historic: 6
+    Maverick: 5
+    Delver: 5
+    Defender: 5
+    Eggs: 4
+    Blue Moon: 4
+    Modular: 4
+    Vehicles: 4
+~~~~~Gruul (RG)~~~~~
+    Aggro: 776
+    Ramp: 476
+    Tribal: 453
+    Tokens: 350
+    Combo: 330
+    +1/+1 Counters: 296
+    Lands Matter: 285
+    Extra Combats: 217
+    Midrange: 189
+    Battlecruiser: 153
+    Burn: 136
+    Artifacts: 133
+    Voltron: 109
+    Stax: 94
+    Spellslinger: 88
+    Enchantments: 86
+    Equipment: 82
+    Auras: 80
+    Modified: 78
+    Goodstuff: 69
+    Group Slug: 65
+    Storm: 64
+    Zoo: 61
+    Land Destruction: 56
+    Flying: 40
+    Tempo: 38
+    Chaos: 36
+    Control: 35
+    Hatebears: 30
+    Birthing Pod / Pod: 23
+    Discard: 23
+    Aristocrats: 22
+    Snow: 21
+    Toolbox: 21
+    Rock: 21
+    Reanimator: 15
+    Formula X-1: 15
+    Farm: 14
+    Life Gain: 13
+    Infect: 13
+    Group Hug: 11
+    Suicide: 11
+    Affinity: 11
+    Eggs: 10
+    Vorthos: 10
+    Cycling: 9
+    Turbo: 9
+    Pillowfort: 9
+    Colorless: 8
+    Death & Taxes: 8
+    Wheels: 8
+    Devotion: 7
+    Super Friends: 7
+    Dredge: 7
+    Historic: 7
+    Tron: 6
+    Mill: 6
+    Maverick: 6
+    Morph: 5
+    -1/-1 Counters: 5
+    Clones: 5
+    Blink / Flicker: 5
+    Modular: 5
+    Thieves: 5
+    Aikido: 4
+    Extra Turns: 4
+    Mutate: 4
+    Blue Moon: 4
+    Miracles: 4
+    Delver: 4
+    Stoneblade: 4
+    Vehicles: 4
+    Defender: 3
+~~~~~Growth (WUBG)~~~~~
+    +1/+1 Counters: 173
+    Combo: 115
+    Super Friends: 111
+    Midrange: 108
+    Infect: 86
+    Control: 75
+    Tribal: 46
+    -1/-1 Counters: 45
+    Goodstuff: 45
+    Enchantments: 39
+    Toolbox: 32
+    Aggro: 32
+    Reanimator: 29
+    Tokens: 28
+    Ramp: 25
+    Hatebears: 25
+    Stax: 23
+    Life Gain: 22
+    Battlecruiser: 20
+    Artifacts: 20
+    Farm: 19
+    Modified: 16
+    Tempo: 15
+    Voltron: 14
+    Lands Matter: 13
+    Birthing Pod / Pod: 12
+    Flying: 11
+    Blink / Flicker: 11
+    Mill: 11
+    Death & Taxes: 10
+    Clones: 10
+    Extra Turns: 10
+    Pillowfort: 9
+    Maverick: 9
+    Cycling: 8
+    Zoo: 8
+    Group Slug: 8
+    Spellslinger: 8
+    Discard: 8
+    Rock: 8
+    Group Hug: 7
+    Chaos: 7
+    Turbo: 7
+    Suicide: 7
+    Aristocrats: 7
+    Vorthos: 7
+    Historic: 7
+    Equipment: 6
+    Mutate: 6
+    Dredge: 6
+    Storm: 6
+    Aikido: 5
+    Colorless: 5
+    Devotion: 5
+    Morph: 5
+    Snow: 5
+    Wheels: 5
+    Land Destruction: 5
+    Affinity: 5
+    Miracles: 5
+    Modular: 5
+    Stoneblade: 5
+    Formula X-1: 5
+    Vehicles: 5
+    Tron: 4
+    Auras: 4
+    Eggs: 4
+    Burn: 4
+    Extra Combats: 4
+    Blue Moon: 4
+    Delver: 4
+    Defender: 4
+    Thieves: 4
+~~~~~Temur (GUR)~~~~~
+    Combo: 419
+    Tribal: 369
+    Tokens: 309
+    Ramp: 293
+    Midrange: 215
+    Spellslinger: 193
+    +1/+1 Counters: 184
+    Clones: 171
+    Aggro: 157
+    Lands Matter: 139
+    Control: 115
+    Wheels: 104
+    Storm: 102
+    Battlecruiser: 101
+    Goodstuff: 100
+    Flying: 88
+    Voltron: 86
+    Extra Turns: 75
+    Chaos: 67
+    Tempo: 65
+    Artifacts: 44
+    Group Hug: 43
+    Birthing Pod / Pod: 43
+    Extra Combats: 42
+    Toolbox: 38
+    Morph: 35
+    Mutate: 35
+    Blink / Flicker: 33
+    Burn: 32
+    Thieves: 32
+    Zoo: 23
+    Group Slug: 19
+    Rock: 17
+    Mill: 16
+    Equipment: 15
+    Farm: 14
+    Enchantments: 13
+    Turbo: 11
+    Infect: 11
+    Colorless: 10
+    Discard: 10
+    Aristocrats: 10
+    Formula X-1: 10
+    Modified: 9
+    Super Friends: 9
+    Stax: 9
+    Vorthos: 9
+    Land Destruction: 8
+    Auras: 7
+    Hatebears: 7
+    Life Gain: 7
+    Aikido: 6
+    Cycling: 6
+    Snow: 6
+    Affinity: 6
+    Miracles: 6
+    Delver: 6
+    Tron: 5
+    Devotion: 5
+    Death & Taxes: 5
+    -1/-1 Counters: 5
+    Suicide: 5
+    Blue Moon: 5
+    Historic: 5
+    Eggs: 4
+    Pillowfort: 4
+    Dredge: 4
+    Reanimator: 4
+    Maverick: 4
+    Modular: 4
+    Stoneblade: 4
+    Vehicles: 4
+    Defender: 3
+~~~~~Sultai (BGU)~~~~~
+    Combo: 551
+    Reanimator: 339
+    Midrange: 279
+    Control: 278
+    Lands Matter: 225
+    +1/+1 Counters: 213
+    Mill: 213
+    Tribal: 212
+    Ramp: 208
+    Tokens: 158
+    Enchantments: 147
+    Goodstuff: 132
+    Mutate: 123
+    Dredge: 122
+    Toolbox: 120
+    Morph: 113
+    Snow: 87
+    Voltron: 85
+    Infect: 75
+    Battlecruiser: 72
+    Birthing Pod / Pod: 70
+    Aggro: 68
+    Stax: 62
+    Blink / Flicker: 61
+    Clones: 52
+    Aristocrats: 52
+    Tempo: 48
+    -1/-1 Counters: 47
+    Artifacts: 37
+    Discard: 35
+    Auras: 28
+    Spellslinger: 27
+    Life Gain: 24
+    Storm: 19
+    Formula X-1: 19
+    Turbo: 18
+    Farm: 18
+    Suicide: 18
+    Super Friends: 17
+    Zoo: 16
+    Extra Turns: 15
+    Delver: 15
+    Group Slug: 14
+    Land Destruction: 14
+    Death & Taxes: 12
+    Thieves: 11
+    Cycling: 10
+    Burn: 10
+    Hatebears: 10
+    Pillowfort: 10
+    Wheels: 10
+    Chaos: 9
+    Vorthos: 9
+    Rock: 9
+    Vehicles: 9
+    Modified: 8
+    Group Hug: 7
+    Equipment: 7
+    Modular: 7
+    Historic: 7
+    Colorless: 6
+    Maverick: 6
+    Aikido: 5
+    Tron: 5
+    Flying: 5
+    Devotion: 5
+    Affinity: 5
+    Eggs: 4
+    Extra Combats: 4
+    Blue Moon: 4
+    Miracles: 4
+    Stoneblade: 4
+    Defender: 4
+~~~~~Dimir (UB)~~~~~
+    Tribal: 1191
+    Mill: 815
+    Combo: 643
+    Reanimator: 536
+    Control: 501
+    Tokens: 353
+    Aggro: 308
+    Midrange: 223
+    Aristocrats: 217
+    Discard: 152
+    Tempo: 144
+    Artifacts: 142
+    Thieves: 142
+    Clones: 141
+    Extra Turns: 106
+    Goodstuff: 88
+    Spellslinger: 82
+    -1/-1 Counters: 72
+    Group Slug: 72
+    Voltron: 67
+    Blink / Flicker: 58
+    Battlecruiser: 57
+    Infect: 51
+    Toolbox: 49
+    Burn: 48
+    +1/+1 Counters: 43
+    Stax: 42
+    Snow: 38
+    Turbo: 36
+    Flying: 35
+    Enchantments: 35
+    Dredge: 33
+    Ramp: 30
+    Farm: 29
+    Storm: 28
+    Cycling: 25
+    Suicide: 24
+    Death & Taxes: 22
+    Wheels: 21
+    Equipment: 19
+    Pillowfort: 18
+    Affinity: 18
+    Delver: 18
+    Vorthos: 18
+    Life Gain: 17
+    Rock: 17
+    Hatebears: 16
+    Aikido: 15
+    Devotion: 15
+    Chaos: 15
+    Land Destruction: 15
+    Group Hug: 14
+    Lands Matter: 14
+    Defender: 14
+    Colorless: 13
+    Super Friends: 12
+    Auras: 11
+    Zoo: 11
+    Formula X-1: 10
+    Historic: 10
+    Modified: 9
+    Eggs: 9
+    Tron: 6
+    Birthing Pod / Pod: 6
+    Morph: 6
+    Mutate: 6
+    Maverick: 6
+    Miracles: 6
+    Modular: 6
+    Vehicles: 6
+    Extra Combats: 5
+    Blue Moon: 4
+    Stoneblade: 4
+~~~~~Mono White~~~~~
+    Tribal: 385
+    Life Gain: 344
+    Tokens: 321
+    Voltron: 309
+    Aggro: 303
+    Stax: 251
+    +1/+1 Counters: 236
+    Combo: 223
+    Artifacts: 204
+    Auras: 191
+    Enchantments: 173
+    Equipment: 159
+    Hatebears: 155
+    Flying: 131
+    Control: 97
+    Midrange: 89
+    Battlecruiser: 67
+    Death & Taxes: 62
+    Toolbox: 58
+    Pillowfort: 56
+    Goodstuff: 54
+    Blink / Flicker: 48
+    Reanimator: 39
+    Birthing Pod / Pod: 33
+    Land Destruction: 32
+    Ramp: 31
+    Devotion: 29
+    Tempo: 29
+    Stoneblade: 27
+    Snow: 26
+    Super Friends: 24
+    Eggs: 20
+    Affinity: 18
+    Storm: 18
+    Historic: 18
+    Mill: 17
+    Modified: 13
+    Group Slug: 13
+    Aristocrats: 13
+    Colorless: 12
+    Group Hug: 11
+    Zoo: 11
+    Lands Matter: 11
+    Suicide: 11
+    Spellslinger: 11
+    Vehicles: 11
+    Tron: 9
+    Farm: 9
+    Cycling: 8
+    Vorthos: 8
+    Rock: 8
+    -1/-1 Counters: 7
+    Turbo: 7
+    Formula X-1: 7
+    Infect: 6
+    Discard: 6
+    Maverick: 6
+    Defender: 6
+    Aikido: 5
+    Chaos: 5
+    Extra Turns: 5
+    Burn: 5
+    Extra Combats: 5
+    Miracles: 5
+    Morph: 4
+    Mutate: 4
+    Dredge: 4
+    Wheels: 4
+    Blue Moon: 4
+    Clones: 3
+    Delver: 3
+    Modular: 3
+    Thieves: 3
+~~~~~Orzhov (WB)~~~~~
+    Aristocrats: 729
+    Life Gain: 599
+    Tokens: 377
+    Combo: 358
+    Reanimator: 355
+    Tribal: 350
+    +1/+1 Counters: 287
+    Death & Taxes: 195
+    Stax: 167
+    Midrange: 165
+    Aggro: 147
+    Control: 140
+    Hatebears: 120
+    Enchantments: 115
+    Artifacts: 98
+    Voltron: 94
+    Pillowfort: 75
+    Vehicles: 72
+    Auras: 68
+    Flying: 66
+    Group Slug: 61
+    Goodstuff: 56
+    Suicide: 55
+    Blink / Flicker: 53
+    Battlecruiser: 43
+    Equipment: 38
+    Farm: 34
+    Group Hug: 31
+    Tempo: 31
+    Discard: 25
+    Burn: 24
+    Toolbox: 24
+    Storm: 24
+    -1/-1 Counters: 21
+    Mill: 19
+    Spellslinger: 17
+    Vorthos: 17
+    Ramp: 16
+    Infect: 15
+    Historic: 15
+    Turbo: 14
+    Modified: 13
+    Aikido: 12
+    Lands Matter: 12
+    Super Friends: 12
+    Rock: 11
+    Devotion: 10
+    Zoo: 10
+    Formula X-1: 10
+    Cycling: 9
+    Eggs: 9
+    Clones: 9
+    Dredge: 9
+    Snow: 8
+    Land Destruction: 8
+    Stoneblade: 8
+    Colorless: 7
+    Birthing Pod / Pod: 7
+    Chaos: 7
+    Thieves: 7
+    Extra Turns: 6
+    Extra Combats: 6
+    Wheels: 6
+    Maverick: 6
+    Modular: 6
+    Tron: 5
+    Morph: 5
+    Mutate: 5
+    Affinity: 5
+    Miracles: 5
+    Blue Moon: 4
+    Delver: 4
+    Defender: 4
+~~~~~Mono Black~~~~~
+    Combo: 627
+    Aristocrats: 577
+    Reanimator: 552
+    Tribal: 409
+    Discard: 369
+    Control: 308
+    Life Gain: 272
+    Tokens: 240
+    Suicide: 232
+    Aggro: 169
+    Midrange: 167
+    Devotion: 131
+    Artifacts: 125
+    Storm: 122
+    -1/-1 Counters: 120
+    Group Slug: 109
+    Goodstuff: 104
+    Mill: 104
+    Voltron: 91
+    Ramp: 87
+    Stax: 86
+    +1/+1 Counters: 83
+    Infect: 77
+    Spellslinger: 75
+    Battlecruiser: 52
+    Toolbox: 49
+    Death & Taxes: 47
+    Thieves: 43
+    Equipment: 41
+    Enchantments: 39
+    Tempo: 35
+    Group Hug: 34
+    Snow: 34
+    Lands Matter: 31
+    Burn: 30
+    Turbo: 29
+    Dredge: 25
+    Flying: 23
+    Chaos: 23
+    Vehicles: 22
+    Hatebears: 20
+    Blink / Flicker: 20
+    Super Friends: 20
+    Farm: 17
+    Wheels: 16
+    Vorthos: 16
+    Cycling: 14
+    Land Destruction: 14
+    Affinity: 11
+    Extra Turns: 10
+    Zoo: 10
+    Formula X-1: 10
+    Rock: 10
+    Pillowfort: 9
+    Colorless: 8
+    Modified: 6
+    Auras: 6
+    Extra Combats: 6
+    Delver: 6
+    Aikido: 5
+    Tron: 5
+    Eggs: 5
+    Miracles: 5
+    Historic: 5
+    Birthing Pod / Pod: 4
+    Morph: 4
+    Clones: 4
+    Mutate: 4
+    Maverick: 4
+    Blue Moon: 4
+    Stoneblade: 4
+    Defender: 4
+    Modular: 3
+~~~~~Selesnya (GW)~~~~~
+    +1/+1 Counters: 681
+    Tokens: 570
+    Tribal: 545
+    Enchantments: 447
+    Life Gain: 325
+    Combo: 307
+    Aggro: 286
+    Ramp: 174
+    Stax: 173
+    Voltron: 167
+    Midrange: 151
+    Hatebears: 126
+    Auras: 124
+    Equipment: 105
+    Lands Matter: 92
+    Toolbox: 89
+    Battlecruiser: 79
+    Goodstuff: 74
+    Blink / Flicker: 68
+    Pillowfort: 63
+    Control: 56
+    Artifacts: 46
+    Storm: 44
+    Group Hug: 39
+    Tempo: 36
+    Modified: 31
+    Death & Taxes: 27
+    Reanimator: 25
+    Flying: 23
+    Zoo: 23
+    Birthing Pod / Pod: 17
+    Land Destruction: 17
+    Aristocrats: 17
+    Infect: 15
+    Historic: 14
+    Devotion: 13
+    Mill: 13
+    Snow: 12
+    Super Friends: 12
+    Farm: 11
+    Stoneblade: 10
+    Vorthos: 10
+    -1/-1 Counters: 9
+    Spellslinger: 9
+    Formula X-1: 9
+    Rock: 9
+    Defender: 9
+    Clones: 8
+    Extra Turns: 8
+    Vehicles: 8
+    Chaos: 7
+    Cycling: 7
+    Group Slug: 7
+    Extra Combats: 7
+    Miracles: 7
+    Modular: 7
+    Tron: 6
+    Morph: 6
+    Dredge: 6
+    Maverick: 6
+    Aikido: 5
+    Colorless: 5
+    Eggs: 5
+    Turbo: 5
+    Burn: 5
+    Suicide: 5
+    Mutate: 5
+    Discard: 5
+    Affinity: 5
+    Wheels: 4
+    Blue Moon: 4
+    Delver: 4
+    Thieves: 3
+~~~~~Mono Green~~~~~
+    Ramp: 576
+    Tribal: 499
+    Aggro: 444
+    Combo: 394
+    +1/+1 Counters: 337
+    Lands Matter: 269
+    Tokens: 207
+    Voltron: 161
+    Storm: 130
+    Battlecruiser: 125
+    Midrange: 122
+    Infect: 121
+    Goodstuff: 82
+    Toolbox: 78
+    Devotion: 76
+    Equipment: 52
+    Enchantments: 48
+    Zoo: 47
+    Stax: 45
+    Modified: 44
+    Tempo: 42
+    Control: 42
+    Auras: 40
+    Artifacts: 40
+    Land Destruction: 38
+    Super Friends: 30
+    Aristocrats: 27
+    Hatebears: 22
+    Morph: 21
+    Life Gain: 19
+    Spellslinger: 19
+    Mill: 19
+    Birthing Pod / Pod: 18
+    Snow: 18
+    Turbo: 17
+    Historic: 17
+    Reanimator: 13
+    Farm: 12
+    Cycling: 11
+    -1/-1 Counters: 11
+    Formula X-1: 11
+    Vehicles: 11
+    Rock: 10
+    Group Hug: 9
+    Colorless: 9
+    Suicide: 9
+    Pillowfort: 9
+    Vorthos: 9
+    Tron: 8
+    Group Slug: 8
+    Dredge: 8
+    Death & Taxes: 7
+    Burn: 7
+    Blink / Flicker: 7
+    Mutate: 7
+    Discard: 7
+    Maverick: 7
+    Flying: 6
+    Chaos: 6
+    Eggs: 6
+    Extra Combats: 6
+    Aikido: 5
+    Clones: 4
+    Extra Turns: 4
+    Wheels: 4
+    Affinity: 4
+    Blue Moon: 4
+    Miracles: 4
+    Stoneblade: 4
+    Defender: 4
+    Thieves: 4
+    Delver: 3
+    Modular: 3
+~~~~~Jeskai (URW)~~~~~
+    Combo: 435
+    Spellslinger: 354
+    Control: 277
+    Storm: 194
+    Tokens: 190
+    Voltron: 129
+    Artifacts: 125
+    Cycling: 100
+    Midrange: 99
+    Wheels: 87
+    Aggro: 79
+    Tempo: 71
+    Extra Turns: 69
+    Discard: 57
+    Tribal: 56
+    Enchantments: 55
+    Equipment: 54
+    Flying: 53
+    Pillowfort: 53
+    Burn: 51
+    Stax: 51
+    Blink / Flicker: 47
+    Group Hug: 44
+    Extra Combats: 44
+    Chaos: 41
+    Super Friends: 39
+    Vehicles: 39
+    +1/+1 Counters: 35
+    Goodstuff: 32
+    Mutate: 28
+    Group Slug: 26
+    Battlecruiser: 25
+    Hatebears: 25
+    Life Gain: 24
+    Toolbox: 22
+    Land Destruction: 22
+    Mill: 19
+    Auras: 17
+    Clones: 16
+    Ramp: 16
+    Defender: 13
+    Death & Taxes: 12
+    Stoneblade: 12
+    Aikido: 11
+    Formula X-1: 11
+    Thieves: 11
+    Turbo: 10
+    Lands Matter: 10
+    Blue Moon: 10
+    Affinity: 9
+    Reanimator: 9
+    Delver: 9
+    Morph: 8
+    Suicide: 8
+    Rock: 8
+    Eggs: 7
+    Zoo: 7
+    Historic: 7
+    Tron: 6
+    Birthing Pod / Pod: 6
+    -1/-1 Counters: 6
+    Modified: 6
+    Farm: 6
+    Snow: 6
+    Dredge: 6
+    Aristocrats: 6
+    Miracles: 6
+    Colorless: 5
+    Devotion: 5
+    Maverick: 5
+    Vorthos: 5
+    Infect: 4
+    Modular: 4
+~~~~~Bant (GWU)~~~~~
+    Enchantments: 383
+    Combo: 289
+    Voltron: 251
+    Auras: 197
+    +1/+1 Counters: 184
+    Control: 183
+    Tribal: 177
+    Blink / Flicker: 166
+    Defender: 165
+    Midrange: 161
+    Equipment: 156
+    Aggro: 142
+    Stax: 131
+    Pillowfort: 113
+    Ramp: 92
+    Hatebears: 73
+    Tokens: 68
+    Artifacts: 67
+    Group Hug: 66
+    Battlecruiser: 60
+    Goodstuff: 55
+    Toolbox: 55
+    Modified: 52
+    Tempo: 51
+    Lands Matter: 45
+    Birthing Pod / Pod: 39
+    Flying: 38
+    Life Gain: 36
+    Storm: 30
+    Spellslinger: 29
+    -1/-1 Counters: 27
+    Super Friends: 27
+    Extra Turns: 25
+    Infect: 25
+    Mill: 22
+    Zoo: 19
+    Stoneblade: 17
+    Death & Taxes: 14
+    Land Destruction: 12
+    Clones: 11
+    Farm: 11
+    Group Slug: 11
+    Reanimator: 10
+    Devotion: 9
+    Chaos: 9
+    Snow: 9
+    Suicide: 9
+    Maverick: 9
+    Historic: 8
+    Tron: 7
+    Colorless: 7
+    Eggs: 7
+    Turbo: 7
+    Extra Combats: 7
+    Vorthos: 7
+    Thieves: 7
+    Morph: 6
+    Burn: 6
+    Aristocrats: 6
+    Formula X-1: 6
+    Rock: 6
+    Vehicles: 6
+    Dredge: 5
+    Miracles: 5
+    Aikido: 4
+    Cycling: 4
+    Mutate: 4
+    Discard: 4
+    Wheels: 4
+    Affinity: 4
+    Blue Moon: 4
+    Delver: 4
+    Modular: 4
+~~~~~Chaos (UBRG)~~~~~
+    Combo: 107
+    Midrange: 61
+    Storm: 59
+    Spellslinger: 55
+    Control: 45
+    Wheels: 35
+    Goodstuff: 29
+    Ramp: 28
+    Chaos: 24
+    Farm: 19
+    Extra Turns: 18
+    Lands Matter: 18
+    Tribal: 17
+    Battlecruiser: 16
+    Burn: 16
+    Aggro: 16
+    Turbo: 15
+    Discard: 15
+    Clones: 14
+    Reanimator: 14
+    Tokens: 14
+    Toolbox: 13
+    Artifacts: 13
+    +1/+1 Counters: 12
+    Mill: 12
+    Birthing Pod / Pod: 11
+    Tempo: 11
+    Group Slug: 9
+    Enchantments: 9
+    Voltron: 8
+    Thieves: 8
+    Group Hug: 7
+    Hatebears: 7
+    Blink / Flicker: 7
+    Life Gain: 7
+    Rock: 7
+    Death & Taxes: 6
+    Cycling: 6
+    -1/-1 Counters: 6
+    Equipment: 6
+    Eggs: 6
+    Zoo: 6
+    Suicide: 6
+    Mutate: 6
+    Pillowfort: 6
+    Stax: 6
+    Tron: 5
+    Flying: 5
+    Colorless: 5
+    Devotion: 5
+    Morph: 5
+    Auras: 5
+    Infect: 5
+    Super Friends: 5
+    Dredge: 5
+    Land Destruction: 5
+    Aristocrats: 5
+    Maverick: 5
+    Formula X-1: 5
+    Aikido: 4
+    Snow: 4
+    Extra Combats: 4
+    Affinity: 4
+    Blue Moon: 4
+    Miracles: 4
+    Delver: 4
+    Stoneblade: 4
+    Vorthos: 4
+    Defender: 4
+    Historic: 4
+    Vehicles: 4
+    Modified: 3
+    Modular: 2
+~~~~~Mardu (RWB)~~~~~
+    Aggro: 685
+    Tribal: 670
+    Combo: 389
+    Aristocrats: 383
+    Tokens: 354
+    Reanimator: 279
+    Equipment: 258
+    Artifacts: 200
+    Midrange: 193
+    Voltron: 191
+    Control: 176
+    Life Gain: 143
+    Extra Combats: 133
+    +1/+1 Counters: 132
+    Enchantments: 121
+    Pillowfort: 101
+    Stax: 98
+    Flying: 91
+    Farm: 91
+    Aikido: 81
+    Goodstuff: 81
+    Group Slug: 77
+    Battlecruiser: 68
+    Hatebears: 65
+    Death & Taxes: 54
+    Toolbox: 54
+    Spellslinger: 45
+    Storm: 43
+    Burn: 42
+    Tempo: 41
+    Turbo: 35
+    Blink / Flicker: 34
+    Historic: 33
+    Land Destruction: 32
+    Discard: 27
+    Chaos: 25
+    Suicide: 24
+    Auras: 22
+    Mutate: 22
+    Modified: 20
+    Infect: 19
+    Group Hug: 18
+    Ramp: 18
+    Super Friends: 17
+    Zoo: 16
+    Wheels: 15
+    Stoneblade: 14
+    Mill: 13
+    Vorthos: 12
+    Eggs: 10
+    Thieves: 10
+    -1/-1 Counters: 9
+    Extra Turns: 9
+    Dredge: 9
+    Affinity: 9
+    Rock: 9
+    Colorless: 8
+    Cycling: 8
+    Clones: 8
+    Lands Matter: 8
+    Maverick: 7
+    Birthing Pod / Pod: 6
+    Formula X-1: 6
+    Vehicles: 6
+    Tron: 5
+    Devotion: 5
+    Snow: 5
+    Miracles: 5
+    Morph: 4
+    Blue Moon: 4
+    Delver: 4
+    Modular: 4
+    Defender: 3
+~~~~~Naya (RGW)~~~~~
+    Tokens: 605
+    Tribal: 474
+    Aggro: 431
+    Combo: 301
+    Ramp: 228
+    Lands Matter: 183
+    +1/+1 Counters: 157
+    Midrange: 147
+    Battlecruiser: 136
+    Stax: 131
+    Enchantments: 115
+    Voltron: 112
+    Eggs: 111
+    Zoo: 109
+    Birthing Pod / Pod: 102
+    Hatebears: 98
+    Goodstuff: 80
+    Auras: 75
+    Toolbox: 71
+    Equipment: 52
+    Extra Combats: 49
+    Control: 43
+    Life Gain: 40
+    Land Destruction: 32
+    Group Slug: 30
+    Burn: 28
+    Tempo: 25
+    Artifacts: 24
+    Aristocrats: 20
+    Group Hug: 19
+    Chaos: 19
+    Blink / Flicker: 19
+    Pillowfort: 19
+    Reanimator: 15
+    Aikido: 14
+    Modified: 14
+    Clones: 14
+    Spellslinger: 14
+    Flying: 13
+    Death & Taxes: 13
+    Storm: 13
+    Vorthos: 13
+    Tron: 12
+    Turbo: 12
+    Formula X-1: 12
+    Stoneblade: 11
+    Infect: 10
+    Maverick: 10
+    Modular: 10
+    Cycling: 9
+    Farm: 8
+    Discard: 8
+    Super Friends: 8
+    Snow: 7
+    Suicide: 7
+    Rock: 7
+    Devotion: 6
+    Morph: 6
+    Mill: 6
+    Miracles: 6
+    Colorless: 5
+    -1/-1 Counters: 5
+    Extra Turns: 5
+    Mutate: 5
+    Dredge: 5
+    Wheels: 5
+    Affinity: 5
+    Defender: 5
+    Historic: 5
+    Thieves: 5
+    Vehicles: 5
+    Blue Moon: 4
+    Delver: 4
+~~~~~Jund (BRG)~~~~~
+    Combo: 393
+    Aristocrats: 349
+    Tokens: 314
+    Lands Matter: 263
+    Aggro: 254
+    Ramp: 243
+    Reanimator: 239
+    Midrange: 182
+    Tribal: 145
+    +1/+1 Counters: 118
+    Burn: 99
+    Artifacts: 99
+    Group Slug: 96
+    Goodstuff: 91
+    Land Destruction: 79
+    Battlecruiser: 73
+    Voltron: 71
+    Toolbox: 66
+    Storm: 61
+    Control: 52
+    Group Hug: 49
+    Farm: 46
+    Chaos: 43
+    Discard: 41
+    Birthing Pod / Pod: 36
+    Turbo: 34
+    Dredge: 34
+    Stax: 34
+    Extra Combats: 28
+    Suicide: 27
+    Enchantments: 27
+    Infect: 23
+    Mill: 22
+    Flying: 21
+    Hatebears: 19
+    Super Friends: 18
+    Life Gain: 17
+    Spellslinger: 16
+    Cycling: 14
+    Death & Taxes: 13
+    -1/-1 Counters: 13
+    Rock: 13
+    Equipment: 12
+    Tempo: 12
+    Pillowfort: 12
+    Eggs: 11
+    Wheels: 11
+    Formula X-1: 11
+    Clones: 9
+    Thieves: 9
+    Auras: 8
+    Snow: 8
+    Zoo: 8
+    Aikido: 7
+    Colorless: 7
+    Modified: 7
+    Vorthos: 7
+    Morph: 6
+    Devotion: 5
+    Extra Turns: 5
+    Blink / Flicker: 5
+    Affinity: 5
+    Delver: 5
+    Historic: 5
+    Vehicles: 5
+    Tron: 4
+    Mutate: 4
+    Maverick: 4
+    Blue Moon: 4
+    Miracles: 4
+    Stoneblade: 4
+    Defender: 3
+    Modular: 2
+~~~~~Rakdos (BR)~~~~~
+    Combo: 505
+    Tribal: 483
+    Aggro: 437
+    Reanimator: 427
+    Discard: 323
+    Aristocrats: 305
+    Tokens: 277
+    Burn: 274
+    Artifacts: 274
+    Group Slug: 230
+    Midrange: 182
+    Chaos: 151
+    Control: 132
+    Storm: 125
+    Spellslinger: 112
+    Suicide: 110
+    Voltron: 87
+    +1/+1 Counters: 74
+    Ramp: 71
+    Goodstuff: 70
+    Battlecruiser: 65
+    Life Gain: 65
+    Extra Combats: 54
+    Flying: 48
+    Wheels: 46
+    Stax: 46
+    -1/-1 Counters: 42
+    Tempo: 39
+    Enchantments: 38
+    Toolbox: 37
+    Infect: 35
+    Thieves: 32
+    Cycling: 31
+    Farm: 31
+    Turbo: 29
+    Death & Taxes: 24
+    Land Destruction: 20
+    Hatebears: 19
+    Blink / Flicker: 19
+    Pillowfort: 19
+    Mill: 19
+    Rock: 19
+    Colorless: 18
+    Equipment: 18
+    Dredge: 18
+    Group Hug: 15
+    Eggs: 15
+    Snow: 15
+    Lands Matter: 14
+    Vorthos: 12
+    Extra Turns: 11
+    Formula X-1: 11
+    Devotion: 10
+    Affinity: 10
+    Aikido: 9
+    Modified: 9
+    Auras: 9
+    Clones: 9
+    Zoo: 9
+    Super Friends: 8
+    Tron: 7
+    Birthing Pod / Pod: 6
+    Maverick: 6
+    Miracles: 6
+    Morph: 5
+    Mutate: 5
+    Delver: 5
+    Modular: 5
+    Vehicles: 5
+    Blue Moon: 4
+    Stoneblade: 4
+    Historic: 4
+    Defender: 3
+~~~~~Five Color (WUBRG)~~~~~
+    Tribal: 1247
+    Combo: 765
+    Enchantments: 389
+    Aggro: 367
+    Goodstuff: 364
+    Midrange: 317
+    Tokens: 241
+    Toolbox: 236
+    Ramp: 234
+    Control: 209
+    Battlecruiser: 207
+    Flying: 176
+    Lands Matter: 162
+    Reanimator: 160
+    Super Friends: 143
+    Extra Combats: 128
+    Stax: 115
+    Artifacts: 105
+    +1/+1 Counters: 104
+    Spellslinger: 98
+    Tempo: 95
+    Storm: 94
+    Blink / Flicker: 81
+    Pillowfort: 73
+    Mutate: 71
+    Chaos: 64
+    Group Hug: 62
+    Historic: 61
+    Voltron: 57
+    Extra Turns: 51
+    Hatebears: 49
+    Turbo: 40
+    Devotion: 37
+    Clones: 37
+    Land Destruction: 36
+    Birthing Pod / Pod: 35
+    Group Slug: 35
+    Life Gain: 34
+    Mill: 33
+    Zoo: 30
+    Wheels: 28
+    Vorthos: 28
+    Colorless: 27
+    Cycling: 26
+    Farm: 25
+    Burn: 25
+    Aristocrats: 23
+    Equipment: 22
+    Auras: 22
+    Discard: 22
+    Death & Taxes: 21
+    Suicide: 19
+    Infect: 18
+    Snow: 16
+    Eggs: 13
+    Thieves: 13
+    Aikido: 10
+    Dredge: 10
+    Formula X-1: 10
+    Tron: 9
+    Affinity: 9
+    Rock: 9
+    Blue Moon: 8
+    Miracles: 8
+    Maverick: 7
+    Morph: 6
+    Modified: 6
+    Defender: 6
+    -1/-1 Counters: 5
+    Delver: 5
+    Stoneblade: 5
+    Vehicles: 4
+    Modular: 3
+~~~~~Azorius (WU) ~~~~~
+    Control: 618
+    Combo: 411
+    Artifacts: 398
+    Blink / Flicker: 382
+    Stax: 292
+    Tokens: 281
+    Flying: 271
+    Tribal: 251
+    Vehicles: 232
+    Voltron: 146
+    Midrange: 142
+    Enchantments: 137
+    Aggro: 122
+    Spellslinger: 117
+    Pillowfort: 103
+    Extra Turns: 92
+    +1/+1 Counters: 77
+    Group Hug: 74
+    Auras: 74
+    Tempo: 72
+    Hatebears: 71
+    Battlecruiser: 62
+    Equipment: 58
+    Mill: 57
+    Lands Matter: 51
+    Reanimator: 49
+    Life Gain: 48
+    Goodstuff: 42
+    Toolbox: 42
+    Affinity: 40
+    Clones: 36
+    Death & Taxes: 32
+    Super Friends: 31
+    Historic: 30
+    Ramp: 27
+    Discard: 27
+    Storm: 27
+    Wheels: 22
+    Land Destruction: 19
+    Colorless: 18
+    Chaos: 18
+    Modified: 16
+    Group Slug: 16
+    Eggs: 14
+    Aristocrats: 14
+    Vorthos: 14
+    Stoneblade: 13
+    Thieves: 13
+    Rock: 12
+    Miracles: 11
+    Farm: 10
+    Morph: 9
+    Infect: 9
+    Devotion: 8
+    Cycling: 8
+    Turbo: 8
+    Snow: 8
+    Zoo: 8
+    Birthing Pod / Pod: 7
+    -1/-1 Counters: 7
+    Burn: 7
+    Defender: 7
+    Aikido: 6
+    Suicide: 6
+    Modular: 6
+    Formula X-1: 6
+    Tron: 5
+    Extra Combats: 5
+    Dredge: 5
+    Maverick: 5
+    Blue Moon: 5
+    Delver: 5
+    Mutate: 4
+~~~~~Aggression (WBRG)~~~~~
+    Aggro: 111
+    Combo: 82
+    Tribal: 67
+    Stax: 54
+    Tokens: 50
+    Birthing Pod / Pod: 46
+    Midrange: 38
+    Hatebears: 32
+    +1/+1 Counters: 30
+    Extra Combats: 28
+    Life Gain: 26
+    Reanimator: 25
+    Toolbox: 23
+    Infect: 22
+    Aristocrats: 22
+    Lands Matter: 21
+    Farm: 20
+    Goodstuff: 20
+    Artifacts: 20
+    Tempo: 18
+    Equipment: 16
+    Ramp: 16
+    Enchantments: 16
+    Group Slug: 13
+    Battlecruiser: 12
+    Voltron: 12
+    Zoo: 11
+    Control: 10
+    Storm: 10
+    Flying: 9
+    Death & Taxes: 9
+    Chaos: 9
+    -1/-1 Counters: 9
+    Auras: 9
+    Suicide: 9
+    Land Destruction: 9
+    Clones: 8
+    Extra Turns: 8
+    Blink / Flicker: 8
+    Mill: 8
+    Colorless: 6
+    Devotion: 6
+    Turbo: 6
+    Burn: 6
+    Discard: 6
+    Pillowfort: 6
+    Super Friends: 6
+    Affinity: 6
+    Formula X-1: 6
+    Historic: 6
+    Aikido: 5
+    Group Hug: 5
+    Tron: 5
+    Morph: 5
+    Cycling: 5
+    Modified: 5
+    Eggs: 5
+    Spellslinger: 5
+    Mutate: 5
+    Dredge: 5
+    Snow: 4
+    Wheels: 4
+    Maverick: 4
+    Blue Moon: 4
+    Miracles: 4
+    Delver: 4
+    Stoneblade: 4
+    Rock: 4
+    Vehicles: 4
+    Modular: 3
+    Vorthos: 3
+    Defender: 3
+    Thieves: 3
+~~~~~Altruism (WURG)~~~~~
+    Lands Matter: 190
+    Ramp: 129
+    Combo: 128
+    Group Hug: 87
+    Midrange: 62
+    Tokens: 41
+    Blink / Flicker: 40
+    Pillowfort: 30
+    Control: 29
+    Toolbox: 26
+    Tribal: 26
+    Goodstuff: 22
+    Life Gain: 21
+    Birthing Pod / Pod: 19
+    Storm: 19
+    Tempo: 18
+    Battlecruiser: 17
+    Spellslinger: 17
+    Artifacts: 17
+    Aggro: 17
+    Enchantments: 16
+    Clones: 15
+    Burn: 15
+    Group Slug: 14
+    +1/+1 Counters: 14
+    Mill: 13
+    Stax: 13
+    Chaos: 12
+    Land Destruction: 12
+    Cycling: 10
+    Extra Turns: 10
+    Mutate: 10
+    Extra Combats: 10
+    Reanimator: 10
+    Aikido: 9
+    Equipment: 9
+    Wheels: 9
+    Death & Taxes: 8
+    Voltron: 8
+    Formula X-1: 8
+    Historic: 8
+    Zoo: 7
+    Hatebears: 7
+    Aristocrats: 7
+    Maverick: 7
+    Rock: 7
+    Devotion: 6
+    -1/-1 Counters: 6
+    Modified: 6
+    Farm: 6
+    Snow: 6
+    Suicide: 6
+    Discard: 6
+    Super Friends: 6
+    Affinity: 6
+    Blue Moon: 6
+    Vehicles: 6
+    Flying: 5
+    Colorless: 5
+    Morph: 5
+    Auras: 5
+    Eggs: 5
+    Dredge: 5
+    Miracles: 5
+    Stoneblade: 5
+    Vorthos: 5
+    Defender: 5
+    Tron: 4
+    Turbo: 4
+    Infect: 4
+    Delver: 4
+    Thieves: 4
+    Modular: 3
+~~~~~Artifice (WUBR)~~~~~
+    Artifacts: 250
+    Combo: 229
+    Tokens: 98
+    Midrange: 64
+    Farm: 57
+    Control: 48
+    Affinity: 39
+    Blink / Flicker: 38
+    Goodstuff: 36
+    Storm: 36
+    Aggro: 33
+    Wheels: 32
+    Extra Turns: 31
+    Vehicles: 28
+    Turbo: 26
+    Tribal: 24
+    Toolbox: 21
+    Stax: 21
+    Spellslinger: 20
+    Hatebears: 19
+    Aristocrats: 19
+    Voltron: 18
+    Reanimator: 18
+    Eggs: 17
+    Equipment: 16
+    Tempo: 16
+    Battlecruiser: 14
+    Burn: 13
+    Historic: 12
+    Colorless: 11
+    Ramp: 11
+    Discard: 11
+    +1/+1 Counters: 10
+    Flying: 9
+    Life Gain: 9
+    Extra Combats: 9
+    Super Friends: 9
+    Death & Taxes: 8
+    Chaos: 8
+    Clones: 8
+    Suicide: 8
+    Mill: 8
+    Rock: 8
+    Thieves: 8
+    Group Slug: 7
+    Lands Matter: 7
+    Infect: 7
+    Land Destruction: 7
+    Enchantments: 7
+    Group Hug: 6
+    Tron: 6
+    Morph: 6
+    Cycling: 6
+    -1/-1 Counters: 6
+    Zoo: 6
+    Aikido: 5
+    Modified: 5
+    Auras: 5
+    Pillowfort: 5
+    Formula X-1: 5
+    Devotion: 4
+    Birthing Pod / Pod: 4
+    Snow: 4
+    Mutate: 4
+    Dredge: 4
+    Maverick: 4
+    Blue Moon: 4
+    Miracles: 4
+    Delver: 4
+    Stoneblade: 4
+    Vorthos: 4
+    Modular: 3
+    Defender: 3
+~~~~~Boros (RW)~~~~~
+    Aggro: 642
+    Artifacts: 627
+    Equipment: 488
+    Voltron: 437
+    Combo: 362
+    Tokens: 217
+    Tribal: 211
+    Stax: 205
+    Spellslinger: 180
+    Extra Combats: 156
+    Burn: 137
+    Reanimator: 120
+    +1/+1 Counters: 115
+    Hatebears: 107
+    Midrange: 103
+    Auras: 75
+    Life Gain: 72
+    Control: 72
+    Battlecruiser: 61
+    Enchantments: 60
+    Vehicles: 60
+    Toolbox: 56
+    Goodstuff: 51
+    Blink / Flicker: 43
+    Aristocrats: 42
+    Storm: 36
+    Ramp: 34
+    Discard: 34
+    Flying: 32
+    Land Destruction: 32
+    Affinity: 30
+    Modified: 28
+    Extra Turns: 28
+    Group Slug: 28
+    Tempo: 28
+    Death & Taxes: 25
+    Modular: 25
+    Rock: 25
+    Historic: 25
+    Eggs: 23
+    Super Friends: 22
+    Stoneblade: 20
+    Clones: 19
+    Wheels: 19
+    Colorless: 18
+    Infect: 17
+    Pillowfort: 15
+    Tron: 14
+    Mill: 14
+    Thieves: 14
+    Cycling: 13
+    Lands Matter: 13
+    Vorthos: 13
+    Chaos: 12
+    Suicide: 12
+    Snow: 11
+    Zoo: 11
+    Aikido: 10
+    Devotion: 10
+    Turbo: 10
+    Formula X-1: 9
+    Group Hug: 8
+    Birthing Pod / Pod: 7
+    Farm: 6
+    Defender: 6
+    Morph: 5
+    -1/-1 Counters: 5
+    Dredge: 5
+    Delver: 5
+    Mutate: 4
+    Maverick: 4
+    Blue Moon: 4
+    Miracles: 4
+~~~~~Esper (WUB)~~~~~
+    Combo: 584
+    Control: 530
+    Artifacts: 441
+    Reanimator: 384
+    Enchantments: 323
+    Tokens: 282
+    Tribal: 272
+    Stax: 228
+    Midrange: 221
+    Blink / Flicker: 211
+    Life Gain: 192
+    Discard: 168
+    Flying: 165
+    +1/+1 Counters: 137
+    Aggro: 119
+    Aristocrats: 108
+    Pillowfort: 106
+    Extra Turns: 105
+    Goodstuff: 98
+    Hatebears: 93
+    Voltron: 86
+    Tempo: 78
+    Cycling: 69
+    Death & Taxes: 68
+    Farm: 63
+    Toolbox: 62
+    Mill: 62
+    Auras: 59
+    Equipment: 58
+    Wheels: 58
+    Thieves: 55
+    Battlecruiser: 49
+    Affinity: 48
+    Clones: 46
+    Super Friends: 41
+    Vehicles: 41
+    Group Slug: 32
+    Spellslinger: 29
+    Turbo: 28
+    Lands Matter: 28
+    Storm: 27
+    Group Hug: 24
+    Suicide: 24
+    Ramp: 23
+    Infect: 19
+    Historic: 19
+    Miracles: 18
+    Burn: 17
+    Land Destruction: 17
+    Rock: 16
+    Aikido: 15
+    Chaos: 14
+    Snow: 14
+    Colorless: 13
+    -1/-1 Counters: 13
+    Zoo: 13
+    Delver: 11
+    Formula X-1: 11
+    Eggs: 10
+    Modified: 9
+    Vorthos: 9
+    Morph: 8
+    Extra Combats: 8
+    Stoneblade: 8
+    Tron: 7
+    Devotion: 7
+    Dredge: 7
+    Maverick: 7
+    Birthing Pod / Pod: 6
+    Mutate: 6
+    Blue Moon: 6
+    Modular: 5
+    Defender: 5
+~~~~~Izzet (UR)~~~~~
+    Spellslinger: 844
+    Combo: 760
+    Storm: 531
+    Artifacts: 461
+    Control: 318
+    Tribal: 303
+    Tokens: 275
+    Burn: 221
+    Aggro: 187
+    Wheels: 181
+    Midrange: 147
+    Chaos: 141
+    Tempo: 96
+    Voltron: 92
+    Clones: 85
+    Extra Turns: 75
+    Discard: 66
+    Flying: 65
+    Goodstuff: 56
+    Ramp: 54
+    Affinity: 47
+    Battlecruiser: 44
+    Extra Combats: 41
+    Group Slug: 34
+    Equipment: 33
+    Blue Moon: 33
+    +1/+1 Counters: 32
+    Mill: 32
+    Stax: 31
+    Toolbox: 30
+    Historic: 29
+    Thieves: 28
+    Colorless: 24
+    Land Destruction: 20
+    Eggs: 19
+    Super Friends: 18
+    Rock: 18
+    Blink / Flicker: 16
+    Enchantments: 16
+    Lands Matter: 15
+    Turbo: 14
+    Farm: 14
+    Cycling: 13
+    Group Hug: 12
+    Suicide: 12
+    Delver: 11
+    Vorthos: 11
+    Aristocrats: 10
+    Formula X-1: 10
+    Aikido: 9
+    Miracles: 9
+    Modular: 9
+    Birthing Pod / Pod: 8
+    Morph: 8
+    Auras: 8
+    Snow: 8
+    Zoo: 8
+    Hatebears: 8
+    Life Gain: 8
+    Tron: 7
+    Mutate: 7
+    Pillowfort: 7
+    Reanimator: 7
+    Maverick: 7
+    Vehicles: 7
+    Devotion: 6
+    Death & Taxes: 6
+    Infect: 6
+    -1/-1 Counters: 5
+    Dredge: 5
+    Modified: 4
+    Stoneblade: 4
+    Defender: 4
+~~~~~Mono Blue~~~~~
+    Combo: 630
+    Control: 592
+    Artifacts: 414
+    Spellslinger: 283
+    Tribal: 277
+    Tokens: 211
+    Mill: 201
+    Clones: 160
+    Extra Turns: 127
+    Stax: 118
+    Storm: 110
+    Aggro: 105
+    Midrange: 101
+    Tempo: 100
+    Flying: 97
+    Voltron: 73
+    Ramp: 71
+    Blink / Flicker: 64
+    Battlecruiser: 56
+    Goodstuff: 56
+    Group Hug: 55
+    Affinity: 44
+    Toolbox: 40
+    Equipment: 38
+    Wheels: 38
+    Thieves: 37
+    Devotion: 36
+    Lands Matter: 36
+    Infect: 30
+    Enchantments: 28
+    Snow: 26
+    Discard: 24
+    +1/+1 Counters: 23
+    Colorless: 20
+    Pillowfort: 20
+    Reanimator: 19
+    Vehicles: 19
+    Chaos: 17
+    Auras: 16
+    Turbo: 16
+    Blue Moon: 16
+    Eggs: 15
+    Aristocrats: 15
+    Farm: 14
+    Rock: 14
+    Tron: 13
+    Miracles: 13
+    Historic: 13
+    Zoo: 12
+    Hatebears: 12
+    Super Friends: 12
+    Cycling: 11
+    Group Slug: 11
+    Defender: 11
+    Morph: 9
+    Modified: 9
+    Suicide: 8
+    Death & Taxes: 7
+    -1/-1 Counters: 7
+    Burn: 7
+    Life Gain: 7
+    Dredge: 7
+    Aikido: 6
+    Birthing Pod / Pod: 6
+    Extra Combats: 6
+    Land Destruction: 6
+    Mutate: 5
+    Maverick: 5
+    Delver: 5
+    Formula X-1: 5
+    Vorthos: 5
+    Stoneblade: 4
+    Modular: 2
+~~~~~Mono Red~~~~~
+    Aggro: 750
+    Combo: 601
+    Tribal: 563
+    Burn: 522
+    Tokens: 447
+    Artifacts: 395
+    Storm: 200
+    Spellslinger: 167
+    Extra Combats: 160
+    Voltron: 131
+    Group Slug: 128
+    Equipment: 114
+    Chaos: 100
+    Stax: 95
+    Midrange: 85
+    Ramp: 81
+    Reanimator: 79
+    Discard: 77
+    Wheels: 76
+    Clones: 73
+    Control: 70
+    Battlecruiser: 67
+    Toolbox: 64
+    Land Destruction: 54
+    Suicide: 41
+    +1/+1 Counters: 40
+    Goodstuff: 36
+    Lands Matter: 30
+    Tempo: 30
+    Super Friends: 30
+    Aristocrats: 30
+    Flying: 28
+    Enchantments: 25
+    Snow: 24
+    Thieves: 24
+    Blink / Flicker: 22
+    Turbo: 20
+    Vehicles: 20
+    Rock: 17
+    Mill: 16
+    Colorless: 15
+    Hatebears: 15
+    Group Hug: 14
+    Devotion: 14
+    Modified: 13
+    Farm: 13
+    Zoo: 12
+    Cycling: 11
+    Affinity: 11
+    Auras: 10
+    Pillowfort: 10
+    Tron: 9
+    Death & Taxes: 9
+    Historic: 9
+    Life Gain: 8
+    Aikido: 7
+    Extra Turns: 7
+    Infect: 7
+    Miracles: 7
+    Vorthos: 7
+    Eggs: 6
+    Dredge: 6
+    Formula X-1: 6
+    Morph: 5
+    Birthing Pod / Pod: 4
+    Delver: 4
+    Stoneblade: 4
+    -1/-1 Counters: 3
+    Mutate: 3
+    Maverick: 3
+    Blue Moon: 3
+    Modular: 3
+    Defender: 3

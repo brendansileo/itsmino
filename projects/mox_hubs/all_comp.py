@@ -6,9 +6,9 @@ import json
 sys.path.insert(0, '../api')
 import mtg_api
 
-#ran on 8/21/22
+#ran on 10/5/22
 
-comp_hub_url = 'https://api2.moxfield.com/v2/decks/search?pageNumber={page}&pageSize=1000&sortType=created&sortDirection=Ascending&fmt=commander&hubName=Competitive&board=mainboard'
+comp_hub_url = 'https://api2.moxfield.com/v2/decks/search?pageNumber={page}&pageSize=64&sortType=created&sortDirection=Ascending&fmt=commander&hubName=Competitive&board=mainboard'
 r = requests.get(comp_hub_url.format(page='1')).json()
 total_pages = r['totalPages']
 for i in range(total_pages):

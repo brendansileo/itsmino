@@ -1,4 +1,5 @@
 import re
+from word2number import w2n
 
 def add_mana(text):
     data = {'action': 'add mana', 'details': {}}
@@ -25,16 +26,47 @@ def mana(text):
 
 def remove_counters(text):
     data = {'action': 'remove counters', 'details': {}}
-    split_text = text.split()
-    data['details']['amount'] = w2n.word_to_num(split_text[1])
+    if 'up to' in text:
+        split_text = re.findall('(remove) (up to .*?) ((?:[A-Za-z0-9/+-]+ )?counters .*)', text)[0]
+        data['details']['amount'] = split_text[1]
+    else:
+        split_text = re.findall('(remove) (.*?) ([A-Za-z0-9/+-]+ counters .*)', text)[0]
+        if split_text[1] == 'all':
+            data['details']['amount'] = 'all'
+        elif split_text[1] == 'x':
+            data['details']['amount'] = 'x'
+        elif split_text[1] == 'twice x':
+            data['details']['amount'] = 'twice x'
+        elif split_text[1] == 'any number of':
+            data['details']['amount'] = 'any number'
+        elif split_text[1] == 'that many':
+            data['details']['amount'] = 'that many'
+        else:
+            data['details']['amount'] = w2n.word_to_num(split_text[1])
     data['details']['type'] = split_text[2]
     data['details']['from'] = re.findall('(?<=from) .*', text)[0].strip()
     return(data)
 
 def put_counters(text):
+    print(text)
     data = {'action': 'put counters', 'details': {}}
-    split_text = text.split()
-    data['details']['amount'] = w2n.word_to_num(split_text[1])
+    if 'up to' in text:
+        split_text = re.findall('(put|distribute) (up to .*?) ((?:[A-Za-z0-9/+-]+ )?counters .*)', text)[0]
+        data['details']['amount'] = split_text[1]
+    else:
+        split_text = re.findall('(put|distribute) (.*?) ([A-Za-z0-9/+-]+ counters .*)', text)[0]
+        if split_text[1] == 'all':
+            data['details']['amount'] = 'all'
+        elif split_text[1] == 'x':
+            data['details']['amount'] = 'x'
+        elif split_text[1] == 'twice x':
+            data['details']['amount'] = 'twice x'
+        elif split_text[1] == 'any number of':
+            data['details']['amount'] = 'any number'
+        elif split_text[1] == 'that many':
+            data['details']['amount'] = 'that many'
+        else:
+            data['details']['amount'] = w2n.word_to_num(split_text[1])
     data['details']['type'] = split_text[2]
     data['details']['on'] = re.findall('(?<=on) .*', text)[0].strip()
     return(data)
@@ -57,7 +89,7 @@ def gain_control(text):
         find = re.findall('(gain control of )(.*) for as long as you control ~', text)
         data['details']['duration'] = 'while ~ in play'
     else:
-        find = re.findall('(gain control of ) (.*)', text)
+        find = re.findall('(gain control of) (.*)', text)
         data['details']['duration'] = 'indefinite'
     data['details']['target'] = find[0][1]
     return data
@@ -69,9 +101,10 @@ def enters(text):
 
 def search(text):
     data = {'action': 'search', 'details': {}}
-    matches = re.findall('search your library for (.*card[s]?), put (it|that card|them) (.*), .*', text)
-    data['details']['target'] = matches[0][0]
-    data['details']['location'] = matches[0][2]
+    matches = re.findall('search your (.*?) for (.*card[s]?.*?)(?:, (?:reveal it, and )?put (it|that card|them) (.*))?', text)
+    data['details']['search'] = matches[0][0]
+    data['details']['target'] = matches[0][1]
+    data['details']['location'] = matches[0][3]
     return data
 
 def sacrifice(text):
@@ -103,7 +136,7 @@ def return_to_hand(text):
         matches = re.findall('return (.*) to .*', text)
         data['details']['target'] = matches[0]
     else:
-        matches = re.findall('return (.*) (?:from|in)? (.*?) to .*', text)
+        matches = re.findall('return (.*)(?: from| in)? (.*?) to .*', text)
         data['details']['target'] = matches[0][0]
         data['details']['in'] = matches[0][1]
     return data

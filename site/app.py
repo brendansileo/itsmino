@@ -3,8 +3,6 @@ import sys
 import json
 sys.path.insert(0, '../projects/api')
 import mtg_api
-sys.path.insert(0, '../projects/openinghand')
-import pick7
 
 app = Flask(__name__)
 
@@ -26,8 +24,3 @@ def decks():
 @app.route('/decks/<name>')
 def decks_name(name):
     return json.dumps(decks_data[name], indent=4)
-
-@app.route('/mulligans')
-def mulligans():
-    chosen_deck, hand = pick7.pick7()
-    return render_template('mulligans.html', chosen_deck=chosen_deck, hand=hand)

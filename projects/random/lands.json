@@ -1,0 +1,3026 @@
+{
+    "Abandoned Outpost": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Abandoned Outpost enters the battlefield tapped.\n{T}: Add {W}.\n{T}, Sacrifice Abandoned Outpost: Add one mana of any color."
+    },
+    "Adarkar Wastes": {
+        "produces": [
+            "C",
+            "U",
+            "W"
+        ],
+        "price": "$1.75",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you."
+    },
+    "Aether Hub": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.15",
+        "tapped": "no",
+        "oracle": "When Aether Hub enters the battlefield, you get {E} (an energy counter).\n{T}: Add {C}.\n{T}, Pay {E}: Add one mana of any color."
+    },
+    "Akoum Refuge": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.20",
+        "tapped": "yes",
+        "oracle": "Akoum Refuge enters the battlefield tapped.\nWhen Akoum Refuge enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R}."
+    },
+    "Ally Encampment": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.18",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell.\n{1}, {T}, Sacrifice Ally Encampment: Return target Ally you control to its owner's hand."
+    },
+    "Ancient Amphitheater": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$0.49",
+        "tapped": "yes",
+        "oracle": "As Ancient Amphitheater enters the battlefield, you may reveal a Giant card from your hand. If you don't, Ancient Amphitheater enters the battlefield tapped.\n{T}: Add {R} or {W}."
+    },
+    "Ancient Spring": {
+        "produces": [
+            "B",
+            "U",
+            "W"
+        ],
+        "price": "$0.13",
+        "tapped": "yes",
+        "oracle": "Ancient Spring enters the battlefield tapped.\n{T}: Add {U}.\n{T}, Sacrifice Ancient Spring: Add {W}{B}."
+    },
+    "Ancient Ziggurat": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$3.06",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any color. Spend this mana only to cast a creature spell."
+    },
+    "An-Havva Township": {
+        "produces": [
+            "C",
+            "G",
+            "R",
+            "W"
+        ],
+        "price": "$0.24",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add {G}.\n{2}, {T}: Add {R} or {W}."
+    },
+    "Arcane Sanctum": {
+        "produces": [
+            "B",
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Arcane Sanctum enters the battlefield tapped.\n{T}: Add {W}, {U}, or {B}."
+    },
+    "Archaeological Dig": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.24",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}, Sacrifice Archaeological Dig: Add one mana of any color."
+    },
+    "Archway Commons": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.10",
+        "tapped": "conditional",
+        "oracle": "Archway Commons enters the battlefield tapped.\nWhen Archway Commons enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color."
+    },
+    "Auntie's Hovel": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$21.85",
+        "tapped": "yes",
+        "oracle": "As Auntie's Hovel enters the battlefield, you may reveal a Goblin card from your hand. If you don't, Auntie's Hovel enters the battlefield tapped.\n{T}: Add {B} or {R}."
+    },
+    "Aysen Abbey": {
+        "produces": [
+            "C",
+            "G",
+            "U",
+            "W"
+        ],
+        "price": "$0.22",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add {W}.\n{2}, {T}: Add {G} or {U}."
+    },
+    "Azorius Chancery": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$0.14",
+        "tapped": "yes",
+        "oracle": "Azorius Chancery enters the battlefield tapped.\nWhen Azorius Chancery enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {W}{U}."
+    },
+    "Balduvian Trading Post": {
+        "produces": [
+            "C",
+            "R"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "If Balduvian Trading Post would enter the battlefield, sacrifice an untapped Mountain instead. If you do, put Balduvian Trading Post onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {C}{R}.\n{1}, {T}: Balduvian Trading Post deals 1 damage to target attacking creature."
+    },
+    "Base Camp": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.08",
+        "tapped": "yes",
+        "oracle": "Base Camp enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard."
+    },
+    "Battlefield Forge": {
+        "produces": [
+            "C",
+            "R",
+            "W"
+        ],
+        "price": "$0.59",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {R} or {W}. Battlefield Forge deals 1 damage to you."
+    },
+    "Blackcleave Cliffs": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$13.56",
+        "tapped": "conditional",
+        "oracle": "Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}."
+    },
+    "Bloodfell Caves": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.10",
+        "tapped": "yes",
+        "oracle": "Bloodfell Caves enters the battlefield tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R}."
+    },
+    "Blooming Marsh": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$7.88",
+        "tapped": "conditional",
+        "oracle": "Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {G}."
+    },
+    "Blossoming Sands": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.10",
+        "tapped": "yes",
+        "oracle": "Blossoming Sands enters the battlefield tapped.\nWhen Blossoming Sands enters the battlefield, you gain 1 life.\n{T}: Add {G} or {W}."
+    },
+    "Bog Wreckage": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.09",
+        "tapped": "yes",
+        "oracle": "Bog Wreckage enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Bog Wreckage: Add one mana of any color."
+    },
+    "Boros Garrison": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$0.26",
+        "tapped": "yes",
+        "oracle": "Boros Garrison enters the battlefield tapped.\nWhen Boros Garrison enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{W}."
+    },
+    "Botanical Plaza": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.05",
+        "tapped": "yes",
+        "oracle": "Botanical Plaza enters the battlefield tapped.\n{T}: Add {G} or {W}.\n{2}{G}{W}, {T}, Sacrifice Botanical Plaza: Draw a card."
+    },
+    "Botanical Sanctum": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$7.76",
+        "tapped": "conditional",
+        "oracle": "Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {G} or {U}."
+    },
+    "Bountiful Promenade": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$3.91",
+        "tapped": "conditional",
+        "oracle": "Bountiful Promenade enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
+    },
+    "Brushland": {
+        "produces": [
+            "C",
+            "G",
+            "W"
+        ],
+        "price": "$18.37",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {G} or {W}. Brushland deals 1 damage to you."
+    },
+    "Cabal Stronghold": {
+        "produces": [
+            "B",
+            "C"
+        ],
+        "price": "$3.84",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{3}, {T}: Add {B} for each basic Swamp you control."
+    },
+    "Calciform Pools": {
+        "produces": [
+            "C",
+            "U",
+            "W"
+        ],
+        "price": "$0.18",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Calciform Pools.\n{1}, Remove X storage counters from Calciform Pools: Add X mana in any combination of {W} and/or {U}."
+    },
+    "Caldera Lake": {
+        "produces": [
+            "C",
+            "R",
+            "U"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Caldera Lake enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add {U} or {R}. Caldera Lake deals 1 damage to you."
+    },
+    "Cascade Bluffs": {
+        "produces": [
+            "C",
+            "R",
+            "U"
+        ],
+        "price": "$4.28",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R}."
+    },
+    "Cascading Cataracts": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$1.68",
+        "tapped": "no",
+        "oracle": "Indestructible\n{T}: Add {C}.\n{5}, {T}: Add five mana in any combination of colors."
+    },
+    "Castle Sengir": {
+        "produces": [
+            "B",
+            "C",
+            "R",
+            "U"
+        ],
+        "price": "$0.25",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add {B}.\n{2}, {T}: Add {U} or {R}."
+    },
+    "Cave of Temptation": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.64",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{4}, {T}, Sacrifice Cave of Temptation: Put two +1/+1 counters on target creature. Activate only as a sorcery."
+    },
+    "Cavern of Souls": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$57.52",
+        "tapped": "no",
+        "oracle": "As Cavern of Souls enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+    },
+    "Caves of Koilos": {
+        "produces": [
+            "B",
+            "C",
+            "W"
+        ],
+        "price": "$0.44",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you."
+    },
+    "Celestial Colonnade": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$2.59",
+        "tapped": "yes",
+        "oracle": "Celestial Colonnade enters the battlefield tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land."
+    },
+    "Choked Estuary": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.96",
+        "tapped": "yes",
+        "oracle": "As Choked Estuary enters the battlefield, you may reveal an Island or Swamp card from your hand. If you don't, Choked Estuary enters the battlefield tapped.\n{T}: Add {U} or {B}."
+    },
+    "Cinder Barrens": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.14",
+        "tapped": "yes",
+        "oracle": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R}."
+    },
+    "Cinder Marsh": {
+        "produces": [
+            "B",
+            "C",
+            "R"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {B} or {R}. Cinder Marsh doesn't untap during your next untap step."
+    },
+    "City of Brass": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$11.70",
+        "tapped": "no",
+        "oracle": "Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+    },
+    "Clifftop Retreat": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$5.57",
+        "tapped": "conditional",
+        "oracle": "Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}."
+    },
+    "Cloudcrest Lake": {
+        "produces": [
+            "C",
+            "U",
+            "W"
+        ],
+        "price": "$0.22",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {W} or {U}. Cloudcrest Lake doesn't untap during your next untap step."
+    },
+    "Coastal Tower": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Coastal Tower enters the battlefield tapped.\n{T}: Add {W} or {U}."
+    },
+    "Command Tower": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    "Concealed Courtyard": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$2.21",
+        "tapped": "conditional",
+        "oracle": "Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {W} or {B}."
+    },
+    "Copperline Gorge": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$5.97",
+        "tapped": "conditional",
+        "oracle": "Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}."
+    },
+    "Coral Atoll": {
+        "produces": [
+            "C",
+            "U"
+        ],
+        "price": "$0.10",
+        "tapped": "conditional",
+        "oracle": "Coral Atoll enters the battlefield tapped.\nWhen Coral Atoll enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand.\n{T}: Add {C}{U}."
+    },
+    "Corrupted Crossroads": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.19",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}. ({C} represents colorless mana.)\n{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a spell with devoid."
+    },
+    "Creeping Tar Pit": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.26",
+        "tapped": "yes",
+        "oracle": "Creeping Tar Pit enters the battlefield tapped.\n{T}: Add {U} or {B}.\n{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can't be blocked this turn. It's still a land."
+    },
+    "Crucible of the Spirit Dragon": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.21",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Crucible of the Spirit Dragon.\n{T}, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors. Spend this mana only to cast Dragon spells or activate abilities of Dragons."
+    },
+    "Crumbling Necropolis": {
+        "produces": [
+            "B",
+            "R",
+            "U"
+        ],
+        "price": "$0.80",
+        "tapped": "yes",
+        "oracle": "Crumbling Necropolis enters the battlefield tapped.\n{T}: Add {U}, {B}, or {R}."
+    },
+    "Crumbling Vestige": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.20",
+        "tapped": "yes",
+        "oracle": "Crumbling Vestige enters the battlefield tapped.\nWhen Crumbling Vestige enters the battlefield, add one mana of any color.\n{T}: Add {C}. ({C} represents colorless mana.)"
+    },
+    "Cryptic Spires": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.13",
+        "tapped": "yes",
+        "oracle": "As you create your deck, circle two of the colors below.\nCryptic Spires enters the battlefield tapped.\n{T}: Add one mana of either of the circled colors."
+    },
+    "Crypt of the Eternals": {
+        "produces": [
+            "B",
+            "C",
+            "R",
+            "U"
+        ],
+        "price": "$0.13",
+        "tapped": "no",
+        "oracle": "When Crypt of the Eternals enters the battlefield, you gain 1 life.\n{T}: Add {C}.\n{1}, {T}: Add {U}, {B}, or {R}."
+    },
+    "Crystal Grotto": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.11",
+        "tapped": "no",
+        "oracle": "When Crystal Grotto enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+    },
+    "Crystal Quarry": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$2.11",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{5}, {T}: Add {W}{U}{B}{R}{G}."
+    },
+    "Darkslick Shores": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$10.06",
+        "tapped": "conditional",
+        "oracle": "Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B}."
+    },
+    "Darkwater Catacombs": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.83",
+        "tapped": "no",
+        "oracle": "{1}, {T}: Add {U}{B}."
+    },
+    "Deathcap Glade": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$6.27",
+        "tapped": "conditional",
+        "oracle": "Deathcap Glade enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {B} or {G}."
+    },
+    "Deserted Beach": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$7.83",
+        "tapped": "conditional",
+        "oracle": "Deserted Beach enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {W} or {U}."
+    },
+    "Dimir Aqueduct": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.23",
+        "tapped": "yes",
+        "oracle": "Dimir Aqueduct enters the battlefield tapped.\nWhen Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {U}{B}."
+    },
+    "Dismal Backwater": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$1.00",
+        "tapped": "yes",
+        "oracle": "Dismal Backwater enters the battlefield tapped.\nWhen Dismal Backwater enters the battlefield, you gain 1 life.\n{T}: Add {U} or {B}."
+    },
+    "Dormant Volcano": {
+        "produces": [
+            "C",
+            "R"
+        ],
+        "price": "$0.39",
+        "tapped": "conditional",
+        "oracle": "Dormant Volcano enters the battlefield tapped.\nWhen Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand.\n{T}: Add {C}{R}."
+    },
+    "Dragonskull Summit": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$2.00",
+        "tapped": "conditional",
+        "oracle": "Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
+    },
+    "Dreadship Reef": {
+        "produces": [
+            "B",
+            "C",
+            "U"
+        ],
+        "price": "$0.25",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Dreadship Reef.\n{1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B}."
+    },
+    "Dreamroot Cascade": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$5.71",
+        "tapped": "conditional",
+        "oracle": "Dreamroot Cascade enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {G} or {U}."
+    },
+    "Drowned Catacomb": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$5.63",
+        "tapped": "conditional",
+        "oracle": "Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}."
+    },
+    "Elfhame Palace": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.25",
+        "tapped": "yes",
+        "oracle": "Elfhame Palace enters the battlefield tapped.\n{T}: Add {G} or {W}."
+    },
+    "Everglades": {
+        "produces": [
+            "B",
+            "C"
+        ],
+        "price": "$0.65",
+        "tapped": "conditional",
+        "oracle": "Everglades enters the battlefield tapped.\nWhen Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.\n{T}: Add {C}{B}."
+    },
+    "Exotic Orchard": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$1.25",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    "Fetid Heath": {
+        "produces": [
+            "B",
+            "C",
+            "W"
+        ],
+        "price": "$2.66",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}."
+    },
+    "Fiery Islet": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$11.26",
+        "tapped": "no",
+        "oracle": "{T}, Pay 1 life: Add {U} or {R}.\n{1}, {T}, Sacrifice Fiery Islet: Draw a card."
+    },
+    "Fire-Lit Thicket": {
+        "produces": [
+            "C",
+            "G",
+            "R"
+        ],
+        "price": "$9.88",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
+    },
+    "Flooded Grove": {
+        "produces": [
+            "C",
+            "G",
+            "U"
+        ],
+        "price": "$3.81",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}."
+    },
+    "Forbidden Orchard": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$4.17",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any color.\nWhenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token."
+    },
+    "Foreboding Ruins": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.72",
+        "tapped": "yes",
+        "oracle": "As Foreboding Ruins enters the battlefield, you may reveal a Swamp or Mountain card from your hand. If you don't, Foreboding Ruins enters the battlefield tapped.\n{T}: Add {B} or {R}."
+    },
+    "Forsaken City": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$3.93",
+        "tapped": "no",
+        "oracle": "Forsaken City doesn't untap during your untap step.\nAt the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.\n{T}: Add one mana of any color."
+    },
+    "Forsaken Sanctuary": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$0.15",
+        "tapped": "yes",
+        "oracle": "Forsaken Sanctuary enters the battlefield tapped.\n{T}: Add {W} or {B}."
+    },
+    "Fortified Village": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.24",
+        "tapped": "yes",
+        "oracle": "As Fortified Village enters the battlefield, you may reveal a Forest or Plains card from your hand. If you don't, Fortified Village enters the battlefield tapped.\n{T}: Add {G} or {W}."
+    },
+    "Foul Orchard": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Foul Orchard enters the battlefield tapped.\n{T}: Add {B} or {G}."
+    },
+    "Frontier Bivouac": {
+        "produces": [
+            "G",
+            "R",
+            "U"
+        ],
+        "price": "$0.66",
+        "tapped": "yes",
+        "oracle": "Frontier Bivouac enters the battlefield tapped.\n{T}: Add {G}, {U}, or {R}."
+    },
+    "Frostboil Snarl": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$3.31",
+        "tapped": "yes",
+        "oracle": "As Frostboil Snarl enters the battlefield, you may reveal an Island or Mountain card from your hand. If you don't, Frostboil Snarl enters the battlefield tapped.\n{T}: Add {U} or {R}."
+    },
+    "Fungal Reaches": {
+        "produces": [
+            "C",
+            "G",
+            "R"
+        ],
+        "price": "$0.11",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Fungal Reaches.\n{1}, Remove X storage counters from Fungal Reaches: Add X mana in any combination of {R} and/or {G}."
+    },
+    "Furycalm Snarl": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$1.47",
+        "tapped": "yes",
+        "oracle": "As Furycalm Snarl enters the battlefield, you may reveal a Mountain or Plains card from your hand. If you don't, Furycalm Snarl enters the battlefield tapped.\n{T}: Add {R} or {W}."
+    },
+    "Game Trail": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.83",
+        "tapped": "yes",
+        "oracle": "As Game Trail enters the battlefield, you may reveal a Mountain or Forest card from your hand. If you don't, Game Trail enters the battlefield tapped.\n{T}: Add {R} or {G}."
+    },
+    "Gemstone Mine": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$6.40",
+        "tapped": "no",
+        "oracle": "Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it."
+    },
+    "Geothermal Crevice": {
+        "produces": [
+            "B",
+            "G",
+            "R"
+        ],
+        "price": "$0.16",
+        "tapped": "yes",
+        "oracle": "Geothermal Crevice enters the battlefield tapped.\n{T}: Add {R}.\n{T}, Sacrifice Geothermal Crevice: Add {B}{G}."
+    },
+    "Gilt-Leaf Palace": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$5.18",
+        "tapped": "yes",
+        "oracle": "As Gilt-Leaf Palace enters the battlefield, you may reveal an Elf card from your hand. If you don't, Gilt-Leaf Palace enters the battlefield tapped.\n{T}: Add {B} or {G}."
+    },
+    "Glacial Fortress": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$3.78",
+        "tapped": "conditional",
+        "oracle": "Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."
+    },
+    "Glimmervoid": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$3.84",
+        "tapped": "no",
+        "oracle": "At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.\n{T}: Add one mana of any color."
+    },
+    "Golgari Rot Farm": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$0.22",
+        "tapped": "yes",
+        "oracle": "Golgari Rot Farm enters the battlefield tapped.\nWhen Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {B}{G}."
+    },
+    "Grand Coliseum": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$3.03",
+        "tapped": "yes",
+        "oracle": "Grand Coliseum enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add one mana of any color. Grand Coliseum deals 1 damage to you."
+    },
+    "Graven Cairns": {
+        "produces": [
+            "B",
+            "C",
+            "R"
+        ],
+        "price": "$8.13",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
+    },
+    "Graypelt Refuge": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.16",
+        "tapped": "yes",
+        "oracle": "Graypelt Refuge enters the battlefield tapped.\nWhen Graypelt Refuge enters the battlefield, you gain 1 life.\n{T}: Add {G} or {W}."
+    },
+    "Grove of the Burnwillows": {
+        "produces": [
+            "C",
+            "G",
+            "R"
+        ],
+        "price": "$6.21",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {R} or {G}. Each opponent gains 1 life."
+    },
+    "Gruul Turf": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.18",
+        "tapped": "yes",
+        "oracle": "Gruul Turf enters the battlefield tapped.\nWhen Gruul Turf enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {R}{G}."
+    },
+    "Guildmages' Forum": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.36",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color. If that mana is spent on a multicolored creature spell, that creature enters the battlefield with an additional +1/+1 counter on it."
+    },
+    "Hall of Oracles": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.22",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{T}: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn."
+    },
+    "Haunted Ridge": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$14.18",
+        "tapped": "conditional",
+        "oracle": "Haunted Ridge enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
+    },
+    "Haven of the Spirit Dragon": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$2.27",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Dragon creature spell.\n{2}, {T}, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand."
+    },
+    "Henge of Ramos": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.27",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{2}, {T}: Add one mana of any color."
+    },
+    "Highland Lake": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Highland Lake enters the battlefield tapped.\n{T}: Add {U} or {R}."
+    },
+    "Hinterland Harbor": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$5.88",
+        "tapped": "conditional",
+        "oracle": "Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.\n{T}: Add {G} or {U}."
+    },
+    "Hissing Quagmire": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$0.77",
+        "tapped": "yes",
+        "oracle": "Hissing Quagmire enters the battlefield tapped.\n{T}: Add {B} or {G}.\n{1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land."
+    },
+    "Holdout Settlement": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.23",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}. ({C} represents colorless mana.)\n{T}, Tap an untapped creature you control: Add one mana of any color."
+    },
+    "Horizon Canopy": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$14.34",
+        "tapped": "no",
+        "oracle": "{T}, Pay 1 life: Add {G} or {W}.\n{1}, {T}, Sacrifice Horizon Canopy: Draw a card."
+    },
+    "Inspiring Vantage": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$7.98",
+        "tapped": "conditional",
+        "oracle": "Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {W}."
+    },
+    "Interplanar Beacon": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.09",
+        "tapped": "no",
+        "oracle": "Whenever you cast a planeswalker spell, you gain 1 life.\n{T}: Add {C}.\n{1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells."
+    },
+    "Irrigation Ditch": {
+        "produces": [
+            "G",
+            "U",
+            "W"
+        ],
+        "price": "$0.18",
+        "tapped": "yes",
+        "oracle": "Irrigation Ditch enters the battlefield tapped.\n{T}: Add {W}.\n{T}, Sacrifice Irrigation Ditch: Add {G}{U}."
+    },
+    "Isolated Chapel": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$5.45",
+        "tapped": "conditional",
+        "oracle": "Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}."
+    },
+    "Izzet Boilerworks": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$0.21",
+        "tapped": "yes",
+        "oracle": "Izzet Boilerworks enters the battlefield tapped.\nWhen Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {U}{R}."
+    },
+    "Jungle Basin": {
+        "produces": [
+            "C",
+            "G"
+        ],
+        "price": "$0.12",
+        "tapped": "conditional",
+        "oracle": "Jungle Basin enters the battlefield tapped.\nWhen Jungle Basin enters the battlefield, sacrifice it unless you return an untapped Forest you control to its owner's hand.\n{T}: Add {C}{G}."
+    },
+    "Jungle Hollow": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$0.09",
+        "tapped": "yes",
+        "oracle": "Jungle Hollow enters the battlefield tapped.\nWhen Jungle Hollow enters the battlefield, you gain 1 life.\n{T}: Add {B} or {G}."
+    },
+    "Jungle Shrine": {
+        "produces": [
+            "G",
+            "R",
+            "W"
+        ],
+        "price": "$0.29",
+        "tapped": "yes",
+        "oracle": "Jungle Shrine enters the battlefield tapped.\n{T}: Add {R}, {G}, or {W}."
+    },
+    "Jwar Isle Refuge": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.25",
+        "tapped": "yes",
+        "oracle": "Jwar Isle Refuge enters the battlefield tapped.\nWhen Jwar Isle Refuge enters the battlefield, you gain 1 life.\n{T}: Add {U} or {B}."
+    },
+    "Karoo": {
+        "produces": [
+            "C",
+            "W"
+        ],
+        "price": "$0.42",
+        "tapped": "conditional",
+        "oracle": "Karoo enters the battlefield tapped.\nWhen Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.\n{T}: Add {C}{W}."
+    },
+    "Karplusan Forest": {
+        "produces": [
+            "C",
+            "G",
+            "R"
+        ],
+        "price": "$1.32",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you."
+    },
+    "Kazandu Refuge": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.15",
+        "tapped": "yes",
+        "oracle": "Kazandu Refuge enters the battlefield tapped.\nWhen Kazandu Refuge enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G}."
+    },
+    "Koskun Keep": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R"
+        ],
+        "price": "$0.16",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add {R}.\n{2}, {T}: Add {B} or {G}."
+    },
+    "Land Cap": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$2.02",
+        "tapped": "no",
+        "oracle": "Land Cap doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Land Cap.\n{T}: Add {W} or {U}. Put a depletion counter on Land Cap."
+    },
+    "Lantern-Lit Graveyard": {
+        "produces": [
+            "B",
+            "C",
+            "R"
+        ],
+        "price": "$0.23",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {B} or {R}. Lantern-Lit Graveyard doesn't untap during your next untap step."
+    },
+    "Lavaclaw Reaches": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$1.83",
+        "tapped": "yes",
+        "oracle": "Lavaclaw Reaches enters the battlefield tapped.\n{T}: Add {B} or {R}.\n{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with \"{X}: This creature gets +X/+0 until end of turn.\" It's still a land."
+    },
+    "Lava Tubes": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$2.23",
+        "tapped": "no",
+        "oracle": "Lava Tubes doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Lava Tubes.\n{T}: Add {B} or {R}. Put a depletion counter on Lava Tubes."
+    },
+    "Llanowar Wastes": {
+        "produces": [
+            "B",
+            "C",
+            "G"
+        ],
+        "price": "$1.21",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you."
+    },
+    "Lorehold Campus": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$0.09",
+        "tapped": "yes",
+        "oracle": "Lorehold Campus enters the battlefield tapped.\n{T}: Add {R} or {W}.\n{4}, {T}: Scry 1."
+    },
+    "Lotus Field": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$3.18",
+        "tapped": "yes",
+        "oracle": "Hexproof\nLotus Field enters the battlefield tapped.\nWhen Lotus Field enters the battlefield, sacrifice two lands.\n{T}: Add three mana of any one color."
+    },
+    "Lotus Vale": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$45.21",
+        "tapped": "no",
+        "oracle": "If Lotus Vale would enter the battlefield, sacrifice two untapped lands instead. If you do, put Lotus Vale onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add three mana of any one color."
+    },
+    "Lumbering Falls": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$0.23",
+        "tapped": "yes",
+        "oracle": "Lumbering Falls enters the battlefield tapped.\n{T}: Add {G} or {U}.\n{2}{G}{U}: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land."
+    },
+    "Luxury Suite": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$5.09",
+        "tapped": "conditional",
+        "oracle": "Luxury Suite enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {B} or {R}."
+    },
+    "Mana Confluence": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$25.58",
+        "tapped": "no",
+        "oracle": "{T}, Pay 1 life: Add one mana of any color."
+    },
+    "Meandering River": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$0.08",
+        "tapped": "yes",
+        "oracle": "Meandering River enters the battlefield tapped.\n{T}: Add {W} or {U}."
+    },
+    "Mech Hangar": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.15",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Pilot or Vehicle spell.\n{3}, {T}: Target Vehicle becomes an artifact creature until end of turn."
+    },
+    "Meteor Crater": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$7.17",
+        "tapped": "no",
+        "oracle": "{T}: Choose a color of a permanent you control. Add one mana of that color."
+    },
+    "Mirrodin's Core": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.23",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Put a charge counter on Mirrodin's Core.\n{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color."
+    },
+    "Mogg Hollows": {
+        "produces": [
+            "C",
+            "G",
+            "R"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {R} or {G}. Mogg Hollows doesn't untap during your next untap step."
+    },
+    "Molten Slagheap": {
+        "produces": [
+            "B",
+            "C",
+            "R"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Molten Slagheap.\n{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R}."
+    },
+    "Morphic Pool": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$7.45",
+        "tapped": "conditional",
+        "oracle": "Morphic Pool enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {U} or {B}."
+    },
+    "Mossfire Valley": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.19",
+        "tapped": "no",
+        "oracle": "{1}, {T}: Add {R}{G}."
+    },
+    "Mystic Gate": {
+        "produces": [
+            "C",
+            "U",
+            "W"
+        ],
+        "price": "$20.63",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}."
+    },
+    "Mystic Monastery": {
+        "produces": [
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.26",
+        "tapped": "yes",
+        "oracle": "Mystic Monastery enters the battlefield tapped.\n{T}: Add {U}, {R}, or {W}."
+    },
+    "Necroblossom Snarl": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$1.87",
+        "tapped": "yes",
+        "oracle": "As Necroblossom Snarl enters the battlefield, you may reveal a Swamp or Forest card from your hand. If you don't, Necroblossom Snarl enters the battlefield tapped.\n{T}: Add {B} or {G}."
+    },
+    "Needle Spires": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$0.24",
+        "tapped": "yes",
+        "oracle": "Needle Spires enters the battlefield tapped.\n{T}: Add {R} or {W}.\n{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land."
+    },
+    "Nimbus Maze": {
+        "produces": [
+            "C",
+            "U",
+            "W"
+        ],
+        "price": "$1.72",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {W}. Activate only if you control an Island.\n{T}: Add {U}. Activate only if you control a Plains."
+    },
+    "Nomad Outpost": {
+        "produces": [
+            "B",
+            "R",
+            "W"
+        ],
+        "price": "$0.20",
+        "tapped": "yes",
+        "oracle": "Nomad Outpost enters the battlefield tapped.\n{T}: Add {R}, {W}, or {B}."
+    },
+    "Nurturing Peatland": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$6.83",
+        "tapped": "no",
+        "oracle": "{T}, Pay 1 life: Add {B} or {G}.\n{1}, {T}, Sacrifice Nurturing Peatland: Draw a card."
+    },
+    "Opal Palace": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.59",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color in your commander's color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of additional +1/+1 counters on it equal to the number of times it's been cast from the command zone this game."
+    },
+    "Opulent Palace": {
+        "produces": [
+            "B",
+            "G",
+            "U"
+        ],
+        "price": "$0.32",
+        "tapped": "yes",
+        "oracle": "Opulent Palace enters the battlefield tapped.\n{T}: Add {B}, {G}, or {U}."
+    },
+    "Orzhov Basilica": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$0.14",
+        "tapped": "yes",
+        "oracle": "Orzhov Basilica enters the battlefield tapped.\nWhen Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {W}{B}."
+    },
+    "Overgrown Farmland": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$4.94",
+        "tapped": "conditional",
+        "oracle": "Overgrown Farmland enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {G} or {W}."
+    },
+    "Path of Ancestry": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.99",
+        "tapped": "yes",
+        "oracle": "Path of Ancestry enters the battlefield tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+    },
+    "Pillar of the Paruns": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$1.29",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any color. Spend this mana only to cast a multicolored spell."
+    },
+    "Pine Barrens": {
+        "produces": [
+            "B",
+            "C",
+            "G"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Pine Barrens enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add {B} or {G}. Pine Barrens deals 1 damage to you."
+    },
+    "Pinecrest Ridge": {
+        "produces": [
+            "C",
+            "G",
+            "R"
+        ],
+        "price": "$0.22",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {R} or {G}. Pinecrest Ridge doesn't untap during your next untap step."
+    },
+    "Plaza of Harmony": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$1.18",
+        "tapped": "no",
+        "oracle": "When Plaza of Harmony enters the battlefield, if you control two or more Gates, you gain 3 life.\n{T}: Add {C}.\n{T}: Add one mana of any type that a Gate you control could produce."
+    },
+    "Plaza of Heroes": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$8.17",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell.\n{T}: Add one mana of any color among legendary permanents you control.\n{3}, {T}, Exile Plaza of Heroes: Target legendary creature gains hexproof and indestructible until end of turn."
+    },
+    "Port Town": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "As Port Town enters the battlefield, you may reveal a Plains or Island card from your hand. If you don't, Port Town enters the battlefield tapped.\n{T}: Add {W} or {U}."
+    },
+    "Primal Beyond": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$5.01",
+        "tapped": "yes",
+        "oracle": "As Primal Beyond enters the battlefield, you may reveal an Elemental card from your hand. If you don't, Primal Beyond enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Elemental spell or activate an ability of an Elemental."
+    },
+    "Prismari Campus": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$0.10",
+        "tapped": "yes",
+        "oracle": "Prismari Campus enters the battlefield tapped.\n{T}: Add {U} or {R}.\n{4}, {T}: Scry 1."
+    },
+    "Quandrix Campus": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$0.10",
+        "tapped": "yes",
+        "oracle": "Quandrix Campus enters the battlefield tapped.\n{T}: Add {G} or {U}.\n{4}, {T}: Scry 1."
+    },
+    "Racers' Ring": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.07",
+        "tapped": "yes",
+        "oracle": "Racers' Ring enters the battlefield tapped.\n{T}: Add {R} or {G}.\n{2}{R}{G}, {T}, Sacrifice Racers' Ring: Draw a card."
+    },
+    "Raging Ravine": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.15",
+        "tapped": "yes",
+        "oracle": "Raging Ravine enters the battlefield tapped.\n{T}: Add {R} or {G}.\n{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with \"Whenever this creature attacks, put a +1/+1 counter on it.\" It's still a land."
+    },
+    "Rainbow Vale": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any color. An opponent gains control of Rainbow Vale at the beginning of the next end step."
+    },
+    "Rakdos Carnarium": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.21",
+        "tapped": "yes",
+        "oracle": "Rakdos Carnarium enters the battlefield tapped.\nWhen Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {B}{R}."
+    },
+    "Ravaged Highlands": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.12",
+        "tapped": "yes",
+        "oracle": "Ravaged Highlands enters the battlefield tapped.\n{T}: Add {R}.\n{T}, Sacrifice Ravaged Highlands: Add one mana of any color."
+    },
+    "Razorverge Thicket": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$4.28",
+        "tapped": "conditional",
+        "oracle": "Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}."
+    },
+    "Reflecting Pool": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$6.63",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any type that a land you control could produce."
+    },
+    "Rejuvenating Springs": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$8.37",
+        "tapped": "conditional",
+        "oracle": "Rejuvenating Springs enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {G} or {U}."
+    },
+    "Rhystic Cave": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.24",
+        "tapped": "no",
+        "oracle": "{T}: Choose a color. Add one mana of that color unless any player pays {1}. Activate only as an instant."
+    },
+    "Riftstone Portal": {
+        "produces": [
+            "C",
+            "G",
+            "W"
+        ],
+        "price": "$1.24",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\nAs long as Riftstone Portal is in your graveyard, lands you control have \"{T}: Add {G} or {W}.\""
+    },
+    "River Delta": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$2.32",
+        "tapped": "no",
+        "oracle": "River Delta doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from River Delta.\n{T}: Add {U} or {B}. Put a depletion counter on River Delta."
+    },
+    "Rockfall Vale": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$1.63",
+        "tapped": "conditional",
+        "oracle": "Rockfall Vale enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {R} or {G}."
+    },
+    "Rootbound Crag": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$4.16",
+        "tapped": "conditional",
+        "oracle": "Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
+    },
+    "Rootwater Depths": {
+        "produces": [
+            "B",
+            "C",
+            "U"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {U} or {B}. Rootwater Depths doesn't untap during your next untap step."
+    },
+    "Rugged Highlands": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.39",
+        "tapped": "yes",
+        "oracle": "Rugged Highlands enters the battlefield tapped.\nWhen Rugged Highlands enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G}."
+    },
+    "Rugged Prairie": {
+        "produces": [
+            "C",
+            "R",
+            "W"
+        ],
+        "price": "$2.54",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}."
+    },
+    "Rupture Spire": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.03",
+        "tapped": "conditional",
+        "oracle": "Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color."
+    },
+    "Saltcrusted Steppe": {
+        "produces": [
+            "C",
+            "G",
+            "W"
+        ],
+        "price": "$0.13",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Saltcrusted Steppe.\n{1}, Remove X storage counters from Saltcrusted Steppe: Add X mana in any combination of {G} and/or {W}."
+    },
+    "Salt Flats": {
+        "produces": [
+            "B",
+            "C",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Salt Flats enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add {W} or {B}. Salt Flats deals 1 damage to you."
+    },
+    "Salt Marsh": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.22",
+        "tapped": "yes",
+        "oracle": "Salt Marsh enters the battlefield tapped.\n{T}: Add {U} or {B}."
+    },
+    "Sandsteppe Citadel": {
+        "produces": [
+            "B",
+            "G",
+            "W"
+        ],
+        "price": "$0.26",
+        "tapped": "yes",
+        "oracle": "Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G}."
+    },
+    "Savage Lands": {
+        "produces": [
+            "B",
+            "G",
+            "R"
+        ],
+        "price": "$0.38",
+        "tapped": "yes",
+        "oracle": "Savage Lands enters the battlefield tapped.\n{T}: Add {B}, {R}, or {G}."
+    },
+    "Scabland": {
+        "produces": [
+            "C",
+            "R",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Scabland enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add {R} or {W}. Scabland deals 1 damage to you."
+    },
+    "School of the Unseen": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.21",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{2}, {T}: Add one mana of any color."
+    },
+    "Scoured Barrens": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Scoured Barrens enters the battlefield tapped.\nWhen Scoured Barrens enters the battlefield, you gain 1 life.\n{T}: Add {W} or {B}."
+    },
+    "Seachrome Coast": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$20.24",
+        "tapped": "conditional",
+        "oracle": "Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}."
+    },
+    "Seafloor Debris": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.13",
+        "tapped": "yes",
+        "oracle": "Seafloor Debris enters the battlefield tapped.\n{T}: Add {U}.\n{T}, Sacrifice Seafloor Debris: Add one mana of any color."
+    },
+    "Sea of Clouds": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$4.99",
+        "tapped": "conditional",
+        "oracle": "Sea of Clouds enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
+    },
+    "Seaside Citadel": {
+        "produces": [
+            "G",
+            "U",
+            "W"
+        ],
+        "price": "$0.31",
+        "tapped": "yes",
+        "oracle": "Seaside Citadel enters the battlefield tapped.\n{T}: Add {G}, {W}, or {U}."
+    },
+    "Secluded Courtyard": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$2.83",
+        "tapped": "no",
+        "oracle": "As Secluded Courtyard enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature or creature card of the chosen type."
+    },
+    "Secluded Glen": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$5.79",
+        "tapped": "yes",
+        "oracle": "As Secluded Glen enters the battlefield, you may reveal a Faerie card from your hand. If you don't, Secluded Glen enters the battlefield tapped.\n{T}: Add {U} or {B}."
+    },
+    "Sejiri Refuge": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$0.21",
+        "tapped": "yes",
+        "oracle": "Sejiri Refuge enters the battlefield tapped.\nWhen Sejiri Refuge enters the battlefield, you gain 1 life.\n{T}: Add {W} or {U}."
+    },
+    "Selesnya Sanctuary": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.23",
+        "tapped": "yes",
+        "oracle": "Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{W}."
+    },
+    "Shadowblood Ridge": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.27",
+        "tapped": "no",
+        "oracle": "{1}, {T}: Add {B}{R}."
+    },
+    "Shambling Vent": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$0.14",
+        "tapped": "yes",
+        "oracle": "Shambling Vent enters the battlefield tapped.\n{T}: Add {W} or {B}.\n{1}{W}{B}: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land."
+    },
+    "Shattered Sanctum": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$7.73",
+        "tapped": "conditional",
+        "oracle": "Shattered Sanctum enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {W} or {B}."
+    },
+    "Shimmering Grotto": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.09",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+    },
+    "Shineshadow Snarl": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$1.60",
+        "tapped": "yes",
+        "oracle": "As Shineshadow Snarl enters the battlefield, you may reveal a Plains or Swamp card from your hand. If you don't, Shineshadow Snarl enters the battlefield tapped.\n{T}: Add {W} or {B}."
+    },
+    "Shipwreck Marsh": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$3.20",
+        "tapped": "conditional",
+        "oracle": "Shipwreck Marsh enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {U} or {B}."
+    },
+    "Shivan Oasis": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.25",
+        "tapped": "yes",
+        "oracle": "Shivan Oasis enters the battlefield tapped.\n{T}: Add {R} or {G}."
+    },
+    "Shivan Reef": {
+        "produces": [
+            "C",
+            "R",
+            "U"
+        ],
+        "price": "$0.89",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you."
+    },
+    "Silent Clearing": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$6.95",
+        "tapped": "no",
+        "oracle": "{T}, Pay 1 life: Add {W} or {B}.\n{1}, {T}, Sacrifice Silent Clearing: Draw a card."
+    },
+    "Silverquill Campus": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$0.09",
+        "tapped": "yes",
+        "oracle": "Silverquill Campus enters the battlefield tapped.\n{T}: Add {W} or {B}.\n{4}, {T}: Scry 1."
+    },
+    "Simic Growth Chamber": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$0.21",
+        "tapped": "yes",
+        "oracle": "Simic Growth Chamber enters the battlefield tapped.\nWhen Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{U}."
+    },
+    "Skybridge Towers": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$0.05",
+        "tapped": "yes",
+        "oracle": "Skybridge Towers enters the battlefield tapped.\n{T}: Add {W} or {U}.\n{2}{W}{U}, {T}, Sacrifice Skybridge Towers: Draw a card."
+    },
+    "Skycloud Expanse": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{1}, {T}: Add {W}{U}."
+    },
+    "Skyshroud Forest": {
+        "produces": [
+            "C",
+            "G",
+            "U"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Skyshroud Forest enters the battlefield tapped.\n{T}: Add {C}.\n{T}: Add {G} or {U}. Skyshroud Forest deals 1 damage to you."
+    },
+    "Sliver Hive": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$13.97",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Sliver spell.\n{5}, {T}: Create a 1/1 colorless Sliver creature token. Activate only if you control a Sliver."
+    },
+    "Soldevi Excavations": {
+        "produces": [
+            "C",
+            "U"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {C}{U}.\n{1}, {T}: Scry 1."
+    },
+    "Spectator Seating": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$7.06",
+        "tapped": "conditional",
+        "oracle": "Spectator Seating enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
+    },
+    "Spirebluff Canal": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$17.91",
+        "tapped": "conditional",
+        "oracle": "Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {U} or {R}."
+    },
+    "Spire Garden": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$4.07",
+        "tapped": "conditional",
+        "oracle": "Spire Garden enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {R} or {G}."
+    },
+    "Spire of Industry": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$1.40",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact."
+    },
+    "Springjack Pasture": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$1.07",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{4}, {T}: Create a 0/1 white Goat creature token.\n{T}, Sacrifice X Goats: Add X mana of any one color. You gain X life."
+    },
+    "Stirring Wildwood": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.63",
+        "tapped": "yes",
+        "oracle": "Stirring Wildwood enters the battlefield tapped.\n{T}: Add {G} or {W}.\n{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land."
+    },
+    "Stone Quarry": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$0.07",
+        "tapped": "yes",
+        "oracle": "Stone Quarry enters the battlefield tapped.\n{T}: Add {R} or {W}."
+    },
+    "Stormcarved Coast": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$12.21",
+        "tapped": "conditional",
+        "oracle": "Stormcarved Coast enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {U} or {R}."
+    },
+    "Study Hall": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.13",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color. When you spend this mana to cast your commander, scry X, where X is the number of times it's been cast from the command zone this game."
+    },
+    "Submerged Boneyard": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.13",
+        "tapped": "yes",
+        "oracle": "Submerged Boneyard enters the battlefield tapped.\n{T}: Add {U} or {B}."
+    },
+    "Sulfur Falls": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$None",
+        "tapped": "conditional",
+        "oracle": "Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.\n{T}: Add {U} or {R}."
+    },
+    "Sulfurous Springs": {
+        "produces": [
+            "B",
+            "C",
+            "R"
+        ],
+        "price": "$1.91",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you."
+    },
+    "Sulfur Vent": {
+        "produces": [
+            "B",
+            "R",
+            "U"
+        ],
+        "price": "$0.21",
+        "tapped": "yes",
+        "oracle": "Sulfur Vent enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Sulfur Vent: Add {U}{R}."
+    },
+    "Sunbaked Canyon": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$21.40",
+        "tapped": "no",
+        "oracle": "{T}, Pay 1 life: Add {R} or {W}.\n{1}, {T}, Sacrifice Sunbaked Canyon: Draw a card."
+    },
+    "Sundown Pass": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$6.15",
+        "tapped": "conditional",
+        "oracle": "Sundown Pass enters the battlefield tapped unless you control two or more other lands.\n{T}: Add {R} or {W}."
+    },
+    "Sungrass Prairie": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.19",
+        "tapped": "no",
+        "oracle": "{1}, {T}: Add {G}{W}."
+    },
+    "Sunken Ruins": {
+        "produces": [
+            "B",
+            "C",
+            "U"
+        ],
+        "price": "$18.16",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B}."
+    },
+    "Sunpetal Grove": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$3.86",
+        "tapped": "conditional",
+        "oracle": "Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.\n{T}: Add {G} or {W}."
+    },
+    "Swiftwater Cliffs": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$0.40",
+        "tapped": "yes",
+        "oracle": "Swiftwater Cliffs enters the battlefield tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.\n{T}: Add {U} or {R}."
+    },
+    "Tainted Field": {
+        "produces": [
+            "B",
+            "C",
+            "W"
+        ],
+        "price": "$0.16",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {W} or {B}. Activate only if you control a Swamp."
+    },
+    "Tainted Isle": {
+        "produces": [
+            "B",
+            "C",
+            "U"
+        ],
+        "price": "$0.50",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {U} or {B}. Activate only if you control a Swamp."
+    },
+    "Tainted Peak": {
+        "produces": [
+            "B",
+            "C",
+            "R"
+        ],
+        "price": "$0.42",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
+    },
+    "Tainted Wood": {
+        "produces": [
+            "B",
+            "C",
+            "G"
+        ],
+        "price": "$1.10",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {B} or {G}. Activate only if you control a Swamp."
+    },
+    "Tarnished Citadel": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$26.03",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add one mana of any color. Tarnished Citadel deals 3 damage to you."
+    },
+    "Temple of Abandon": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.98",
+        "tapped": "yes",
+        "oracle": "Temple of Abandon enters the battlefield tapped.\nWhen Temple of Abandon enters the battlefield, scry 1.\n{T}: Add {R} or {G}."
+    },
+    "Temple of Deceit": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.54",
+        "tapped": "yes",
+        "oracle": "Temple of Deceit enters the battlefield tapped.\nWhen Temple of Deceit enters the battlefield, scry 1.\n{T}: Add {U} or {B}."
+    },
+    "Temple of Enlightenment": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$0.62",
+        "tapped": "yes",
+        "oracle": "Temple of Enlightenment enters the battlefield tapped.\nWhen Temple of Enlightenment enters the battlefield, scry 1.\n{T}: Add {W} or {U}."
+    },
+    "Temple of Epiphany": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$1.18",
+        "tapped": "yes",
+        "oracle": "Temple of Epiphany enters the battlefield tapped.\nWhen Temple of Epiphany enters the battlefield, scry 1.\n{T}: Add {U} or {R}."
+    },
+    "Temple of Malady": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$0.79",
+        "tapped": "yes",
+        "oracle": "Temple of Malady enters the battlefield tapped.\nWhen Temple of Malady enters the battlefield, scry 1.\n{T}: Add {B} or {G}."
+    },
+    "Temple of Malice": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.44",
+        "tapped": "yes",
+        "oracle": "Temple of Malice enters the battlefield tapped.\nWhen Temple of Malice enters the battlefield, scry 1.\n{T}: Add {B} or {R}."
+    },
+    "Temple of Mystery": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$1.07",
+        "tapped": "yes",
+        "oracle": "Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1.\n{T}: Add {G} or {U}."
+    },
+    "Temple of Plenty": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.58",
+        "tapped": "yes",
+        "oracle": "Temple of Plenty enters the battlefield tapped.\nWhen Temple of Plenty enters the battlefield, scry 1.\n{T}: Add {G} or {W}."
+    },
+    "Temple of Silence": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$0.18",
+        "tapped": "yes",
+        "oracle": "Temple of Silence enters the battlefield tapped.\nWhen Temple of Silence enters the battlefield, scry 1.\n{T}: Add {W} or {B}."
+    },
+    "Temple of the Dragon Queen": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.22",
+        "tapped": "conditional",
+        "oracle": "As Temple of the Dragon Queen enters the battlefield, you may reveal a Dragon card from your hand. Temple of the Dragon Queen enters the battlefield tapped unless you revealed a Dragon card this way or you control a Dragon.\nAs Temple of the Dragon Queen enters the battlefield, choose a color.\n{T}: Add one mana of the chosen color."
+    },
+    "Temple of Triumph": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$0.20",
+        "tapped": "yes",
+        "oracle": "Temple of Triumph enters the battlefield tapped.\nWhen Temple of Triumph enters the battlefield, scry 1.\n{T}: Add {R} or {W}."
+    },
+    "Tendo Ice Bridge": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$3.34",
+        "tapped": "no",
+        "oracle": "Tendo Ice Bridge enters the battlefield with a charge counter on it.\n{T}: Add {C}.\n{T}, Remove a charge counter from Tendo Ice Bridge: Add one mana of any color."
+    },
+    "Thalakos Lowlands": {
+        "produces": [
+            "C",
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {W} or {U}. Thalakos Lowlands doesn't untap during your next untap step."
+    },
+    "The World Tree": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$5.62",
+        "tapped": "yes",
+        "oracle": "The World Tree enters the battlefield tapped.\n{T}: Add {G}.\nAs long as you control six or more lands, lands you control have \"{T}: Add one mana of any color.\"\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle."
+    },
+    "Thornwood Falls": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$0.41",
+        "tapped": "yes",
+        "oracle": "Thornwood Falls enters the battlefield tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.\n{T}: Add {G} or {U}."
+    },
+    "Thran Quarry": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$10.41",
+        "tapped": "no",
+        "oracle": "At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color."
+    },
+    "Thriving Bluff": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Thriving Bluff enters the battlefield tapped.\nAs Thriving Bluff enters the battlefield, choose a color other than red.\n{T}: Add {R} or one mana of the chosen color."
+    },
+    "Thriving Grove": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.10",
+        "tapped": "yes",
+        "oracle": "Thriving Grove enters the battlefield tapped.\nAs Thriving Grove enters the battlefield, choose a color other than green.\n{T}: Add {G} or one mana of the chosen color."
+    },
+    "Thriving Heath": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.10",
+        "tapped": "yes",
+        "oracle": "Thriving Heath enters the battlefield tapped.\nAs Thriving Heath enters the battlefield, choose a color other than white.\n{T}: Add {W} or one mana of the chosen color."
+    },
+    "Thriving Isle": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Thriving Isle enters the battlefield tapped.\nAs Thriving Isle enters the battlefield, choose a color other than blue.\n{T}: Add {U} or one mana of the chosen color."
+    },
+    "Thriving Moor": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.10",
+        "tapped": "yes",
+        "oracle": "Thriving Moor enters the battlefield tapped.\nAs Thriving Moor enters the battlefield, choose a color other than black.\n{T}: Add {B} or one mana of the chosen color."
+    },
+    "Throne of Makindi": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.08",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Put a charge counter on Throne of Makindi.\n{T}, Remove a charge counter from Throne of Makindi: Add two mana of any one color. Spend this mana only to cast kicked spells."
+    },
+    "Timber Gorge": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Timber Gorge enters the battlefield tapped.\n{T}: Add {R} or {G}."
+    },
+    "Timberland Ruins": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Timberland Ruins enters the battlefield tapped.\n{T}: Add {G}.\n{T}, Sacrifice Timberland Ruins: Add one mana of any color."
+    },
+    "Timberline Ridge": {
+        "produces": [
+            "G",
+            "R"
+        ],
+        "price": "$1.44",
+        "tapped": "no",
+        "oracle": "Timberline Ridge doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Timberline Ridge.\n{T}: Add {R} or {G}. Put a depletion counter on Timberline Ridge."
+    },
+    "Tinder Farm": {
+        "produces": [
+            "G",
+            "R",
+            "W"
+        ],
+        "price": "$0.16",
+        "tapped": "yes",
+        "oracle": "Tinder Farm enters the battlefield tapped.\n{T}: Add {G}.\n{T}, Sacrifice Tinder Farm: Add {R}{W}."
+    },
+    "Tournament Grounds": {
+        "produces": [
+            "B",
+            "C",
+            "R",
+            "W"
+        ],
+        "price": "$0.10",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {R}, {W}, or {B}. Spend this mana only to cast a Knight or Equipment spell."
+    },
+    "Training Center": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$None",
+        "tapped": "conditional",
+        "oracle": "Training Center enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {U} or {R}."
+    },
+    "Tramway Station": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.06",
+        "tapped": "yes",
+        "oracle": "Tramway Station enters the battlefield tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice Tramway Station: Draw a card."
+    },
+    "Tranquil Cove": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "yes",
+        "oracle": "Tranquil Cove enters the battlefield tapped.\nWhen Tranquil Cove enters the battlefield, you gain 1 life.\n{T}: Add {W} or {U}."
+    },
+    "Tranquil Expanse": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$0.12",
+        "tapped": "yes",
+        "oracle": "Tranquil Expanse enters the battlefield tapped.\n{T}: Add {G} or {W}."
+    },
+    "Tranquil Garden": {
+        "produces": [
+            "C",
+            "G",
+            "W"
+        ],
+        "price": "$0.15",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {G} or {W}. Tranquil Garden doesn't untap during your next untap step."
+    },
+    "Transguild Promenade": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.13",
+        "tapped": "conditional",
+        "oracle": "Transguild Promenade enters the battlefield tapped.\nWhen Transguild Promenade enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color."
+    },
+    "Twilight Mire": {
+        "produces": [
+            "B",
+            "C",
+            "G"
+        ],
+        "price": "$4.40",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G}."
+    },
+    "Uncharted Haven": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.05",
+        "tapped": "yes",
+        "oracle": "Uncharted Haven enters the battlefield tapped.\nAs Uncharted Haven enters the battlefield, choose a color.\n{T}: Add one mana of the chosen color."
+    },
+    "Unclaimed Territory": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$1.24",
+        "tapped": "no",
+        "oracle": "As Unclaimed Territory enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type."
+    },
+    "Underground River": {
+        "produces": [
+            "B",
+            "C",
+            "U"
+        ],
+        "price": "$10.83",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you."
+    },
+    "Undergrowth Stadium": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$7.04",
+        "tapped": "conditional",
+        "oracle": "Undergrowth Stadium enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {B} or {G}."
+    },
+    "Undiscovered Paradise": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$29.92",
+        "tapped": "no",
+        "oracle": "{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand."
+    },
+    "Unknown Shores": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.05",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+    },
+    "Urborg Volcano": {
+        "produces": [
+            "B",
+            "R"
+        ],
+        "price": "$0.29",
+        "tapped": "yes",
+        "oracle": "Urborg Volcano enters the battlefield tapped.\n{T}: Add {B} or {R}."
+    },
+    "Vault of Champions": {
+        "produces": [
+            "B",
+            "W"
+        ],
+        "price": "$8.43",
+        "tapped": "conditional",
+        "oracle": "Vault of Champions enters the battlefield tapped unless you have two or more opponents.\n{T}: Add {W} or {B}."
+    },
+    "Vec Townships": {
+        "produces": [
+            "C",
+            "G",
+            "W"
+        ],
+        "price": "$None",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {G} or {W}. Vec Townships doesn't untap during your next untap step."
+    },
+    "Veldt": {
+        "produces": [
+            "G",
+            "W"
+        ],
+        "price": "$1.60",
+        "tapped": "no",
+        "oracle": "Veldt doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Veldt.\n{T}: Add {G} or {W}. Put a depletion counter on Veldt."
+    },
+    "Vineglimmer Snarl": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$1.75",
+        "tapped": "yes",
+        "oracle": "As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, Vineglimmer Snarl enters the battlefield tapped.\n{T}: Add {G} or {U}."
+    },
+    "Vivid Crag": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.72",
+        "tapped": "yes",
+        "oracle": "Vivid Crag enters the battlefield tapped with two charge counters on it.\n{T}: Add {R}.\n{T}, Remove a charge counter from Vivid Crag: Add one mana of any color."
+    },
+    "Vivid Creek": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.27",
+        "tapped": "yes",
+        "oracle": "Vivid Creek enters the battlefield tapped with two charge counters on it.\n{T}: Add {U}.\n{T}, Remove a charge counter from Vivid Creek: Add one mana of any color."
+    },
+    "Vivid Grove": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.27",
+        "tapped": "yes",
+        "oracle": "Vivid Grove enters the battlefield tapped with two charge counters on it.\n{T}: Add {G}.\n{T}, Remove a charge counter from Vivid Grove: Add one mana of any color."
+    },
+    "Vivid Marsh": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.86",
+        "tapped": "yes",
+        "oracle": "Vivid Marsh enters the battlefield tapped with two charge counters on it.\n{T}: Add {B}.\n{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color."
+    },
+    "Vivid Meadow": {
+        "produces": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.38",
+        "tapped": "yes",
+        "oracle": "Vivid Meadow enters the battlefield tapped with two charge counters on it.\n{T}: Add {W}.\n{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color."
+    },
+    "Voldaren Estate": {
+        "produces": [
+            "B",
+            "C",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "price": "$0.22",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a Vampire spell.\n{5}, {T}: Create a Blood token. This ability costs {1} less to activate for each Vampire you control. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\")"
+    },
+    "Wandering Fumarole": {
+        "produces": [
+            "R",
+            "U"
+        ],
+        "price": "$0.21",
+        "tapped": "yes",
+        "oracle": "Wandering Fumarole enters the battlefield tapped.\n{T}: Add {U} or {R}.\n{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with \"{0}: Switch this creature's power and toughness until end of turn.\" It's still a land."
+    },
+    "Wanderwine Hub": {
+        "produces": [
+            "U",
+            "W"
+        ],
+        "price": "$4.12",
+        "tapped": "yes",
+        "oracle": "As Wanderwine Hub enters the battlefield, you may reveal a Merfolk card from your hand. If you don't, Wanderwine Hub enters the battlefield tapped.\n{T}: Add {W} or {U}."
+    },
+    "Waterfront District": {
+        "produces": [
+            "B",
+            "U"
+        ],
+        "price": "$0.08",
+        "tapped": "yes",
+        "oracle": "Waterfront District enters the battlefield tapped.\n{T}: Add {U} or {B}.\n{2}{U}{B}, {T}, Sacrifice Waterfront District: Draw a card."
+    },
+    "Waterlogged Grove": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$5.87",
+        "tapped": "no",
+        "oracle": "{T}, Pay 1 life: Add {G} or {U}.\n{1}, {T}, Sacrifice Waterlogged Grove: Draw a card."
+    },
+    "Waterveil Cavern": {
+        "produces": [
+            "B",
+            "C",
+            "U"
+        ],
+        "price": "$0.23",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {U} or {B}. Waterveil Cavern doesn't untap during your next untap step."
+    },
+    "Wind-Scarred Crag": {
+        "produces": [
+            "R",
+            "W"
+        ],
+        "price": "$0.08",
+        "tapped": "yes",
+        "oracle": "Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W}."
+    },
+    "Witherbloom Campus": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$0.11",
+        "tapped": "yes",
+        "oracle": "Witherbloom Campus enters the battlefield tapped.\n{T}: Add {B} or {G}.\n{4}, {T}: Scry 1."
+    },
+    "Wizards' School": {
+        "produces": [
+            "B",
+            "C",
+            "U",
+            "W"
+        ],
+        "price": "$0.24",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{1}, {T}: Add {U}.\n{2}, {T}: Add {W} or {B}."
+    },
+    "Wooded Bastion": {
+        "produces": [
+            "C",
+            "G",
+            "W"
+        ],
+        "price": "$7.28",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W}."
+    },
+    "Woodland Cemetery": {
+        "produces": [
+            "B",
+            "G"
+        ],
+        "price": "$5.36",
+        "tapped": "conditional",
+        "oracle": "Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G}."
+    },
+    "Woodland Stream": {
+        "produces": [
+            "G",
+            "U"
+        ],
+        "price": "$0.08",
+        "tapped": "yes",
+        "oracle": "Woodland Stream enters the battlefield tapped.\n{T}: Add {G} or {U}."
+    },
+    "Yavimaya Coast": {
+        "produces": [
+            "C",
+            "G",
+            "U"
+        ],
+        "price": "$0.63",
+        "tapped": "no",
+        "oracle": "{T}: Add {C}.\n{T}: Add {G} or {U}. Yavimaya Coast deals 1 damage to you."
+    }
+}

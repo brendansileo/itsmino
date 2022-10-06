@@ -2,5 +2,6 @@
     "python.analysis.extraPaths": [
         "./projects/api",
         "./projects/power_level"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }

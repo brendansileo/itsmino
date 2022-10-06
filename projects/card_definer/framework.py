@@ -1,32 +1,25 @@
 import sys
-import yake
 import json
+import re
 sys.path.insert(0, '../api')
 import mtg_api
 from definer import define
 
-def define_card(card_name):
+def define_card(card_name, card):
     definition = {'name': card_name}
+    if 'Dungeon' in card['types'] or 'commander' not in card['legalities'] or card['legalities']['commander'].lower() != 'legal' or '//' in card_name:
+        return None
 
-    card = mtg_api.get_card(card_name)
+    definition['types'] = card['supertypes'] + card['types']
+    definition['subtypes'] = card['subtypes']
 
-    type_line = card['type_line'].split('—')
-    types = type_line[0].strip().split(' ')
-    subtypes = type_line[1].strip().split(' ') if '—' in card['type_line'] else None
-    definition['types'] = types
-    definition['subtypes'] = subtypes
-
-    color_identity = card['color_identity']
+    color_identity = ''.join(card['colorIdentity'])
     definition['color_identity'] = color_identity
-
-    raw_oracle_text = card['oracle_text']
+    
+    raw_oracle_text = card['text'] if 'text' in card else ''
     definition['raw_oracle_text'] = raw_oracle_text
     
-    definition['abilities'] = define(card_name.lower(), card, raw_oracle_text.lower())
+    filtered_oracle_text = re.sub('\(.*\)', '', raw_oracle_text.lower())
+    definition['abilities'] = define(card_name.lower(), card, filtered_oracle_text)
     
     return definition
-
-if __name__ == '__main__':
-    card_name = ' '.join(sys.argv[1:])
-    definition = define_card(card_name)
-    print(json.dumps(definition, indent=4))
