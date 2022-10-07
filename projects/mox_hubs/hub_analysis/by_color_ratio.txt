@@ -1,0 +1,2296 @@
+example of how to read this (using the first line): 29.73% of Grixis (UBR) decks have the combo tag
+
+~~~~~Grixis (UBR)~~~~~
+    Combo: 29.73%
+    Spellslinger: 18.82%
+    Control: 18.5%
+    Tribal: 16.05%
+    Wheels: 12.82%
+    Reanimator: 11.68%
+    Midrange: 9.86%
+    Storm: 9.68%
+    Discard: 7.23%
+    +1/+1 Counters: 6.59%
+    Artifacts: 6.32%
+    Aggro: 5.86%
+    Aristocrats: 5.82%
+    Thieves: 5.36%
+    Tokens: 5.23%
+    Group Slug: 4.91%
+    Clones: 4.82%
+    Mill: 4.64%
+    Extra Turns: 4.55%
+    Goodstuff: 4.32%
+    Burn: 3.86%
+    Enchantments: 3.82%
+    Blink / Flicker: 3.73%
+    Chaos: 3.27%
+    Voltron: 3.23%
+    Super Friends: 2.59%
+    Equipment: 2.55%
+    Battlecruiser: 2.5%
+    Turbo: 2.32%
+    Tempo: 2.09%
+    Toolbox: 2.0%
+    Farm: 1.91%
+    Group Hug: 1.5%
+    Auras: 1.5%
+    Infect: 1.45%
+    Stax: 1.45%
+    Extra Combats: 1.36%
+    Suicide: 1.27%
+    Ramp: 1.09%
+    Vorthos: 0.82%
+    Flying: 0.77%
+    Death & Taxes: 0.73%
+    Pillowfort: 0.73%
+    Life Gain: 0.68%
+    Cycling: 0.64%
+    Land Destruction: 0.64%
+    Hatebears: 0.59%
+    Dredge: 0.59%
+    Aikido: 0.55%
+    -1/-1 Counters: 0.55%
+    Modified: 0.55%
+    Lands Matter: 0.45%
+    Affinity: 0.45%
+    Modular: 0.41%
+    Formula X-1: 0.41%
+    Tron: 0.36%
+    Snow: 0.36%
+    Delver: 0.36%
+    Rock: 0.36%
+    Colorless: 0.32%
+    Devotion: 0.32%
+    Miracles: 0.32%
+    Birthing Pod / Pod: 0.27%
+    Morph: 0.27%
+    Eggs: 0.27%
+    Blue Moon: 0.27%
+    Vehicles: 0.27%
+    Zoo: 0.23%
+    Historic: 0.23%
+    Mutate: 0.18%
+    Maverick: 0.18%
+    Stoneblade: 0.18%
+    Defender: 0.18%
+~~~~~Abzan (WBG)~~~~~
+    Reanimator: 29.22%
+    Combo: 25.78%
+    +1/+1 Counters: 25.62%
+    Aristocrats: 18.75%
+    Tokens: 13.91%
+    Midrange: 13.52%
+    Tribal: 11.48%
+    Enchantments: 11.33%
+    Stax: 10.16%
+    Hatebears: 9.77%
+    Life Gain: 8.28%
+    Aggro: 7.81%
+    Toolbox: 6.09%
+    Dredge: 5.78%
+    Mill: 5.78%
+    Goodstuff: 5.08%
+    Birthing Pod / Pod: 4.61%
+    Voltron: 4.22%
+    Death & Taxes: 3.52%
+    Battlecruiser: 3.44%
+    Ramp: 3.28%
+    Mutate: 2.97%
+    Control: 2.89%
+    Blink / Flicker: 2.58%
+    -1/-1 Counters: 2.42%
+    Artifacts: 2.34%
+    Farm: 2.27%
+    Lands Matter: 1.88%
+    Defender: 1.88%
+    Modified: 1.8%
+    Super Friends: 1.72%
+    Historic: 1.64%
+    Pillowfort: 1.56%
+    Equipment: 1.17%
+    Rock: 1.17%
+    Auras: 1.09%
+    Suicide: 1.09%
+    Tempo: 1.09%
+    Discard: 1.09%
+    Vorthos: 1.02%
+    Clones: 0.94%
+    Group Slug: 0.94%
+    Infect: 0.94%
+    Land Destruction: 0.86%
+    Storm: 0.78%
+    Maverick: 0.78%
+    Flying: 0.7%
+    Zoo: 0.7%
+    Tron: 0.62%
+    Formula X-1: 0.62%
+    Aikido: 0.47%
+    Colorless: 0.47%
+    Devotion: 0.47%
+    Chaos: 0.47%
+    Morph: 0.47%
+    Cycling: 0.47%
+    Turbo: 0.47%
+    Group Hug: 0.39%
+    Eggs: 0.39%
+    Extra Turns: 0.39%
+    Snow: 0.39%
+    Burn: 0.39%
+    Spellslinger: 0.39%
+    Extra Combats: 0.39%
+    Delver: 0.39%
+    Vehicles: 0.39%
+    Wheels: 0.31%
+    Affinity: 0.31%
+    Blue Moon: 0.31%
+    Miracles: 0.31%
+    Stoneblade: 0.31%
+    Thieves: 0.31%
+    Modular: 0.23%
+~~~~~Golgari (BG)~~~~~
+    Tokens: 29.4%
+    Tribal: 24.75%
+    Combo: 23.63%
+    Aristocrats: 21.31%
+    Reanimator: 17.84%
+    +1/+1 Counters: 11.6%
+    Life Gain: 10.59%
+    Aggro: 9.61%
+    Ramp: 8.53%
+    Midrange: 8.29%
+    Dredge: 7.18%
+    Voltron: 5.53%
+    Artifacts: 5.06%
+    Lands Matter: 4.92%
+    Mill: 4.18%
+    -1/-1 Counters: 3.88%
+    Control: 3.88%
+    Goodstuff: 2.93%
+    Discard: 2.87%
+    Stax: 2.83%
+    Super Friends: 2.6%
+    Infect: 2.46%
+    Battlecruiser: 2.29%
+    Toolbox: 2.29%
+    Birthing Pod / Pod: 2.26%
+    Group Slug: 2.09%
+    Suicide: 1.92%
+    Enchantments: 1.48%
+    Rock: 1.45%
+    Equipment: 1.28%
+    Farm: 1.18%
+    Storm: 1.18%
+    Death & Taxes: 1.15%
+    Tempo: 1.11%
+    Burn: 0.91%
+    Zoo: 0.88%
+    Land Destruction: 0.81%
+    Hatebears: 0.74%
+    Modified: 0.71%
+    Turbo: 0.71%
+    Colorless: 0.67%
+    Spellslinger: 0.61%
+    Auras: 0.54%
+    Eggs: 0.51%
+    Mutate: 0.51%
+    Group Hug: 0.4%
+    Devotion: 0.4%
+    Chaos: 0.4%
+    Vorthos: 0.37%
+    Pillowfort: 0.34%
+    Delver: 0.34%
+    Cycling: 0.3%
+    Tron: 0.27%
+    Flying: 0.27%
+    Formula X-1: 0.27%
+    Historic: 0.27%
+    Extra Turns: 0.24%
+    Snow: 0.24%
+    Blink / Flicker: 0.24%
+    Affinity: 0.24%
+    Clones: 0.2%
+    Wheels: 0.2%
+    Maverick: 0.2%
+    Morph: 0.17%
+    Miracles: 0.17%
+    Stoneblade: 0.17%
+    Aikido: 0.13%
+    Extra Combats: 0.13%
+    Blue Moon: 0.13%
+    Defender: 0.13%
+    Thieves: 0.13%
+    Vehicles: 0.13%
+    Modular: 0.1%
+~~~~~Simic (GU)~~~~~
+    Combo: 24.62%
+    Ramp: 22.65%
+    Tokens: 19.39%
+    +1/+1 Counters: 16.82%
+    Lands Matter: 15.79%
+    Tribal: 13.43%
+    Midrange: 10.81%
+    Clones: 10.73%
+    Control: 10.38%
+    Aggro: 6.74%
+    Goodstuff: 6.18%
+    Extra Turns: 5.88%
+    Mill: 5.53%
+    Battlecruiser: 5.49%
+    Artifacts: 4.93%
+    Enchantments: 3.52%
+    Spellslinger: 3.43%
+    Tempo: 3.05%
+    Storm: 2.75%
+    Toolbox: 2.7%
+    Blink / Flicker: 2.62%
+    Mutate: 2.57%
+    Zoo: 2.53%
+    Voltron: 2.49%
+    Auras: 2.4%
+    Infect: 2.32%
+    Birthing Pod / Pod: 1.63%
+    Snow: 1.12%
+    Stax: 1.07%
+    Flying: 0.99%
+    Group Hug: 0.94%
+    Turbo: 0.94%
+    Super Friends: 0.86%
+    Farm: 0.77%
+    Dredge: 0.73%
+    Pillowfort: 0.64%
+    Affinity: 0.64%
+    -1/-1 Counters: 0.6%
+    Life Gain: 0.6%
+    Thieves: 0.6%
+    Cycling: 0.56%
+    Modified: 0.56%
+    Vorthos: 0.56%
+    Colorless: 0.51%
+    Equipment: 0.51%
+    Wheels: 0.51%
+    Reanimator: 0.51%
+    Aristocrats: 0.51%
+    Hatebears: 0.47%
+    Land Destruction: 0.47%
+    Devotion: 0.43%
+    Discard: 0.43%
+    Chaos: 0.39%
+    Morph: 0.39%
+    Rock: 0.39%
+    Suicide: 0.34%
+    Group Slug: 0.3%
+    Burn: 0.3%
+    Stoneblade: 0.3%
+    Formula X-1: 0.3%
+    Aikido: 0.26%
+    Tron: 0.26%
+    Death & Taxes: 0.26%
+    Extra Combats: 0.26%
+    Miracles: 0.26%
+    Historic: 0.26%
+    Maverick: 0.21%
+    Delver: 0.21%
+    Defender: 0.21%
+    Eggs: 0.17%
+    Blue Moon: 0.17%
+    Modular: 0.17%
+    Vehicles: 0.17%
+~~~~~Gruul (RG)~~~~~
+    Aggro: 33.84%
+    Ramp: 20.76%
+    Tribal: 19.76%
+    Tokens: 15.26%
+    Combo: 14.39%
+    +1/+1 Counters: 12.91%
+    Lands Matter: 12.43%
+    Extra Combats: 9.46%
+    Midrange: 8.24%
+    Battlecruiser: 6.67%
+    Burn: 5.93%
+    Artifacts: 5.8%
+    Voltron: 4.75%
+    Stax: 4.1%
+    Spellslinger: 3.84%
+    Enchantments: 3.75%
+    Equipment: 3.58%
+    Auras: 3.49%
+    Modified: 3.4%
+    Goodstuff: 3.01%
+    Group Slug: 2.83%
+    Storm: 2.79%
+    Zoo: 2.66%
+    Land Destruction: 2.44%
+    Flying: 1.74%
+    Tempo: 1.66%
+    Chaos: 1.57%
+    Control: 1.53%
+    Hatebears: 1.31%
+    Birthing Pod / Pod: 1.0%
+    Discard: 1.0%
+    Aristocrats: 0.96%
+    Snow: 0.92%
+    Toolbox: 0.92%
+    Rock: 0.92%
+    Reanimator: 0.65%
+    Formula X-1: 0.65%
+    Farm: 0.61%
+    Life Gain: 0.57%
+    Infect: 0.57%
+    Group Hug: 0.48%
+    Suicide: 0.48%
+    Affinity: 0.48%
+    Eggs: 0.44%
+    Vorthos: 0.44%
+    Cycling: 0.39%
+    Turbo: 0.39%
+    Pillowfort: 0.39%
+    Colorless: 0.35%
+    Death & Taxes: 0.35%
+    Wheels: 0.35%
+    Devotion: 0.31%
+    Super Friends: 0.31%
+    Dredge: 0.31%
+    Historic: 0.31%
+    Tron: 0.26%
+    Mill: 0.26%
+    Maverick: 0.26%
+    Morph: 0.22%
+    -1/-1 Counters: 0.22%
+    Clones: 0.22%
+    Blink / Flicker: 0.22%
+    Modular: 0.22%
+    Thieves: 0.22%
+    Aikido: 0.17%
+    Extra Turns: 0.17%
+    Mutate: 0.17%
+    Blue Moon: 0.17%
+    Miracles: 0.17%
+    Delver: 0.17%
+    Stoneblade: 0.17%
+    Vehicles: 0.17%
+    Defender: 0.13%
+~~~~~Growth (WUBG)~~~~~
+    +1/+1 Counters: 33.86%
+    Combo: 22.5%
+    Super Friends: 21.72%
+    Midrange: 21.14%
+    Infect: 16.83%
+    Control: 14.68%
+    Tribal: 9.0%
+    -1/-1 Counters: 8.81%
+    Goodstuff: 8.81%
+    Enchantments: 7.63%
+    Toolbox: 6.26%
+    Aggro: 6.26%
+    Reanimator: 5.68%
+    Tokens: 5.48%
+    Ramp: 4.89%
+    Hatebears: 4.89%
+    Stax: 4.5%
+    Life Gain: 4.31%
+    Battlecruiser: 3.91%
+    Artifacts: 3.91%
+    Farm: 3.72%
+    Modified: 3.13%
+    Tempo: 2.94%
+    Voltron: 2.74%
+    Lands Matter: 2.54%
+    Birthing Pod / Pod: 2.35%
+    Flying: 2.15%
+    Blink / Flicker: 2.15%
+    Mill: 2.15%
+    Death & Taxes: 1.96%
+    Clones: 1.96%
+    Extra Turns: 1.96%
+    Pillowfort: 1.76%
+    Maverick: 1.76%
+    Cycling: 1.57%
+    Zoo: 1.57%
+    Group Slug: 1.57%
+    Spellslinger: 1.57%
+    Discard: 1.57%
+    Rock: 1.57%
+    Group Hug: 1.37%
+    Chaos: 1.37%
+    Turbo: 1.37%
+    Suicide: 1.37%
+    Aristocrats: 1.37%
+    Vorthos: 1.37%
+    Historic: 1.37%
+    Equipment: 1.17%
+    Mutate: 1.17%
+    Dredge: 1.17%
+    Storm: 1.17%
+    Aikido: 0.98%
+    Colorless: 0.98%
+    Devotion: 0.98%
+    Morph: 0.98%
+    Snow: 0.98%
+    Wheels: 0.98%
+    Land Destruction: 0.98%
+    Affinity: 0.98%
+    Miracles: 0.98%
+    Modular: 0.98%
+    Stoneblade: 0.98%
+    Formula X-1: 0.98%
+    Vehicles: 0.98%
+    Tron: 0.78%
+    Auras: 0.78%
+    Eggs: 0.78%
+    Burn: 0.78%
+    Extra Combats: 0.78%
+    Blue Moon: 0.78%
+    Delver: 0.78%
+    Defender: 0.78%
+    Thieves: 0.78%
+~~~~~Temur (GUR)~~~~~
+    Combo: 25.69%
+    Tribal: 22.62%
+    Tokens: 18.95%
+    Ramp: 17.96%
+    Midrange: 13.18%
+    Spellslinger: 11.83%
+    +1/+1 Counters: 11.28%
+    Clones: 10.48%
+    Aggro: 9.63%
+    Lands Matter: 8.52%
+    Control: 7.05%
+    Wheels: 6.38%
+    Storm: 6.25%
+    Battlecruiser: 6.19%
+    Goodstuff: 6.13%
+    Flying: 5.4%
+    Voltron: 5.27%
+    Extra Turns: 4.6%
+    Chaos: 4.11%
+    Tempo: 3.99%
+    Artifacts: 2.7%
+    Group Hug: 2.64%
+    Birthing Pod / Pod: 2.64%
+    Extra Combats: 2.58%
+    Toolbox: 2.33%
+    Morph: 2.15%
+    Mutate: 2.15%
+    Blink / Flicker: 2.02%
+    Burn: 1.96%
+    Thieves: 1.96%
+    Zoo: 1.41%
+    Group Slug: 1.16%
+    Rock: 1.04%
+    Mill: 0.98%
+    Equipment: 0.92%
+    Farm: 0.86%
+    Enchantments: 0.8%
+    Turbo: 0.67%
+    Infect: 0.67%
+    Colorless: 0.61%
+    Discard: 0.61%
+    Aristocrats: 0.61%
+    Formula X-1: 0.61%
+    Modified: 0.55%
+    Super Friends: 0.55%
+    Stax: 0.55%
+    Vorthos: 0.55%
+    Land Destruction: 0.49%
+    Auras: 0.43%
+    Hatebears: 0.43%
+    Life Gain: 0.43%
+    Aikido: 0.37%
+    Cycling: 0.37%
+    Snow: 0.37%
+    Affinity: 0.37%
+    Miracles: 0.37%
+    Delver: 0.37%
+    Tron: 0.31%
+    Devotion: 0.31%
+    Death & Taxes: 0.31%
+    -1/-1 Counters: 0.31%
+    Suicide: 0.31%
+    Blue Moon: 0.31%
+    Historic: 0.31%
+    Eggs: 0.25%
+    Pillowfort: 0.25%
+    Dredge: 0.25%
+    Reanimator: 0.25%
+    Maverick: 0.25%
+    Modular: 0.25%
+    Stoneblade: 0.25%
+    Vehicles: 0.25%
+    Defender: 0.18%
+~~~~~Sultai (BGU)~~~~~
+    Combo: 28.53%
+    Reanimator: 17.56%
+    Midrange: 14.45%
+    Control: 14.4%
+    Lands Matter: 11.65%
+    +1/+1 Counters: 11.03%
+    Mill: 11.03%
+    Tribal: 10.98%
+    Ramp: 10.77%
+    Tokens: 8.18%
+    Enchantments: 7.61%
+    Goodstuff: 6.84%
+    Mutate: 6.37%
+    Dredge: 6.32%
+    Toolbox: 6.21%
+    Morph: 5.85%
+    Snow: 4.51%
+    Voltron: 4.4%
+    Infect: 3.88%
+    Battlecruiser: 3.73%
+    Birthing Pod / Pod: 3.63%
+    Aggro: 3.52%
+    Stax: 3.21%
+    Blink / Flicker: 3.16%
+    Clones: 2.69%
+    Aristocrats: 2.69%
+    Tempo: 2.49%
+    -1/-1 Counters: 2.43%
+    Artifacts: 1.92%
+    Discard: 1.81%
+    Auras: 1.45%
+    Spellslinger: 1.4%
+    Life Gain: 1.24%
+    Storm: 0.98%
+    Formula X-1: 0.98%
+    Turbo: 0.93%
+    Farm: 0.93%
+    Suicide: 0.93%
+    Super Friends: 0.88%
+    Zoo: 0.83%
+    Extra Turns: 0.78%
+    Delver: 0.78%
+    Group Slug: 0.73%
+    Land Destruction: 0.73%
+    Death & Taxes: 0.62%
+    Thieves: 0.57%
+    Cycling: 0.52%
+    Burn: 0.52%
+    Hatebears: 0.52%
+    Pillowfort: 0.52%
+    Wheels: 0.52%
+    Chaos: 0.47%
+    Vorthos: 0.47%
+    Rock: 0.47%
+    Vehicles: 0.47%
+    Modified: 0.41%
+    Group Hug: 0.36%
+    Equipment: 0.36%
+    Modular: 0.36%
+    Historic: 0.36%
+    Colorless: 0.31%
+    Maverick: 0.31%
+    Aikido: 0.26%
+    Tron: 0.26%
+    Flying: 0.26%
+    Devotion: 0.26%
+    Affinity: 0.26%
+    Eggs: 0.21%
+    Extra Combats: 0.21%
+    Blue Moon: 0.21%
+    Miracles: 0.21%
+    Stoneblade: 0.21%
+    Defender: 0.21%
+~~~~~Dimir (UB)~~~~~
+    Tribal: 39.35%
+    Mill: 26.92%
+    Combo: 21.24%
+    Reanimator: 17.71%
+    Control: 16.55%
+    Tokens: 11.66%
+    Aggro: 10.18%
+    Midrange: 7.37%
+    Aristocrats: 7.17%
+    Discard: 5.02%
+    Tempo: 4.76%
+    Artifacts: 4.69%
+    Thieves: 4.69%
+    Clones: 4.66%
+    Extra Turns: 3.5%
+    Goodstuff: 2.91%
+    Spellslinger: 2.71%
+    -1/-1 Counters: 2.38%
+    Group Slug: 2.38%
+    Voltron: 2.21%
+    Blink / Flicker: 1.92%
+    Battlecruiser: 1.88%
+    Infect: 1.68%
+    Toolbox: 1.62%
+    Burn: 1.59%
+    +1/+1 Counters: 1.42%
+    Stax: 1.39%
+    Snow: 1.26%
+    Turbo: 1.19%
+    Flying: 1.16%
+    Enchantments: 1.16%
+    Dredge: 1.09%
+    Ramp: 0.99%
+    Farm: 0.96%
+    Storm: 0.93%
+    Cycling: 0.83%
+    Suicide: 0.79%
+    Death & Taxes: 0.73%
+    Wheels: 0.69%
+    Equipment: 0.63%
+    Pillowfort: 0.59%
+    Affinity: 0.59%
+    Delver: 0.59%
+    Vorthos: 0.59%
+    Life Gain: 0.56%
+    Rock: 0.56%
+    Hatebears: 0.53%
+    Aikido: 0.5%
+    Devotion: 0.5%
+    Chaos: 0.5%
+    Land Destruction: 0.5%
+    Group Hug: 0.46%
+    Lands Matter: 0.46%
+    Defender: 0.46%
+    Colorless: 0.43%
+    Super Friends: 0.4%
+    Auras: 0.36%
+    Zoo: 0.36%
+    Formula X-1: 0.33%
+    Historic: 0.33%
+    Modified: 0.3%
+    Eggs: 0.3%
+    Tron: 0.2%
+    Birthing Pod / Pod: 0.2%
+    Morph: 0.2%
+    Mutate: 0.2%
+    Maverick: 0.2%
+    Miracles: 0.2%
+    Modular: 0.2%
+    Vehicles: 0.2%
+    Extra Combats: 0.17%
+    Blue Moon: 0.13%
+    Stoneblade: 0.13%
+~~~~~Mono White~~~~~
+    Tribal: 22.99%
+    Life Gain: 20.54%
+    Tokens: 19.16%
+    Voltron: 18.45%
+    Aggro: 18.09%
+    Stax: 14.99%
+    +1/+1 Counters: 14.09%
+    Combo: 13.31%
+    Artifacts: 12.18%
+    Auras: 11.4%
+    Enchantments: 10.33%
+    Equipment: 9.49%
+    Hatebears: 9.25%
+    Flying: 7.82%
+    Control: 5.79%
+    Midrange: 5.31%
+    Battlecruiser: 4.0%
+    Death & Taxes: 3.7%
+    Toolbox: 3.46%
+    Pillowfort: 3.34%
+    Goodstuff: 3.22%
+    Blink / Flicker: 2.87%
+    Reanimator: 2.33%
+    Birthing Pod / Pod: 1.97%
+    Land Destruction: 1.91%
+    Ramp: 1.85%
+    Devotion: 1.73%
+    Tempo: 1.73%
+    Stoneblade: 1.61%
+    Snow: 1.55%
+    Super Friends: 1.43%
+    Eggs: 1.19%
+    Affinity: 1.07%
+    Storm: 1.07%
+    Historic: 1.07%
+    Mill: 1.01%
+    Modified: 0.78%
+    Group Slug: 0.78%
+    Aristocrats: 0.78%
+    Colorless: 0.72%
+    Group Hug: 0.66%
+    Zoo: 0.66%
+    Lands Matter: 0.66%
+    Suicide: 0.66%
+    Spellslinger: 0.66%
+    Vehicles: 0.66%
+    Tron: 0.54%
+    Farm: 0.54%
+    Cycling: 0.48%
+    Vorthos: 0.48%
+    Rock: 0.48%
+    -1/-1 Counters: 0.42%
+    Turbo: 0.42%
+    Formula X-1: 0.42%
+    Infect: 0.36%
+    Discard: 0.36%
+    Maverick: 0.36%
+    Defender: 0.36%
+    Aikido: 0.3%
+    Chaos: 0.3%
+    Extra Turns: 0.3%
+    Burn: 0.3%
+    Extra Combats: 0.3%
+    Miracles: 0.3%
+    Morph: 0.24%
+    Mutate: 0.24%
+    Dredge: 0.24%
+    Wheels: 0.24%
+    Blue Moon: 0.24%
+    Clones: 0.18%
+    Delver: 0.18%
+    Modular: 0.18%
+    Thieves: 0.18%
+~~~~~Orzhov (WB)~~~~~
+    Aristocrats: 34.63%
+    Life Gain: 28.46%
+    Tokens: 17.91%
+    Combo: 17.01%
+    Reanimator: 16.86%
+    Tribal: 16.63%
+    +1/+1 Counters: 13.63%
+    Death & Taxes: 9.26%
+    Stax: 7.93%
+    Midrange: 7.84%
+    Aggro: 6.98%
+    Control: 6.65%
+    Hatebears: 5.7%
+    Enchantments: 5.46%
+    Artifacts: 4.66%
+    Voltron: 4.47%
+    Pillowfort: 3.56%
+    Vehicles: 3.42%
+    Auras: 3.23%
+    Flying: 3.14%
+    Group Slug: 2.9%
+    Goodstuff: 2.66%
+    Suicide: 2.61%
+    Blink / Flicker: 2.52%
+    Battlecruiser: 2.04%
+    Equipment: 1.81%
+    Farm: 1.62%
+    Group Hug: 1.47%
+    Tempo: 1.47%
+    Discard: 1.19%
+    Burn: 1.14%
+    Toolbox: 1.14%
+    Storm: 1.14%
+    -1/-1 Counters: 1.0%
+    Mill: 0.9%
+    Spellslinger: 0.81%
+    Vorthos: 0.81%
+    Ramp: 0.76%
+    Infect: 0.71%
+    Historic: 0.71%
+    Turbo: 0.67%
+    Modified: 0.62%
+    Aikido: 0.57%
+    Lands Matter: 0.57%
+    Super Friends: 0.57%
+    Rock: 0.52%
+    Devotion: 0.48%
+    Zoo: 0.48%
+    Formula X-1: 0.48%
+    Cycling: 0.43%
+    Eggs: 0.43%
+    Clones: 0.43%
+    Dredge: 0.43%
+    Snow: 0.38%
+    Land Destruction: 0.38%
+    Stoneblade: 0.38%
+    Colorless: 0.33%
+    Birthing Pod / Pod: 0.33%
+    Chaos: 0.33%
+    Thieves: 0.33%
+    Extra Turns: 0.29%
+    Extra Combats: 0.29%
+    Wheels: 0.29%
+    Maverick: 0.29%
+    Modular: 0.29%
+    Tron: 0.24%
+    Morph: 0.24%
+    Mutate: 0.24%
+    Affinity: 0.24%
+    Miracles: 0.24%
+    Blue Moon: 0.19%
+    Delver: 0.19%
+    Defender: 0.19%
+~~~~~Mono Black~~~~~
+    Combo: 26.15%
+    Aristocrats: 24.06%
+    Reanimator: 23.02%
+    Tribal: 17.06%
+    Discard: 15.39%
+    Control: 12.84%
+    Life Gain: 11.34%
+    Tokens: 10.01%
+    Suicide: 9.67%
+    Aggro: 7.05%
+    Midrange: 6.96%
+    Devotion: 5.46%
+    Artifacts: 5.21%
+    Storm: 5.09%
+    -1/-1 Counters: 5.0%
+    Group Slug: 4.55%
+    Goodstuff: 4.34%
+    Mill: 4.34%
+    Voltron: 3.79%
+    Ramp: 3.63%
+    Stax: 3.59%
+    +1/+1 Counters: 3.46%
+    Infect: 3.21%
+    Spellslinger: 3.13%
+    Battlecruiser: 2.17%
+    Toolbox: 2.04%
+    Death & Taxes: 1.96%
+    Thieves: 1.79%
+    Equipment: 1.71%
+    Enchantments: 1.63%
+    Tempo: 1.46%
+    Group Hug: 1.42%
+    Snow: 1.42%
+    Lands Matter: 1.29%
+    Burn: 1.25%
+    Turbo: 1.21%
+    Dredge: 1.04%
+    Flying: 0.96%
+    Chaos: 0.96%
+    Vehicles: 0.92%
+    Hatebears: 0.83%
+    Blink / Flicker: 0.83%
+    Super Friends: 0.83%
+    Farm: 0.71%
+    Wheels: 0.67%
+    Vorthos: 0.67%
+    Cycling: 0.58%
+    Land Destruction: 0.58%
+    Affinity: 0.46%
+    Extra Turns: 0.42%
+    Zoo: 0.42%
+    Formula X-1: 0.42%
+    Rock: 0.42%
+    Pillowfort: 0.38%
+    Colorless: 0.33%
+    Modified: 0.25%
+    Auras: 0.25%
+    Extra Combats: 0.25%
+    Delver: 0.25%
+    Aikido: 0.21%
+    Tron: 0.21%
+    Eggs: 0.21%
+    Miracles: 0.21%
+    Historic: 0.21%
+    Birthing Pod / Pod: 0.17%
+    Morph: 0.17%
+    Clones: 0.17%
+    Mutate: 0.17%
+    Maverick: 0.17%
+    Blue Moon: 0.17%
+    Stoneblade: 0.17%
+    Defender: 0.17%
+    Modular: 0.13%
+~~~~~Selesnya (GW)~~~~~
+    +1/+1 Counters: 32.77%
+    Tokens: 27.43%
+    Tribal: 26.23%
+    Enchantments: 21.51%
+    Life Gain: 15.64%
+    Combo: 14.77%
+    Aggro: 13.76%
+    Ramp: 8.37%
+    Stax: 8.33%
+    Voltron: 8.04%
+    Midrange: 7.27%
+    Hatebears: 6.06%
+    Auras: 5.97%
+    Equipment: 5.05%
+    Lands Matter: 4.43%
+    Toolbox: 4.28%
+    Battlecruiser: 3.8%
+    Goodstuff: 3.56%
+    Blink / Flicker: 3.27%
+    Pillowfort: 3.03%
+    Control: 2.69%
+    Artifacts: 2.21%
+    Storm: 2.12%
+    Group Hug: 1.88%
+    Tempo: 1.73%
+    Modified: 1.49%
+    Death & Taxes: 1.3%
+    Reanimator: 1.2%
+    Flying: 1.11%
+    Zoo: 1.11%
+    Birthing Pod / Pod: 0.82%
+    Land Destruction: 0.82%
+    Aristocrats: 0.82%
+    Infect: 0.72%
+    Historic: 0.67%
+    Devotion: 0.63%
+    Mill: 0.63%
+    Snow: 0.58%
+    Super Friends: 0.58%
+    Farm: 0.53%
+    Stoneblade: 0.48%
+    Vorthos: 0.48%
+    -1/-1 Counters: 0.43%
+    Spellslinger: 0.43%
+    Formula X-1: 0.43%
+    Rock: 0.43%
+    Defender: 0.43%
+    Clones: 0.38%
+    Extra Turns: 0.38%
+    Vehicles: 0.38%
+    Chaos: 0.34%
+    Cycling: 0.34%
+    Group Slug: 0.34%
+    Extra Combats: 0.34%
+    Miracles: 0.34%
+    Modular: 0.34%
+    Tron: 0.29%
+    Morph: 0.29%
+    Dredge: 0.29%
+    Maverick: 0.29%
+    Aikido: 0.24%
+    Colorless: 0.24%
+    Eggs: 0.24%
+    Turbo: 0.24%
+    Burn: 0.24%
+    Suicide: 0.24%
+    Mutate: 0.24%
+    Discard: 0.24%
+    Affinity: 0.24%
+    Wheels: 0.19%
+    Blue Moon: 0.19%
+    Delver: 0.19%
+    Thieves: 0.14%
+~~~~~Mono Green~~~~~
+    Ramp: 28.97%
+    Tribal: 25.1%
+    Aggro: 22.33%
+    Combo: 19.82%
+    +1/+1 Counters: 16.95%
+    Lands Matter: 13.53%
+    Tokens: 10.41%
+    Voltron: 8.1%
+    Storm: 6.54%
+    Battlecruiser: 6.29%
+    Midrange: 6.14%
+    Infect: 6.09%
+    Goodstuff: 4.12%
+    Toolbox: 3.92%
+    Devotion: 3.82%
+    Equipment: 2.62%
+    Enchantments: 2.41%
+    Zoo: 2.36%
+    Stax: 2.26%
+    Modified: 2.21%
+    Tempo: 2.11%
+    Control: 2.11%
+    Auras: 2.01%
+    Artifacts: 2.01%
+    Land Destruction: 1.91%
+    Super Friends: 1.51%
+    Aristocrats: 1.36%
+    Hatebears: 1.11%
+    Morph: 1.06%
+    Life Gain: 0.96%
+    Spellslinger: 0.96%
+    Mill: 0.96%
+    Birthing Pod / Pod: 0.91%
+    Snow: 0.91%
+    Turbo: 0.86%
+    Historic: 0.86%
+    Reanimator: 0.65%
+    Farm: 0.6%
+    Cycling: 0.55%
+    -1/-1 Counters: 0.55%
+    Formula X-1: 0.55%
+    Vehicles: 0.55%
+    Rock: 0.5%
+    Group Hug: 0.45%
+    Colorless: 0.45%
+    Suicide: 0.45%
+    Pillowfort: 0.45%
+    Vorthos: 0.45%
+    Tron: 0.4%
+    Group Slug: 0.4%
+    Dredge: 0.4%
+    Death & Taxes: 0.35%
+    Burn: 0.35%
+    Blink / Flicker: 0.35%
+    Mutate: 0.35%
+    Discard: 0.35%
+    Maverick: 0.35%
+    Flying: 0.3%
+    Chaos: 0.3%
+    Eggs: 0.3%
+    Extra Combats: 0.3%
+    Aikido: 0.25%
+    Clones: 0.2%
+    Extra Turns: 0.2%
+    Wheels: 0.2%
+    Affinity: 0.2%
+    Blue Moon: 0.2%
+    Miracles: 0.2%
+    Stoneblade: 0.2%
+    Defender: 0.2%
+    Thieves: 0.2%
+    Delver: 0.15%
+    Modular: 0.15%
+~~~~~Jeskai (URW)~~~~~
+    Combo: 33.77%
+    Spellslinger: 27.48%
+    Control: 21.51%
+    Storm: 15.06%
+    Tokens: 14.75%
+    Voltron: 10.02%
+    Artifacts: 9.7%
+    Cycling: 7.76%
+    Midrange: 7.69%
+    Wheels: 6.75%
+    Aggro: 6.13%
+    Tempo: 5.51%
+    Extra Turns: 5.36%
+    Discard: 4.43%
+    Tribal: 4.35%
+    Enchantments: 4.27%
+    Equipment: 4.19%
+    Flying: 4.11%
+    Pillowfort: 4.11%
+    Burn: 3.96%
+    Stax: 3.96%
+    Blink / Flicker: 3.65%
+    Group Hug: 3.42%
+    Extra Combats: 3.42%
+    Chaos: 3.18%
+    Super Friends: 3.03%
+    Vehicles: 3.03%
+    +1/+1 Counters: 2.72%
+    Goodstuff: 2.48%
+    Mutate: 2.17%
+    Group Slug: 2.02%
+    Battlecruiser: 1.94%
+    Hatebears: 1.94%
+    Life Gain: 1.86%
+    Toolbox: 1.71%
+    Land Destruction: 1.71%
+    Mill: 1.48%
+    Auras: 1.32%
+    Clones: 1.24%
+    Ramp: 1.24%
+    Defender: 1.01%
+    Death & Taxes: 0.93%
+    Stoneblade: 0.93%
+    Aikido: 0.85%
+    Formula X-1: 0.85%
+    Thieves: 0.85%
+    Turbo: 0.78%
+    Lands Matter: 0.78%
+    Blue Moon: 0.78%
+    Affinity: 0.7%
+    Reanimator: 0.7%
+    Delver: 0.7%
+    Morph: 0.62%
+    Suicide: 0.62%
+    Rock: 0.62%
+    Eggs: 0.54%
+    Zoo: 0.54%
+    Historic: 0.54%
+    Tron: 0.47%
+    Birthing Pod / Pod: 0.47%
+    -1/-1 Counters: 0.47%
+    Modified: 0.47%
+    Farm: 0.47%
+    Snow: 0.47%
+    Dredge: 0.47%
+    Aristocrats: 0.47%
+    Miracles: 0.47%
+    Colorless: 0.39%
+    Devotion: 0.39%
+    Maverick: 0.39%
+    Vorthos: 0.39%
+    Infect: 0.31%
+    Modular: 0.31%
+~~~~~Bant (GWU)~~~~~
+    Enchantments: 24.03%
+    Combo: 18.13%
+    Voltron: 15.75%
+    Auras: 12.36%
+    +1/+1 Counters: 11.54%
+    Control: 11.48%
+    Tribal: 11.1%
+    Blink / Flicker: 10.41%
+    Defender: 10.35%
+    Midrange: 10.1%
+    Equipment: 9.79%
+    Aggro: 8.91%
+    Stax: 8.22%
+    Pillowfort: 7.09%
+    Ramp: 5.77%
+    Hatebears: 4.58%
+    Tokens: 4.27%
+    Artifacts: 4.2%
+    Group Hug: 4.14%
+    Battlecruiser: 3.76%
+    Goodstuff: 3.45%
+    Toolbox: 3.45%
+    Modified: 3.26%
+    Tempo: 3.2%
+    Lands Matter: 2.82%
+    Birthing Pod / Pod: 2.45%
+    Flying: 2.38%
+    Life Gain: 2.26%
+    Storm: 1.88%
+    Spellslinger: 1.82%
+    -1/-1 Counters: 1.69%
+    Super Friends: 1.69%
+    Extra Turns: 1.57%
+    Infect: 1.57%
+    Mill: 1.38%
+    Zoo: 1.19%
+    Stoneblade: 1.07%
+    Death & Taxes: 0.88%
+    Land Destruction: 0.75%
+    Clones: 0.69%
+    Farm: 0.69%
+    Group Slug: 0.69%
+    Reanimator: 0.63%
+    Devotion: 0.56%
+    Chaos: 0.56%
+    Snow: 0.56%
+    Suicide: 0.56%
+    Maverick: 0.56%
+    Historic: 0.5%
+    Tron: 0.44%
+    Colorless: 0.44%
+    Eggs: 0.44%
+    Turbo: 0.44%
+    Extra Combats: 0.44%
+    Vorthos: 0.44%
+    Thieves: 0.44%
+    Morph: 0.38%
+    Burn: 0.38%
+    Aristocrats: 0.38%
+    Formula X-1: 0.38%
+    Rock: 0.38%
+    Vehicles: 0.38%
+    Dredge: 0.31%
+    Miracles: 0.31%
+    Aikido: 0.25%
+    Cycling: 0.25%
+    Mutate: 0.25%
+    Discard: 0.25%
+    Wheels: 0.25%
+    Affinity: 0.25%
+    Blue Moon: 0.25%
+    Delver: 0.25%
+    Modular: 0.25%
+~~~~~Chaos (UBRG)~~~~~
+    Combo: 39.34%
+    Midrange: 22.43%
+    Storm: 21.69%
+    Spellslinger: 20.22%
+    Control: 16.54%
+    Wheels: 12.87%
+    Goodstuff: 10.66%
+    Ramp: 10.29%
+    Chaos: 8.82%
+    Farm: 6.99%
+    Extra Turns: 6.62%
+    Lands Matter: 6.62%
+    Tribal: 6.25%
+    Battlecruiser: 5.88%
+    Burn: 5.88%
+    Aggro: 5.88%
+    Turbo: 5.51%
+    Discard: 5.51%
+    Clones: 5.15%
+    Reanimator: 5.15%
+    Tokens: 5.15%
+    Toolbox: 4.78%
+    Artifacts: 4.78%
+    +1/+1 Counters: 4.41%
+    Mill: 4.41%
+    Birthing Pod / Pod: 4.04%
+    Tempo: 4.04%
+    Group Slug: 3.31%
+    Enchantments: 3.31%
+    Voltron: 2.94%
+    Thieves: 2.94%
+    Group Hug: 2.57%
+    Hatebears: 2.57%
+    Blink / Flicker: 2.57%
+    Life Gain: 2.57%
+    Rock: 2.57%
+    Death & Taxes: 2.21%
+    Cycling: 2.21%
+    -1/-1 Counters: 2.21%
+    Equipment: 2.21%
+    Eggs: 2.21%
+    Zoo: 2.21%
+    Suicide: 2.21%
+    Mutate: 2.21%
+    Pillowfort: 2.21%
+    Stax: 2.21%
+    Tron: 1.84%
+    Flying: 1.84%
+    Colorless: 1.84%
+    Devotion: 1.84%
+    Morph: 1.84%
+    Auras: 1.84%
+    Infect: 1.84%
+    Super Friends: 1.84%
+    Dredge: 1.84%
+    Land Destruction: 1.84%
+    Aristocrats: 1.84%
+    Maverick: 1.84%
+    Formula X-1: 1.84%
+    Aikido: 1.47%
+    Snow: 1.47%
+    Extra Combats: 1.47%
+    Affinity: 1.47%
+    Blue Moon: 1.47%
+    Miracles: 1.47%
+    Delver: 1.47%
+    Stoneblade: 1.47%
+    Vorthos: 1.47%
+    Defender: 1.47%
+    Historic: 1.47%
+    Vehicles: 1.47%
+    Modified: 1.1%
+    Modular: 0.74%
+~~~~~Mardu (RWB)~~~~~
+    Aggro: 28.65%
+    Tribal: 28.02%
+    Combo: 16.27%
+    Aristocrats: 16.02%
+    Tokens: 14.81%
+    Reanimator: 11.67%
+    Equipment: 10.79%
+    Artifacts: 8.36%
+    Midrange: 8.07%
+    Voltron: 7.99%
+    Control: 7.36%
+    Life Gain: 5.98%
+    Extra Combats: 5.56%
+    +1/+1 Counters: 5.52%
+    Enchantments: 5.06%
+    Pillowfort: 4.22%
+    Stax: 4.1%
+    Flying: 3.81%
+    Farm: 3.81%
+    Aikido: 3.39%
+    Goodstuff: 3.39%
+    Group Slug: 3.22%
+    Battlecruiser: 2.84%
+    Hatebears: 2.72%
+    Death & Taxes: 2.26%
+    Toolbox: 2.26%
+    Spellslinger: 1.88%
+    Storm: 1.8%
+    Burn: 1.76%
+    Tempo: 1.71%
+    Turbo: 1.46%
+    Blink / Flicker: 1.42%
+    Historic: 1.38%
+    Land Destruction: 1.34%
+    Discard: 1.13%
+    Chaos: 1.05%
+    Suicide: 1.0%
+    Auras: 0.92%
+    Mutate: 0.92%
+    Modified: 0.84%
+    Infect: 0.79%
+    Group Hug: 0.75%
+    Ramp: 0.75%
+    Super Friends: 0.71%
+    Zoo: 0.67%
+    Wheels: 0.63%
+    Stoneblade: 0.59%
+    Mill: 0.54%
+    Vorthos: 0.5%
+    Eggs: 0.42%
+    Thieves: 0.42%
+    -1/-1 Counters: 0.38%
+    Extra Turns: 0.38%
+    Dredge: 0.38%
+    Affinity: 0.38%
+    Rock: 0.38%
+    Colorless: 0.33%
+    Cycling: 0.33%
+    Clones: 0.33%
+    Lands Matter: 0.33%
+    Maverick: 0.29%
+    Birthing Pod / Pod: 0.25%
+    Formula X-1: 0.25%
+    Vehicles: 0.25%
+    Tron: 0.21%
+    Devotion: 0.21%
+    Snow: 0.21%
+    Miracles: 0.21%
+    Morph: 0.17%
+    Blue Moon: 0.17%
+    Delver: 0.17%
+    Modular: 0.17%
+    Defender: 0.13%
+~~~~~Naya (RGW)~~~~~
+    Tokens: 31.93%
+    Tribal: 25.01%
+    Aggro: 22.74%
+    Combo: 15.88%
+    Ramp: 12.03%
+    Lands Matter: 9.66%
+    +1/+1 Counters: 8.28%
+    Midrange: 7.76%
+    Battlecruiser: 7.18%
+    Stax: 6.91%
+    Enchantments: 6.07%
+    Voltron: 5.91%
+    Eggs: 5.86%
+    Zoo: 5.75%
+    Birthing Pod / Pod: 5.38%
+    Hatebears: 5.17%
+    Goodstuff: 4.22%
+    Auras: 3.96%
+    Toolbox: 3.75%
+    Equipment: 2.74%
+    Extra Combats: 2.59%
+    Control: 2.27%
+    Life Gain: 2.11%
+    Land Destruction: 1.69%
+    Group Slug: 1.58%
+    Burn: 1.48%
+    Tempo: 1.32%
+    Artifacts: 1.27%
+    Aristocrats: 1.06%
+    Group Hug: 1.0%
+    Chaos: 1.0%
+    Blink / Flicker: 1.0%
+    Pillowfort: 1.0%
+    Reanimator: 0.79%
+    Aikido: 0.74%
+    Modified: 0.74%
+    Clones: 0.74%
+    Spellslinger: 0.74%
+    Flying: 0.69%
+    Death & Taxes: 0.69%
+    Storm: 0.69%
+    Vorthos: 0.69%
+    Tron: 0.63%
+    Turbo: 0.63%
+    Formula X-1: 0.63%
+    Stoneblade: 0.58%
+    Infect: 0.53%
+    Maverick: 0.53%
+    Modular: 0.53%
+    Cycling: 0.47%
+    Farm: 0.42%
+    Discard: 0.42%
+    Super Friends: 0.42%
+    Snow: 0.37%
+    Suicide: 0.37%
+    Rock: 0.37%
+    Devotion: 0.32%
+    Morph: 0.32%
+    Mill: 0.32%
+    Miracles: 0.32%
+    Colorless: 0.26%
+    -1/-1 Counters: 0.26%
+    Extra Turns: 0.26%
+    Mutate: 0.26%
+    Dredge: 0.26%
+    Wheels: 0.26%
+    Affinity: 0.26%
+    Defender: 0.26%
+    Historic: 0.26%
+    Thieves: 0.26%
+    Vehicles: 0.26%
+    Blue Moon: 0.21%
+    Delver: 0.21%
+~~~~~Jund (BRG)~~~~~
+    Combo: 22.85%
+    Aristocrats: 20.29%
+    Tokens: 18.26%
+    Lands Matter: 15.29%
+    Aggro: 14.77%
+    Ramp: 14.13%
+    Reanimator: 13.9%
+    Midrange: 10.58%
+    Tribal: 8.43%
+    +1/+1 Counters: 6.86%
+    Burn: 5.76%
+    Artifacts: 5.76%
+    Group Slug: 5.58%
+    Goodstuff: 5.29%
+    Land Destruction: 4.59%
+    Battlecruiser: 4.24%
+    Voltron: 4.13%
+    Toolbox: 3.84%
+    Storm: 3.55%
+    Control: 3.02%
+    Group Hug: 2.85%
+    Farm: 2.67%
+    Chaos: 2.5%
+    Discard: 2.38%
+    Birthing Pod / Pod: 2.09%
+    Turbo: 1.98%
+    Dredge: 1.98%
+    Stax: 1.98%
+    Extra Combats: 1.63%
+    Suicide: 1.57%
+    Enchantments: 1.57%
+    Infect: 1.34%
+    Mill: 1.28%
+    Flying: 1.22%
+    Hatebears: 1.1%
+    Super Friends: 1.05%
+    Life Gain: 0.99%
+    Spellslinger: 0.93%
+    Cycling: 0.81%
+    Death & Taxes: 0.76%
+    -1/-1 Counters: 0.76%
+    Rock: 0.76%
+    Equipment: 0.7%
+    Tempo: 0.7%
+    Pillowfort: 0.7%
+    Eggs: 0.64%
+    Wheels: 0.64%
+    Formula X-1: 0.64%
+    Clones: 0.52%
+    Thieves: 0.52%
+    Auras: 0.47%
+    Snow: 0.47%
+    Zoo: 0.47%
+    Aikido: 0.41%
+    Colorless: 0.41%
+    Modified: 0.41%
+    Vorthos: 0.41%
+    Morph: 0.35%
+    Devotion: 0.29%
+    Extra Turns: 0.29%
+    Blink / Flicker: 0.29%
+    Affinity: 0.29%
+    Delver: 0.29%
+    Historic: 0.29%
+    Vehicles: 0.29%
+    Tron: 0.23%
+    Mutate: 0.23%
+    Maverick: 0.23%
+    Blue Moon: 0.23%
+    Miracles: 0.23%
+    Stoneblade: 0.23%
+    Defender: 0.17%
+    Modular: 0.12%
+~~~~~Rakdos (BR)~~~~~
+    Combo: 20.27%
+    Tribal: 19.39%
+    Aggro: 17.54%
+    Reanimator: 17.14%
+    Discard: 12.97%
+    Aristocrats: 12.24%
+    Tokens: 11.12%
+    Burn: 11.0%
+    Artifacts: 11.0%
+    Group Slug: 9.23%
+    Midrange: 7.31%
+    Chaos: 6.06%
+    Control: 5.3%
+    Storm: 5.02%
+    Spellslinger: 4.5%
+    Suicide: 4.42%
+    Voltron: 3.49%
+    +1/+1 Counters: 2.97%
+    Ramp: 2.85%
+    Goodstuff: 2.81%
+    Battlecruiser: 2.61%
+    Life Gain: 2.61%
+    Extra Combats: 2.17%
+    Flying: 1.93%
+    Wheels: 1.85%
+    Stax: 1.85%
+    -1/-1 Counters: 1.69%
+    Tempo: 1.57%
+    Enchantments: 1.53%
+    Toolbox: 1.49%
+    Infect: 1.41%
+    Thieves: 1.28%
+    Cycling: 1.24%
+    Farm: 1.24%
+    Turbo: 1.16%
+    Death & Taxes: 0.96%
+    Land Destruction: 0.8%
+    Hatebears: 0.76%
+    Blink / Flicker: 0.76%
+    Pillowfort: 0.76%
+    Mill: 0.76%
+    Rock: 0.76%
+    Colorless: 0.72%
+    Equipment: 0.72%
+    Dredge: 0.72%
+    Group Hug: 0.6%
+    Eggs: 0.6%
+    Snow: 0.6%
+    Lands Matter: 0.56%
+    Vorthos: 0.48%
+    Extra Turns: 0.44%
+    Formula X-1: 0.44%
+    Devotion: 0.4%
+    Affinity: 0.4%
+    Aikido: 0.36%
+    Modified: 0.36%
+    Auras: 0.36%
+    Clones: 0.36%
+    Zoo: 0.36%
+    Super Friends: 0.32%
+    Tron: 0.28%
+    Birthing Pod / Pod: 0.24%
+    Maverick: 0.24%
+    Miracles: 0.24%
+    Morph: 0.2%
+    Mutate: 0.2%
+    Delver: 0.2%
+    Modular: 0.2%
+    Vehicles: 0.2%
+    Blue Moon: 0.16%
+    Stoneblade: 0.16%
+    Historic: 0.16%
+    Defender: 0.12%
+~~~~~Five Color (WUBRG)~~~~~
+    Tribal: 37.5%
+    Combo: 23.01%
+    Enchantments: 11.7%
+    Aggro: 11.04%
+    Goodstuff: 10.95%
+    Midrange: 9.53%
+    Tokens: 7.25%
+    Toolbox: 7.1%
+    Ramp: 7.04%
+    Control: 6.29%
+    Battlecruiser: 6.23%
+    Flying: 5.29%
+    Lands Matter: 4.87%
+    Reanimator: 4.81%
+    Super Friends: 4.3%
+    Extra Combats: 3.85%
+    Stax: 3.46%
+    Artifacts: 3.16%
+    +1/+1 Counters: 3.13%
+    Spellslinger: 2.95%
+    Tempo: 2.86%
+    Storm: 2.83%
+    Blink / Flicker: 2.44%
+    Pillowfort: 2.2%
+    Mutate: 2.14%
+    Chaos: 1.92%
+    Group Hug: 1.86%
+    Historic: 1.83%
+    Voltron: 1.71%
+    Extra Turns: 1.53%
+    Hatebears: 1.47%
+    Turbo: 1.2%
+    Devotion: 1.11%
+    Clones: 1.11%
+    Land Destruction: 1.08%
+    Birthing Pod / Pod: 1.05%
+    Group Slug: 1.05%
+    Life Gain: 1.02%
+    Mill: 0.99%
+    Zoo: 0.9%
+    Wheels: 0.84%
+    Vorthos: 0.84%
+    Colorless: 0.81%
+    Cycling: 0.78%
+    Farm: 0.75%
+    Burn: 0.75%
+    Aristocrats: 0.69%
+    Equipment: 0.66%
+    Auras: 0.66%
+    Discard: 0.66%
+    Death & Taxes: 0.63%
+    Suicide: 0.57%
+    Infect: 0.54%
+    Snow: 0.48%
+    Eggs: 0.39%
+    Thieves: 0.39%
+    Aikido: 0.3%
+    Dredge: 0.3%
+    Formula X-1: 0.3%
+    Tron: 0.27%
+    Affinity: 0.27%
+    Rock: 0.27%
+    Blue Moon: 0.24%
+    Miracles: 0.24%
+    Maverick: 0.21%
+    Morph: 0.18%
+    Modified: 0.18%
+    Defender: 0.18%
+    -1/-1 Counters: 0.15%
+    Delver: 0.15%
+    Stoneblade: 0.15%
+    Vehicles: 0.12%
+    Modular: 0.09%
+~~~~~Azorius (WU) ~~~~~
+    Control: 29.84%
+    Combo: 19.85%
+    Artifacts: 19.22%
+    Blink / Flicker: 18.45%
+    Stax: 14.1%
+    Tokens: 13.57%
+    Flying: 13.09%
+    Tribal: 12.12%
+    Vehicles: 11.2%
+    Voltron: 7.05%
+    Midrange: 6.86%
+    Enchantments: 6.62%
+    Aggro: 5.89%
+    Spellslinger: 5.65%
+    Pillowfort: 4.97%
+    Extra Turns: 4.44%
+    +1/+1 Counters: 3.72%
+    Group Hug: 3.57%
+    Auras: 3.57%
+    Tempo: 3.48%
+    Hatebears: 3.43%
+    Battlecruiser: 2.99%
+    Equipment: 2.8%
+    Mill: 2.75%
+    Lands Matter: 2.46%
+    Reanimator: 2.37%
+    Life Gain: 2.32%
+    Goodstuff: 2.03%
+    Toolbox: 2.03%
+    Affinity: 1.93%
+    Clones: 1.74%
+    Death & Taxes: 1.55%
+    Super Friends: 1.5%
+    Historic: 1.45%
+    Ramp: 1.3%
+    Discard: 1.3%
+    Storm: 1.3%
+    Wheels: 1.06%
+    Land Destruction: 0.92%
+    Colorless: 0.87%
+    Chaos: 0.87%
+    Modified: 0.77%
+    Group Slug: 0.77%
+    Eggs: 0.68%
+    Aristocrats: 0.68%
+    Vorthos: 0.68%
+    Stoneblade: 0.63%
+    Thieves: 0.63%
+    Rock: 0.58%
+    Miracles: 0.53%
+    Farm: 0.48%
+    Morph: 0.43%
+    Infect: 0.43%
+    Devotion: 0.39%
+    Cycling: 0.39%
+    Turbo: 0.39%
+    Snow: 0.39%
+    Zoo: 0.39%
+    Birthing Pod / Pod: 0.34%
+    -1/-1 Counters: 0.34%
+    Burn: 0.34%
+    Defender: 0.34%
+    Aikido: 0.29%
+    Suicide: 0.29%
+    Modular: 0.29%
+    Formula X-1: 0.29%
+    Tron: 0.24%
+    Extra Combats: 0.24%
+    Dredge: 0.24%
+    Maverick: 0.24%
+    Blue Moon: 0.24%
+    Delver: 0.24%
+    Mutate: 0.19%
+~~~~~Aggression (WBRG)~~~~~
+    Aggro: 33.04%
+    Combo: 24.4%
+    Tribal: 19.94%
+    Stax: 16.07%
+    Tokens: 14.88%
+    Birthing Pod / Pod: 13.69%
+    Midrange: 11.31%
+    Hatebears: 9.52%
+    +1/+1 Counters: 8.93%
+    Extra Combats: 8.33%
+    Life Gain: 7.74%
+    Reanimator: 7.44%
+    Toolbox: 6.85%
+    Infect: 6.55%
+    Aristocrats: 6.55%
+    Lands Matter: 6.25%
+    Farm: 5.95%
+    Goodstuff: 5.95%
+    Artifacts: 5.95%
+    Tempo: 5.36%
+    Equipment: 4.76%
+    Ramp: 4.76%
+    Enchantments: 4.76%
+    Group Slug: 3.87%
+    Battlecruiser: 3.57%
+    Voltron: 3.57%
+    Zoo: 3.27%
+    Control: 2.98%
+    Storm: 2.98%
+    Flying: 2.68%
+    Death & Taxes: 2.68%
+    Chaos: 2.68%
+    -1/-1 Counters: 2.68%
+    Auras: 2.68%
+    Suicide: 2.68%
+    Land Destruction: 2.68%
+    Clones: 2.38%
+    Extra Turns: 2.38%
+    Blink / Flicker: 2.38%
+    Mill: 2.38%
+    Colorless: 1.79%
+    Devotion: 1.79%
+    Turbo: 1.79%
+    Burn: 1.79%
+    Discard: 1.79%
+    Pillowfort: 1.79%
+    Super Friends: 1.79%
+    Affinity: 1.79%
+    Formula X-1: 1.79%
+    Historic: 1.79%
+    Aikido: 1.49%
+    Group Hug: 1.49%
+    Tron: 1.49%
+    Morph: 1.49%
+    Cycling: 1.49%
+    Modified: 1.49%
+    Eggs: 1.49%
+    Spellslinger: 1.49%
+    Mutate: 1.49%
+    Dredge: 1.49%
+    Snow: 1.19%
+    Wheels: 1.19%
+    Maverick: 1.19%
+    Blue Moon: 1.19%
+    Miracles: 1.19%
+    Delver: 1.19%
+    Stoneblade: 1.19%
+    Rock: 1.19%
+    Vehicles: 1.19%
+    Modular: 0.89%
+    Vorthos: 0.89%
+    Defender: 0.89%
+    Thieves: 0.89%
+~~~~~Altruism (WURG)~~~~~
+    Lands Matter: 44.71%
+    Ramp: 30.35%
+    Combo: 30.12%
+    Group Hug: 20.47%
+    Midrange: 14.59%
+    Tokens: 9.65%
+    Blink / Flicker: 9.41%
+    Pillowfort: 7.06%
+    Control: 6.82%
+    Toolbox: 6.12%
+    Tribal: 6.12%
+    Goodstuff: 5.18%
+    Life Gain: 4.94%
+    Birthing Pod / Pod: 4.47%
+    Storm: 4.47%
+    Tempo: 4.24%
+    Battlecruiser: 4.0%
+    Spellslinger: 4.0%
+    Artifacts: 4.0%
+    Aggro: 4.0%
+    Enchantments: 3.76%
+    Clones: 3.53%
+    Burn: 3.53%
+    Group Slug: 3.29%
+    +1/+1 Counters: 3.29%
+    Mill: 3.06%
+    Stax: 3.06%
+    Chaos: 2.82%
+    Land Destruction: 2.82%
+    Cycling: 2.35%
+    Extra Turns: 2.35%
+    Mutate: 2.35%
+    Extra Combats: 2.35%
+    Reanimator: 2.35%
+    Aikido: 2.12%
+    Equipment: 2.12%
+    Wheels: 2.12%
+    Death & Taxes: 1.88%
+    Voltron: 1.88%
+    Formula X-1: 1.88%
+    Historic: 1.88%
+    Zoo: 1.65%
+    Hatebears: 1.65%
+    Aristocrats: 1.65%
+    Maverick: 1.65%
+    Rock: 1.65%
+    Devotion: 1.41%
+    -1/-1 Counters: 1.41%
+    Modified: 1.41%
+    Farm: 1.41%
+    Snow: 1.41%
+    Suicide: 1.41%
+    Discard: 1.41%
+    Super Friends: 1.41%
+    Affinity: 1.41%
+    Blue Moon: 1.41%
+    Vehicles: 1.41%
+    Flying: 1.18%
+    Colorless: 1.18%
+    Morph: 1.18%
+    Auras: 1.18%
+    Eggs: 1.18%
+    Dredge: 1.18%
+    Miracles: 1.18%
+    Stoneblade: 1.18%
+    Vorthos: 1.18%
+    Defender: 1.18%
+    Tron: 0.94%
+    Turbo: 0.94%
+    Infect: 0.94%
+    Delver: 0.94%
+    Thieves: 0.94%
+    Modular: 0.71%
+~~~~~Artifice (WUBR)~~~~~
+    Artifacts: 58.69%
+    Combo: 53.76%
+    Tokens: 23.0%
+    Midrange: 15.02%
+    Farm: 13.38%
+    Control: 11.27%
+    Affinity: 9.15%
+    Blink / Flicker: 8.92%
+    Goodstuff: 8.45%
+    Storm: 8.45%
+    Aggro: 7.75%
+    Wheels: 7.51%
+    Extra Turns: 7.28%
+    Vehicles: 6.57%
+    Turbo: 6.1%
+    Tribal: 5.63%
+    Toolbox: 4.93%
+    Stax: 4.93%
+    Spellslinger: 4.69%
+    Hatebears: 4.46%
+    Aristocrats: 4.46%
+    Voltron: 4.23%
+    Reanimator: 4.23%
+    Eggs: 3.99%
+    Equipment: 3.76%
+    Tempo: 3.76%
+    Battlecruiser: 3.29%
+    Burn: 3.05%
+    Historic: 2.82%
+    Colorless: 2.58%
+    Ramp: 2.58%
+    Discard: 2.58%
+    +1/+1 Counters: 2.35%
+    Flying: 2.11%
+    Life Gain: 2.11%
+    Extra Combats: 2.11%
+    Super Friends: 2.11%
+    Death & Taxes: 1.88%
+    Chaos: 1.88%
+    Clones: 1.88%
+    Suicide: 1.88%
+    Mill: 1.88%
+    Rock: 1.88%
+    Thieves: 1.88%
+    Group Slug: 1.64%
+    Lands Matter: 1.64%
+    Infect: 1.64%
+    Land Destruction: 1.64%
+    Enchantments: 1.64%
+    Group Hug: 1.41%
+    Tron: 1.41%
+    Morph: 1.41%
+    Cycling: 1.41%
+    -1/-1 Counters: 1.41%
+    Zoo: 1.41%
+    Aikido: 1.17%
+    Modified: 1.17%
+    Auras: 1.17%
+    Pillowfort: 1.17%
+    Formula X-1: 1.17%
+    Devotion: 0.94%
+    Birthing Pod / Pod: 0.94%
+    Snow: 0.94%
+    Mutate: 0.94%
+    Dredge: 0.94%
+    Maverick: 0.94%
+    Blue Moon: 0.94%
+    Miracles: 0.94%
+    Delver: 0.94%
+    Stoneblade: 0.94%
+    Vorthos: 0.94%
+    Modular: 0.7%
+    Defender: 0.7%
+~~~~~Boros (RW)~~~~~
+    Aggro: 29.6%
+    Artifacts: 28.91%
+    Equipment: 22.5%
+    Voltron: 20.15%
+    Combo: 16.69%
+    Tokens: 10.0%
+    Tribal: 9.73%
+    Stax: 9.45%
+    Spellslinger: 8.3%
+    Extra Combats: 7.19%
+    Burn: 6.32%
+    Reanimator: 5.53%
+    +1/+1 Counters: 5.3%
+    Hatebears: 4.93%
+    Midrange: 4.75%
+    Auras: 3.46%
+    Life Gain: 3.32%
+    Control: 3.32%
+    Battlecruiser: 2.81%
+    Enchantments: 2.77%
+    Vehicles: 2.77%
+    Toolbox: 2.58%
+    Goodstuff: 2.35%
+    Blink / Flicker: 1.98%
+    Aristocrats: 1.94%
+    Storm: 1.66%
+    Ramp: 1.57%
+    Discard: 1.57%
+    Flying: 1.48%
+    Land Destruction: 1.48%
+    Affinity: 1.38%
+    Modified: 1.29%
+    Extra Turns: 1.29%
+    Group Slug: 1.29%
+    Tempo: 1.29%
+    Death & Taxes: 1.15%
+    Modular: 1.15%
+    Rock: 1.15%
+    Historic: 1.15%
+    Eggs: 1.06%
+    Super Friends: 1.01%
+    Stoneblade: 0.92%
+    Clones: 0.88%
+    Wheels: 0.88%
+    Colorless: 0.83%
+    Infect: 0.78%
+    Pillowfort: 0.69%
+    Tron: 0.65%
+    Mill: 0.65%
+    Thieves: 0.65%
+    Cycling: 0.6%
+    Lands Matter: 0.6%
+    Vorthos: 0.6%
+    Chaos: 0.55%
+    Suicide: 0.55%
+    Snow: 0.51%
+    Zoo: 0.51%
+    Aikido: 0.46%
+    Devotion: 0.46%
+    Turbo: 0.46%
+    Formula X-1: 0.41%
+    Group Hug: 0.37%
+    Birthing Pod / Pod: 0.32%
+    Farm: 0.28%
+    Defender: 0.28%
+    Morph: 0.23%
+    -1/-1 Counters: 0.23%
+    Dredge: 0.23%
+    Delver: 0.23%
+    Mutate: 0.18%
+    Maverick: 0.18%
+    Blue Moon: 0.18%
+    Miracles: 0.18%
+~~~~~Esper (WUB)~~~~~
+    Combo: 25.82%
+    Control: 23.43%
+    Artifacts: 19.5%
+    Reanimator: 16.98%
+    Enchantments: 14.28%
+    Tokens: 12.47%
+    Tribal: 12.02%
+    Stax: 10.08%
+    Midrange: 9.77%
+    Blink / Flicker: 9.33%
+    Life Gain: 8.49%
+    Discard: 7.43%
+    Flying: 7.29%
+    +1/+1 Counters: 6.06%
+    Aggro: 5.26%
+    Aristocrats: 4.77%
+    Pillowfort: 4.69%
+    Extra Turns: 4.64%
+    Goodstuff: 4.33%
+    Hatebears: 4.11%
+    Voltron: 3.8%
+    Tempo: 3.45%
+    Cycling: 3.05%
+    Death & Taxes: 3.01%
+    Farm: 2.79%
+    Toolbox: 2.74%
+    Mill: 2.74%
+    Auras: 2.61%
+    Equipment: 2.56%
+    Wheels: 2.56%
+    Thieves: 2.43%
+    Battlecruiser: 2.17%
+    Affinity: 2.12%
+    Clones: 2.03%
+    Super Friends: 1.81%
+    Vehicles: 1.81%
+    Group Slug: 1.41%
+    Spellslinger: 1.28%
+    Turbo: 1.24%
+    Lands Matter: 1.24%
+    Storm: 1.19%
+    Group Hug: 1.06%
+    Suicide: 1.06%
+    Ramp: 1.02%
+    Infect: 0.84%
+    Historic: 0.84%
+    Miracles: 0.8%
+    Burn: 0.75%
+    Land Destruction: 0.75%
+    Rock: 0.71%
+    Aikido: 0.66%
+    Chaos: 0.62%
+    Snow: 0.62%
+    Colorless: 0.57%
+    -1/-1 Counters: 0.57%
+    Zoo: 0.57%
+    Delver: 0.49%
+    Formula X-1: 0.49%
+    Eggs: 0.44%
+    Modified: 0.4%
+    Vorthos: 0.4%
+    Morph: 0.35%
+    Extra Combats: 0.35%
+    Stoneblade: 0.35%
+    Tron: 0.31%
+    Devotion: 0.31%
+    Dredge: 0.31%
+    Maverick: 0.31%
+    Birthing Pod / Pod: 0.27%
+    Mutate: 0.27%
+    Blue Moon: 0.27%
+    Modular: 0.22%
+    Defender: 0.22%
+~~~~~Izzet (UR)~~~~~
+    Spellslinger: 35.06%
+    Combo: 31.57%
+    Storm: 22.06%
+    Artifacts: 19.15%
+    Control: 13.21%
+    Tribal: 12.59%
+    Tokens: 11.43%
+    Burn: 9.18%
+    Aggro: 7.77%
+    Wheels: 7.52%
+    Midrange: 6.11%
+    Chaos: 5.86%
+    Tempo: 3.99%
+    Voltron: 3.82%
+    Clones: 3.53%
+    Extra Turns: 3.12%
+    Discard: 2.74%
+    Flying: 2.7%
+    Goodstuff: 2.33%
+    Ramp: 2.24%
+    Affinity: 1.95%
+    Battlecruiser: 1.83%
+    Extra Combats: 1.7%
+    Group Slug: 1.41%
+    Equipment: 1.37%
+    Blue Moon: 1.37%
+    +1/+1 Counters: 1.33%
+    Mill: 1.33%
+    Stax: 1.29%
+    Toolbox: 1.25%
+    Historic: 1.2%
+    Thieves: 1.16%
+    Colorless: 1.0%
+    Land Destruction: 0.83%
+    Eggs: 0.79%
+    Super Friends: 0.75%
+    Rock: 0.75%
+    Blink / Flicker: 0.66%
+    Enchantments: 0.66%
+    Lands Matter: 0.62%
+    Turbo: 0.58%
+    Farm: 0.58%
+    Cycling: 0.54%
+    Group Hug: 0.5%
+    Suicide: 0.5%
+    Delver: 0.46%
+    Vorthos: 0.46%
+    Aristocrats: 0.42%
+    Formula X-1: 0.42%
+    Aikido: 0.37%
+    Miracles: 0.37%
+    Modular: 0.37%
+    Birthing Pod / Pod: 0.33%
+    Morph: 0.33%
+    Auras: 0.33%
+    Snow: 0.33%
+    Zoo: 0.33%
+    Hatebears: 0.33%
+    Life Gain: 0.33%
+    Tron: 0.29%
+    Mutate: 0.29%
+    Pillowfort: 0.29%
+    Reanimator: 0.29%
+    Maverick: 0.29%
+    Vehicles: 0.29%
+    Devotion: 0.25%
+    Death & Taxes: 0.25%
+    Infect: 0.25%
+    -1/-1 Counters: 0.21%
+    Dredge: 0.21%
+    Modified: 0.17%
+    Stoneblade: 0.17%
+    Defender: 0.17%
+~~~~~Mono Blue~~~~~
+    Combo: 34.04%
+    Control: 31.98%
+    Artifacts: 22.37%
+    Spellslinger: 15.29%
+    Tribal: 14.96%
+    Tokens: 11.4%
+    Mill: 10.86%
+    Clones: 8.64%
+    Extra Turns: 6.86%
+    Stax: 6.37%
+    Storm: 5.94%
+    Aggro: 5.67%
+    Midrange: 5.46%
+    Tempo: 5.4%
+    Flying: 5.24%
+    Voltron: 3.94%
+    Ramp: 3.84%
+    Blink / Flicker: 3.46%
+    Battlecruiser: 3.03%
+    Goodstuff: 3.03%
+    Group Hug: 2.97%
+    Affinity: 2.38%
+    Toolbox: 2.16%
+    Equipment: 2.05%
+    Wheels: 2.05%
+    Thieves: 2.0%
+    Devotion: 1.94%
+    Lands Matter: 1.94%
+    Infect: 1.62%
+    Enchantments: 1.51%
+    Snow: 1.4%
+    Discard: 1.3%
+    +1/+1 Counters: 1.24%
+    Colorless: 1.08%
+    Pillowfort: 1.08%
+    Reanimator: 1.03%
+    Vehicles: 1.03%
+    Chaos: 0.92%
+    Auras: 0.86%
+    Turbo: 0.86%
+    Blue Moon: 0.86%
+    Eggs: 0.81%
+    Aristocrats: 0.81%
+    Farm: 0.76%
+    Rock: 0.76%
+    Tron: 0.7%
+    Miracles: 0.7%
+    Historic: 0.7%
+    Zoo: 0.65%
+    Hatebears: 0.65%
+    Super Friends: 0.65%
+    Cycling: 0.59%
+    Group Slug: 0.59%
+    Defender: 0.59%
+    Morph: 0.49%
+    Modified: 0.49%
+    Suicide: 0.43%
+    Death & Taxes: 0.38%
+    -1/-1 Counters: 0.38%
+    Burn: 0.38%
+    Life Gain: 0.38%
+    Dredge: 0.38%
+    Aikido: 0.32%
+    Birthing Pod / Pod: 0.32%
+    Extra Combats: 0.32%
+    Land Destruction: 0.32%
+    Mutate: 0.27%
+    Maverick: 0.27%
+    Delver: 0.27%
+    Formula X-1: 0.27%
+    Vorthos: 0.27%
+    Stoneblade: 0.22%
+    Modular: 0.11%
+~~~~~Mono Red~~~~~
+    Aggro: 32.55%
+    Combo: 26.09%
+    Tribal: 24.44%
+    Burn: 22.66%
+    Tokens: 19.4%
+    Artifacts: 17.14%
+    Storm: 8.68%
+    Spellslinger: 7.25%
+    Extra Combats: 6.94%
+    Voltron: 5.69%
+    Group Slug: 5.56%
+    Equipment: 4.95%
+    Chaos: 4.34%
+    Stax: 4.12%
+    Midrange: 3.69%
+    Ramp: 3.52%
+    Reanimator: 3.43%
+    Discard: 3.34%
+    Wheels: 3.3%
+    Clones: 3.17%
+    Control: 3.04%
+    Battlecruiser: 2.91%
+    Toolbox: 2.78%
+    Land Destruction: 2.34%
+    Suicide: 1.78%
+    +1/+1 Counters: 1.74%
+    Goodstuff: 1.56%
+    Lands Matter: 1.3%
+    Tempo: 1.3%
+    Super Friends: 1.3%
+    Aristocrats: 1.3%
+    Flying: 1.22%
+    Enchantments: 1.09%
+    Snow: 1.04%
+    Thieves: 1.04%
+    Blink / Flicker: 0.95%
+    Turbo: 0.87%
+    Vehicles: 0.87%
+    Rock: 0.74%
+    Mill: 0.69%
+    Colorless: 0.65%
+    Hatebears: 0.65%
+    Group Hug: 0.61%
+    Devotion: 0.61%
+    Modified: 0.56%
+    Farm: 0.56%
+    Zoo: 0.52%
+    Cycling: 0.48%
+    Affinity: 0.48%
+    Auras: 0.43%
+    Pillowfort: 0.43%
+    Tron: 0.39%
+    Death & Taxes: 0.39%
+    Historic: 0.39%
+    Life Gain: 0.35%
+    Aikido: 0.3%
+    Extra Turns: 0.3%
+    Infect: 0.3%
+    Miracles: 0.3%
+    Vorthos: 0.3%
+    Eggs: 0.26%
+    Dredge: 0.26%
+    Formula X-1: 0.26%
+    Morph: 0.22%
+    Birthing Pod / Pod: 0.17%
+    Delver: 0.17%
+    Stoneblade: 0.17%
+    -1/-1 Counters: 0.13%
+    Mutate: 0.13%
+    Maverick: 0.13%
+    Blue Moon: 0.13%
+    Modular: 0.13%
+    Defender: 0.13%

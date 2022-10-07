@@ -24,7 +24,7 @@ def chart(nodes, edges):
     foo = Image.open('Graph.jpg')
     foo.save('Graph.jpg', optimize=True, quality=95)
 
-with open('hub_data.json', 'r') as f:
+with open('hub_counts.json', 'r') as f:
     data = json.load(f)
 nodes = []
 edges = []

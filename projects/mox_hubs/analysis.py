@@ -1,7 +1,10 @@
 import json
 
-with open('hub_counts.json', 'r') as f:
+with open('hub_relationships.json', 'r') as f:
     hub_relations = json.load(f)
+
+with open('hub_counts.json', 'r') as f:
+    hub_counts = json.load(f)
 
 total = 677308
 
@@ -29,3 +32,22 @@ with open('hub_analysis/by_color.txt', 'w') as f:
         for hub2, count in relation_hubs.items():
             f.write('    '+hub2+': '+str(count)+'\n')
 
+with open('hub_analysis/by_color_ratio.txt', 'w') as f:
+    for hub, relations in hub_relations.items():
+        if hub not in color_hubs:
+            continue
+        f.write('~~~~~'+hub+'~~~~~\n')
+        relation_hubs = { your_key: relations[your_key] for your_key in strategy_hubs }
+        relation_hubs = {k: v for k, v in reversed(sorted(relation_hubs.items(), key=lambda item: item[1]))}
+        for hub2, count in relation_hubs.items():
+            f.write('    '+hub2+': '+str(round(count/hub_counts[hub]*100, 2))+'%\n')
+
+with open('hub_analysis/by_strategy_ratio.txt', 'w') as f:
+    for hub, relations in hub_relations.items():
+        if hub not in strategy_hubs:
+            continue
+        f.write('~~~~~'+hub+'~~~~~\n')
+        relation_hubs = { your_key: relations[your_key] for your_key in color_hubs }
+        relation_hubs = {k: v for k, v in reversed(sorted(relation_hubs.items(), key=lambda item: item[1]))}
+        for hub2, count in relation_hubs.items():
+            f.write('    '+hub2+': '+str(round(count/hub_counts[hub]*100, 2))+'%\n')
