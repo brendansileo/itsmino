@@ -1,83 +1,116 @@
 ~~~~~
-    main
+    decks
         https://www.moxfield.com/decks/uhQZ6oPWQ0Kwje1DqQ0e1Q
         https://www.moxfield.com/decks/Cr7fM-ULMkGnProCumTQaA
         https://www.moxfield.com/decks/eh-pjMWJY06cpV1ifq7vOA
         https://www.moxfield.com/decks/qmitWVxjmEK1FX5TYXkEVw
         https://www.moxfield.com/decks/wWwB41Tl2kKEjLaFMi0tZw
+        https://www.moxfield.com/decks/F8rYroWB4k2Nyr_PVBehPw
         https://www.moxfield.com/decks/Rp77JlJFOUmBDzsKsnYlMw
         https://www.moxfield.com/decks/wkjalI4zy0aXjxXXleRP5w
+        https://www.moxfield.com/decks/emGspLMO2kmP_LYBRQRJGw
         https://www.moxfield.com/decks/dh9cc5akfUOSujXAJtyJGQ
         https://www.moxfield.com/decks/ltgI_KGW-kiGBMmI-a1U4A
         https://www.moxfield.com/decks/ouwX85jgsUO7Fs1v98vQvw
-        https://www.moxfield.com/decks/AqdmpPY6S0SSRAEW8Tfv_g
-        https://www.moxfield.com/decks/oBtOwIuwn0CnMgZjmPOvpQ
-        https://www.moxfield.com/decks/jqxv_j4hjkmuwu2Hi7qcuw
-        https://www.moxfield.com/decks/_OKFgjayc0GIPtKDiD7Zog
-        https://www.moxfield.com/decks/Ry_ONXX4jkCCmtLhVpSL2w
-    secondary
-        https://www.moxfield.com/decks/emGspLMO2kmP_LYBRQRJGw
+        https://www.moxfield.com/decks/olXmfoOCtkqbU1DA8c7vkQ
         https://www.moxfield.com/decks/Jtp-JHJ0EUq6LaMEGgOngg
         https://www.moxfield.com/decks/Jtp-JHJ0EUq6LaMEGgOngg
         https://www.moxfield.com/decks/ycBsQv6FdE6oY4CYmlWMZA
-        https://www.moxfield.com/decks/olXmfoOCtkqbU1DA8c7vkQ
+        https://www.moxfield.com/decks/AqdmpPY6S0SSRAEW8Tfv_g
+        https://www.moxfield.com/decks/oBtOwIuwn0CnMgZjmPOvpQ
         https://www.moxfield.com/decks/ERSWh0ajnk-74EWCPTF1Cg
+        https://www.moxfield.com/decks/jqxv_j4hjkmuwu2Hi7qcuw
+        https://www.moxfield.com/decks/_OKFgjayc0GIPtKDiD7Zog
+        https://www.moxfield.com/decks/Ry_ONXX4jkCCmtLhVpSL2w
     pet_cards
-        Gitaxian Probe
-        Rejuvenating Springs
-        Eternal Witness
-        Lim-Dûl's Vault
-        Dispel
-        Brainstorm
-        Miscast
-        Snow-Covered Forest
+        Unearth
+        Mana Vault
+        Waterlogged Grove
+        Vanishing Verse
+        Flooded Grove
+        Ancient Tomb
+        Biomancer's Familiar
+        Fauna Shaman
+        Training Grounds
+        Dovin's Veto
+        Vault of Champions
+        Bountiful Promenade
+        Necropotence
+        Lavinia, Azorius Renegade
         Whispering Madness
         Nature's Claim
         Island
+        Snow-Covered Forest
+        Chain of Vapor
         Oko, Thief of Crowns
         Hullbreaker Horror
         Grim Hireling
+        Spell Pierce
+        Snow-Covered Island
+        Vile Entomber
+        Abdel Adrian, Gorion's Ward
+        Jin-Gitaxias, Core Augur
+        Diabolic Tutor
 ~~~~~
-    main
+    decks
         https://www.moxfield.com/decks/EwS7lyEQN0mLtomfKlwoMQ
         https://www.moxfield.com/decks/CuKho0dh4UaVpYJWy3xG4A
         https://www.moxfield.com/decks/0TSaD1nwXEGDO5BIMhjliA
-        https://www.moxfield.com/decks/8BkF2s7-P0OTHbzzaIo_jQ
-        https://www.moxfield.com/decks/Igj73Cw6ikm7JCN0iF103Q
-    secondary
         https://www.moxfield.com/decks/gBfFyssv5U6EqzpJVkuKvg
         https://www.moxfield.com/decks/6b1_2xyrNkecMsdJPZN-Dg
-        https://www.moxfield.com/decks/0SFvImNP5Uaz3HlZEHXo0g
-        https://www.moxfield.com/decks/CuTKCBZIuU-xH5vUqbLNtg
         https://www.moxfield.com/decks/yvk9z10Goke4jfy4GvsL2w
+        https://www.moxfield.com/decks/8BkF2s7-P0OTHbzzaIo_jQ
+        https://www.moxfield.com/decks/gbP_ifE7O0WJJErhdrc8fA
+        https://www.moxfield.com/decks/_cFToinsZkSIqBuQzbwUxw
+        https://www.moxfield.com/decks/Igj73Cw6ikm7JCN0iF103Q
         https://www.moxfield.com/decks/qluOCzW8xEygvO0VRxrbPg
         https://www.moxfield.com/decks/OmduZ23JU0CDl4icDTr6mQ
-        https://www.moxfield.com/decks/gbP_ifE7O0WJJErhdrc8fA
-        https://www.moxfield.com/decks/Lh3esuN6Y0-OUR2wUaqRdw
-        https://www.moxfield.com/decks/_cFToinsZkSIqBuQzbwUxw
         https://www.moxfield.com/decks/C-3fhP5qUEet5UbHJKzvug
-        https://www.moxfield.com/decks/TqCGV2uZmkKKSqWiawn8PQ
+        https://www.moxfield.com/decks/0SFvImNP5Uaz3HlZEHXo0g
+        https://www.moxfield.com/decks/CuTKCBZIuU-xH5vUqbLNtg
     pet_cards
-        Hallowed Fountain
-        Eladamri's Call
-        Grand Abolisher
-        Praetor's Grasp
+        Spell Snare
+        Deafening Silence
+        Spell Pierce
         Muddle the Mixture
         Dramatic Reversal
         Isochron Scepter
         Angel's Grace
         Malevolent Hermit // Benevolent Geist
-        Drumbellower
         Toxic Deluge
         Mox Amber
-        Scrubland
         Godless Shrine
         Temple Garden
         Underground River
-        Yavimaya Coast
-        Windfall
-        Kinnan, Bonder Prodigy
-        Freed from the Real
+        Memory's Journey
+        Worldly Tutor
+        Geistwave
+        Reflecting Pool
+        Smothering Tithe
+        Survival of the Fittest
+        Culling Ritual
+        March of Swirling Mist
+        Hermit Druid
+        Dread Return
+        Narcomoeba
+        Culling the Weak
+        Mindbreak Trap
+        Oakhame Adversary
+        Oko, Thief of Crowns
+        Jace, Wielder of Mysteries
+        Drown in the Loch
+        Preordain
+        Snap
+        Ghostly Pilferer
+        Reap
+        Snow-Covered Island
+        Chord of Calling
+        Snow-Covered Forest
+        Intruder Alarm
+        Aluren
+        Academy Rector
+        Vanishing Verse
+        Acererak the Archlich
         Chain of Smog
         Priest of Titania
         Witherbloom Apprentice
@@ -86,136 +119,106 @@
         Path to Exile
         Nature's Claim
         Yavimaya, Cradle of Growth
-        Sanctum Weaver
         Pemmin's Aura
-        Memory's Journey
-        Worldly Tutor
-        Geistwave
-        Reflecting Pool
-        Aven Mindcensor
-        Smothering Tithe
-        Faeburrow Elder
-        Ghostly Pilferer
-        Deadly Rollick
-        Reap
-        Snow-Covered Island
-        Chord of Calling
-        Boreal Druid
-        Snow-Covered Forest
-        Culling Ritual
-        March of Swirling Mist
-        Hermit Druid
-        Dread Return
-        Narcomoeba
-        Culling the Weak
-        Mindbreak Trap
-        Wishclaw Talisman
-        Diabolic Intent
-        Oakhame Adversary
-        Oko, Thief of Crowns
-        Jace, Wielder of Mysteries
-        Intruder Alarm
-        Aluren
-        Academy Rector
-        Vanishing Verse
-        Acererak the Archlich
-        Rapid Hybridization
-        Archivist of Oghma
 ~~~~~
-    main
-        https://www.moxfield.com/decks/7xjzb0fP9kOMkqVb6pk1YQ
-        https://www.moxfield.com/decks/mtTtEP6nx0W68osWwax6KQ
-        https://www.moxfield.com/decks/uSgnjipi-UqpTgDRyFLP9w
-    secondary
-        https://www.moxfield.com/decks/QlW3xUHOXke2SUGd30UcgQ
-    pet_cards
-        Hullbreacher
-        Llanowar Elves
-        Fyndhorn Elves
-        Worldly Tutor
-        Deadly Rollick
-        Swords to Plowshares
-        Scrubland
-        Narset, Parter of Veils
-        Opposition Agent
-        Collector Ouphe
-        Nature's Claim
-~~~~~
-    main
-        https://www.moxfield.com/decks/49zoux2-MEiuqbZFJsf4ow
-        https://www.moxfield.com/decks/0p3N1FRwmEiooRCdcPIF7g
-        https://www.moxfield.com/decks/AFKuq_Q8lUOajHHRMY_VrQ
-    secondary
-        https://www.moxfield.com/decks/ATu9gAzoGUeoHO9MFUUt4w
-    pet_cards
-        Ancient Tomb
-        Archivist of Oghma
-        Crop Rotation
-        Emergence Zone
-        Biomancer's Familiar
-        Toxic Deluge
-        Gitaxian Probe
-        Faeburrow Elder
-        Dismember
-        Mana Drain
-        Overgrown Tomb
-        Nature's Claim
-~~~~~
-    main
-        https://www.moxfield.com/decks/LBCfNAlN4kOQNqdtqAxBtg
-        https://www.moxfield.com/decks/0M_fBq2ibU-jV-NorUK77A
-        https://www.moxfield.com/decks/oI-POZ9GCkqyc6oakOE5oA
-    secondary
+    decks
         https://www.moxfield.com/decks/q03eJfKeT0G86LKV6ryFvQ
         https://www.moxfield.com/decks/W_qHGcZKWkC7T4GUXg0ouA
-        https://www.moxfield.com/decks/5uAA_amTyEWy25hzeyUesw
         https://www.moxfield.com/decks/lD7PC46mgkStLruynNBAZA
-        https://www.moxfield.com/decks/Zh5MtTlH9UiXSaQZPWHmAw
+        https://www.moxfield.com/decks/LBCfNAlN4kOQNqdtqAxBtg
+        https://www.moxfield.com/decks/5uAA_amTyEWy25hzeyUesw
+        https://www.moxfield.com/decks/0M_fBq2ibU-jV-NorUK77A
+        https://www.moxfield.com/decks/oI-POZ9GCkqyc6oakOE5oA
     pet_cards
-        Force of Vigor
-        Swords to Plowshares
-        Dauthi Voidwalker
         Culling Ritual
-        Exotic Orchard
-        Opposition Agent
-        Otawara, Soaring City
-        Turn the Earth
         Wishclaw Talisman
         Springleaf Drum
         Ride the Avalanche
         Shallow Grave
-        Force of Negation
         March of Swirling Mist
         Endurance
-        Sylvan Safekeeper
-        Seedborn Muse
         Training Grounds
-        Arid Mesa
-        Gaea's Cradle
-        Undergrowth Stadium
-        Nature's Claim
-        Bloom Tender
         Entomb
         Godless Shrine
         Temple Garden
         Hallowed Fountain
         Stony Silence
         Archivist of Oghma
-        Llanowar Wastes
-        Adarkar Wastes
-        Underground River
-        Silent Clearing
-        Brushland
-        Caves of Koilos
-        Yavimaya Coast
-        Horizon Canopy
+        Undergrowth Stadium
+        Nature's Claim
+        Sevinne's Reclamation
 ~~~~~
-    main
+    decks
+        https://www.moxfield.com/decks/vX9zLYNjXESmor3RXFci8w
+        https://www.moxfield.com/decks/7xjzb0fP9kOMkqVb6pk1YQ
+        https://www.moxfield.com/decks/mtTtEP6nx0W68osWwax6KQ
+        https://www.moxfield.com/decks/QlW3xUHOXke2SUGd30UcgQ
+        https://www.moxfield.com/decks/uSgnjipi-UqpTgDRyFLP9w
+    pet_cards
+        Frantic Search
+        Jeweled Lotus
+        Cabal Ritual
+        Culling the Weak
+        Grand Abolisher
+        Gush
+        Doomsday
+        Lion's Eye Diamond
+        Praetor's Grasp
+        Drannith Magistrate
+        Copy Artifact
+        Drown in the Loch
+        Sensei's Divining Top
+        Worldly Tutor
+        Deadly Rollick
+        Swords to Plowshares
+        Narset, Parter of Veils
+        Collector Ouphe
+        Nature's Claim
+        Angel's Grace
+        Overgrown Tomb
+        Spellseeker
+        Yavimaya Coast
+        Underground River
+        Dark Petition
+        Temple Garden
+~~~~~
+    decks
+        https://www.moxfield.com/decks/-RudbfnXvU-r0uxRISAvGg
+        https://www.moxfield.com/decks/56EFYHSKA0OY6q2nIs2OJw
+        https://www.moxfield.com/decks/puMwmtIQm0S_2iVLQDkuqQ
+    pet_cards
+        Dispel
+        Exotic Orchard
+        Volrath's Shapeshifter
+        Llanowar Elves
+        Worldly Tutor
+        Sylvan Library
+        Ledger Shredder
+        Archivist of Oghma
+        Archon of Valor's Reach
+        Cavern of Souls
+        Culling Ritual
+        Fyndhorn Elves
+        Mindbreak Trap
+        Noxious Revival
+        Cephalid Coliseum
+        Force of Negation
+        Carpet of Flowers
+        Apprentice Necromancer
+~~~~~
+    decks
         https://www.moxfield.com/decks/OzRzBo4TikyYsWgbg-jDLg
         https://www.moxfield.com/decks/z52WQwDEnUiQca_G3-XvPg
-    secondary
         https://www.moxfield.com/decks/67SIlQ9mUEyT8jBfpfJ1DA
     pet_cards
+        Null Rod
+        Wild Growth
+        Mana Drain
+        Tarnished Citadel
+        An Offer You Can't Refuse
+        Undergrowth Stadium
+        Allosaurus Shepherd
+        Temple Garden
         Dread Return
         Green Sun's Zenith
         Nature's Claim
@@ -232,37 +235,349 @@
         Biomancer's Familiar
         Horizon Canopy
 ~~~~~
-    main
-        https://www.moxfield.com/decks/56EFYHSKA0OY6q2nIs2OJw
-        https://www.moxfield.com/decks/puMwmtIQm0S_2iVLQDkuqQ
-    secondary
-        https://www.moxfield.com/decks/-RudbfnXvU-r0uxRISAvGg
+    decks
+        https://www.moxfield.com/decks/ATu9gAzoGUeoHO9MFUUt4w
+        https://www.moxfield.com/decks/uZOFWoP99kOnA9yV_k_t9w
+        https://www.moxfield.com/decks/B9D5r22TeE-u2xeIT3DwSg
     pet_cards
-        Dispel
-        Exotic Orchard
-        Volrath's Shapeshifter
-        Llanowar Elves
-        Worldly Tutor
-        Sylvan Library
-        Ledger Shredder
         Archivist of Oghma
-        Archon of Valor's Reach
+        Crop Rotation
+        Emergence Zone
+        Biomancer's Familiar
+        Gitaxian Probe
+        Otawara, Soaring City
+        Dismember
+        Mana Drain
+        Lotus Petal
+        Yavimaya Coast
+        Intuition
+        Mystical Tutor
+        Dark Confidant
+        Green Sun's Zenith
+        Sunken Ruins
+        Twilight Mire
+        Caves of Koilos
+        Chord of Calling
+        Reflecting Pool
+        Yawgmoth's Will
+        Arid Mesa
+        Grand Abolisher
+        Dispel
+        Miscast
+        Spell Pierce
+        Eladamri's Call
+        Rest in Peace
+        Null Rod
+        Forest
+        March of Swirling Mist
 ~~~~~
-    main
+    decks
+        https://www.moxfield.com/decks/x4Ec48HuKE23P4KmebbXMQ
+        https://www.moxfield.com/decks/Lh3esuN6Y0-OUR2wUaqRdw
+        https://www.moxfield.com/decks/a6OXPC8lykqAihx3PX6t7Q
+    pet_cards
+        Brainstorm
+        Waterlogged Grove
+        Force of Vigor
+        Serra Ascendant
+        Arid Mesa
+        Praetor's Grasp
+        Grim Monolith
+        Arcane Signet
+        Mana Vault
+        Mox Opal
+        Auriok Salvagers
+        Dovin's Veto
+        Snow-Covered Island
+        Training Grounds
+        Fellwar Stone
+        Lion's Eye Diamond
+        Wishclaw Talisman
+        Miscast
+        Phantasmal Image
+        Gitaxian Probe
+        Timetwister
+        Spellseeker
+        Tarnished Citadel
+        Rejuvenating Springs
+        Aven Mindcensor
+        March of Swirling Mist
+        Arbor Elf
+        Chain of Vapor
+        Hermit Druid
+        Dread Return
+        Survival of the Fittest
+        Postmortem Lunge
+        Reanimate
+        Culling Ritual
+        Entomb
+        Elvish Spirit Guide
+        Memory's Journey
+        Sevinne's Reclamation
+        Intuition
+        Assassin's Trophy
+        Green Sun's Zenith
+        Endurance
+        Ancient Tomb
+~~~~~
+    decks
+        https://www.moxfield.com/decks/49zoux2-MEiuqbZFJsf4ow
+        https://www.moxfield.com/decks/0p3N1FRwmEiooRCdcPIF7g
+        https://www.moxfield.com/decks/AFKuq_Q8lUOajHHRMY_VrQ
+    pet_cards
+        Spellseeker
+        Laboratory Maniac
+        Counterbalance
+        Arbor Elf
+        Sensei's Divining Top
+        Seedborn Muse
+        Telepathy
+        Power Artifact
+        Phantasmal Image
+        Grim Monolith
+        Teferi, Master of Time
+        Hallowed Fountain
+        Worldly Tutor
+        Aven Mindcensor
+        Arid Mesa
+        Angel's Grace
+        Brainstorm
+        Chain of Vapor
+        Deadly Rollick
+        Training Grounds
+        Dark Ritual
+        March of Otherworldly Light
+~~~~~
+    decks
+        https://www.moxfield.com/decks/f48hdILBlUy95o5J21FWMg
+        https://www.moxfield.com/decks/6KnPPbyVxUW2R4uPV9A3rw
+    pet_cards
+        Isochron Scepter
+        Grim Monolith
+        Forbidden Orchard
+        Dramatic Reversal
+        Bloom Tender
+        Assassin's Trophy
+        Dark Confidant
+        Path to Exile
+        Thran Quarry
+        Eldritch Evolution
+        Spellseeker
+        Swords to Plowshares
+        Ledger Shredder
+        Finale of Devastation
+        Urza's Saga
+        Delay
+        Otawara, Soaring City
+        Copy Artifact
+        Noxious Revival
+        Miscast
+        Hope of Ghirapur
+        March of Swirling Mist
+        Overgrown Tomb
+        Hallowed Fountain
+        Culling Ritual
+        Sylvan Library
+        Rejuvenating Springs
+        Spire of Industry
+        Dispel
+        Springleaf Drum
+        Lion's Eye Diamond
+        Rain of Filth
+        Yawgmoth's Will
+        Praetor's Grasp
+        Diabolic Intent
+        Wingcrafter
+        Mnemonic Betrayal
+        Elvish Spirit Guide
+~~~~~
+    decks
+        https://www.moxfield.com/decks/qINtFLhKAECWp0WOWa7RBg
+        https://www.moxfield.com/decks/VqFymhTtbk-tEyCoBIwgnQ
+    pet_cards
+        Devoted Druid
+        Swift Reconfiguration
+        Lim-Dûl's Vault
+        Grand Abolisher
+        Emergence Zone
+        Worldly Tutor
+        Kenrith's Transformation
+        Cyclonic Rift
+        Assassin's Trophy
+        Aven Mindcensor
+        Endurance
+        Crop Rotation
+        Birthing Pod
+        Arid Mesa
+        Collector Ouphe
+        Lurrus of the Dream-Den
+        Exotic Orchard
+        Arcane Signet
+        Dismember
+        Eternal Witness
+        Fellwar Stone
+        Basalt Monolith
+        Reanimate
+        Auriok Salvagers
+        Forbidden Orchard
+        Life // Death
+        Force of Negation
+        Deadly Rollick
+        Kinnan, Bonder Prodigy
+        Mox Amber
+        Mindbreak Trap
+        Tarnished Citadel
+        Undergrowth Stadium
+        Jeweled Lotus
+~~~~~
+    decks
+        https://www.moxfield.com/decks/5sZvBQDbIk26hg_xqVrfig
+        https://www.moxfield.com/decks/RjHB7lq1gEG3ycFMM1tzqg
+    pet_cards
+        Waterlogged Grove
+        Forbidden Orchard
+        Necropotence
+        Training Grounds
+        Ad Nauseam
+        Mana Drain
+        Spell Pierce
+        Noxious Revival
+        March of Swirling Mist
+        Dark Ritual
+        Brainstorm
+        Angel's Grace
+        Oko, Thief of Crowns
+        Elvish Spirit Guide
+        Aven Mindcensor
+        Snapcaster Mage
+        Dark Confidant
+        Avacyn's Pilgrim
+        Grand Abolisher
+        Ranger-Captain of Eos
+        Hallowed Fountain
+        Wingcrafter
+        Rest in Peace
+        Spell Snare
+        Ledger Shredder
+        Chain of Vapor
+        Crop Rotation
+        Green Sun's Zenith
+        Vizier of Remedies
+        Fellwar Stone
+        Basalt Monolith
+        Mox Amber
+        Kinnan, Bonder Prodigy
+        Morphic Pool
+        Diabolic Intent
+        Mindbreak Trap
+        Gilded Drake
+        Spellseeker
+~~~~~
+    decks
         https://www.moxfield.com/decks/mR88xyuv3UWej67yYEFupw
         https://www.moxfield.com/decks/M7T45Ie0hUy4Pj6yn1uS1g
-    secondary
     pet_cards
+        Black Market Connections
+        Teferi's Protection
+        Gaea's Cradle
+        Deathrite Shaman
+        Void Rend
+        Brainstorm
+        Reliquary Tower
+        Lavinia, Azorius Renegade
+        Path to Exile
+        Reflecting Pool
+        Solitude
+        Exploration
+        Aura of Silence
+        Phyrexian Arena
+        Exotic Orchard
+        Pact of Negation
+        Veil of Summer
+        Trickbind
+        Fauna Shaman
+        Tithe
+        Worldly Tutor
+        Scalding Tarn
+        Bloodstained Mire
+        Arid Mesa
+        Jeweled Lotus
+        Basalt Monolith
+        Hermit Druid
+        Urza's Saga
+        Malevolent Hermit // Benevolent Geist
+        Kinnan, Bonder Prodigy
 ~~~~~
-    main
+    decks
         https://www.moxfield.com/decks/IXuH_GmLSEGl5x2F-Fecfw
         https://www.moxfield.com/decks/jPJj0085dE2G1dkAY0dZqg
-    secondary
     pet_cards
+        Neoform
+        Llanowar Elves
+        Faeburrow Elder
+        Elvish Mystic
+        Kinnan, Bonder Prodigy
+        Flooded Grove
+        Eldritch Evolution
+        Seedborn Muse
+        Laboratory Maniac
+        Basalt Monolith
+        Fyndhorn Elves
+        Preordain
+        Mana Vault
+        Necropotence
+        Fellwar Stone
+        Isochron Scepter
+        Dramatic Reversal
+        Mox Opal
+        Talisman of Dominance
+        Sensei's Divining Top
+        Mox Amber
+        Tarnished Citadel
+~~~~~
+    decks
+        https://www.moxfield.com/decks/4Vf7cfs9iEyxUtS5O2sDEw
+        https://www.moxfield.com/decks/O-fasguihUSKIkBp25wG-g
+    pet_cards
+        Mox Diamond
+        Fellwar Stone
+        Mox Amber
+        Spellseeker
+        Hermit Druid
+        Narcomoeba
+        Dread Return
+        Nature's Claim
+        Muddle the Mixture
+        Neoform
+        Windfall
+        Mana Confluence
+        Godless Shrine
+        Hallowed Fountain
+        Nurturing Peatland
+        Undergrowth Stadium
+        Bountiful Promenade
+        Morphic Pool
+        Sylvan Library
+        Diabolic Intent
+        Lotus Petal
+        Exotic Orchard
+        City of Brass
+        Cyclonic Rift
+        Noxious Revival
+        Lim-Dûl's Vault
+        Bloodstained Mire
+        Wooded Foothills
+        Horizon Canopy
+        Scalding Tarn
+        Cephalid Coliseum
+        Tarnished Citadel
+        Merchant Scroll
+        Silence
+        Veil of Summer
+        Assassin's Trophy
 ~~~~other decks~~~~
     https://www.moxfield.com/decks/yoIBTs1A3kOJqcU400fyWw
     https://www.moxfield.com/decks/M77kj2HEjEG6Eucp1hV2HA
-    https://www.moxfield.com/decks/vX9zLYNjXESmor3RXFci8w
     https://www.moxfield.com/decks/TYok6Yj6wUyFXQMuQIIr6w
     https://www.moxfield.com/decks/2pMsNjNIYkiDrngsfn9m4A
     https://www.moxfield.com/decks/Ut8qDjS3g0yaW9lXGUbo3A
@@ -279,22 +594,16 @@
     https://www.moxfield.com/decks/Wi1bV6ACdUyLRFgnjXChXQ
     https://www.moxfield.com/decks/TElLmHJle0GfFwFISexI9A
     https://www.moxfield.com/decks/jC2xa80LvEGXjZYcY23a4w
-    https://www.moxfield.com/decks/f48hdILBlUy95o5J21FWMg
     https://www.moxfield.com/decks/_534wCBTrEubH2ql2uDhWA
     https://www.moxfield.com/decks/RkxJMkbyFUe6540pDNpB3A
     https://www.moxfield.com/decks/ECZ35wGnVkqmcLJ1QJd_EA
-    https://www.moxfield.com/decks/qINtFLhKAECWp0WOWa7RBg
-    https://www.moxfield.com/decks/x4Ec48HuKE23P4KmebbXMQ
     https://www.moxfield.com/decks/F5NKJQWkWkuFZCvQm13soQ
     https://www.moxfield.com/decks/NgfMarpTSEe3xHuIPKk_EA
-    https://www.moxfield.com/decks/5sZvBQDbIk26hg_xqVrfig
     https://www.moxfield.com/decks/w6gWQEscLkeY4jRnAXTz1g
     https://www.moxfield.com/decks/VuVtRxZ9fU6HG0p2rMIf1g
     https://www.moxfield.com/decks/rYZ33h6-30KgebnZn34ENw
-    https://www.moxfield.com/decks/uZOFWoP99kOnA9yV_k_t9w
     https://www.moxfield.com/decks/4z6mlnsaw0ivf5csrD8u-w
     https://www.moxfield.com/decks/2-ngVS1FnUm2Nu80PeOSdg
-    https://www.moxfield.com/decks/F8rYroWB4k2Nyr_PVBehPw
     https://www.moxfield.com/decks/6rMk_GtSjk6pFH3qJ2APcA
     https://www.moxfield.com/decks/SG6s_f-A5kG1k-LmAXfnRQ
     https://www.moxfield.com/decks/coPOJDTZUkK82p7m6iUfkA
@@ -302,11 +611,7 @@
     https://www.moxfield.com/decks/TlGDWtTyiUmrdQ28JZvtuQ
     https://www.moxfield.com/decks/lEQSRCi-vUSY36umsdfczw
     https://www.moxfield.com/decks/WiMlMxY5L0OeRSQj5VUi1g
-    https://www.moxfield.com/decks/VqFymhTtbk-tEyCoBIwgnQ
-    https://www.moxfield.com/decks/4Vf7cfs9iEyxUtS5O2sDEw
     https://www.moxfield.com/decks/P8dRhCXbCUiMZMNJfKGtZg
-    https://www.moxfield.com/decks/O-fasguihUSKIkBp25wG-g
-    https://www.moxfield.com/decks/6KnPPbyVxUW2R4uPV9A3rw
     https://www.moxfield.com/decks/z32sOGKjUkeg4yVV3_7y6w
     https://www.moxfield.com/decks/IJcWr5YwGUyEa7PvUjWoog
     https://www.moxfield.com/decks/qOZJlxNm-0WsmzD5CKoEVg
@@ -314,8 +619,8 @@
     https://www.moxfield.com/decks/ic2HQuI4mUOcebyGxGhoDg
     https://www.moxfield.com/decks/Hp4WoVNfUk-QxYs_n-78Uw
     https://www.moxfield.com/decks/60y-TPciI0GroXAaC2nFHA
-    https://www.moxfield.com/decks/RjHB7lq1gEG3ycFMM1tzqg
     https://www.moxfield.com/decks/bz1wzf04yEKcYXsxM2W69Q
+    https://www.moxfield.com/decks/TqCGV2uZmkKKSqWiawn8PQ
     https://www.moxfield.com/decks/TvKgrLnRRUOf23NzCsyjJw
     https://www.moxfield.com/decks/DMEhWoO2JE2zm790l2qAKA
     https://www.moxfield.com/decks/SB8YDFxZRESn_8hrsdeu2g
@@ -325,13 +630,13 @@
     https://www.moxfield.com/decks/oCYzVcLyREmrHp3hMHiQTQ
     https://www.moxfield.com/decks/-5BNybXJ5UyZaCUMOO6jLg
     https://www.moxfield.com/decks/ub8-BBWXIkmyu6OFspfhqw
+    https://www.moxfield.com/decks/Zh5MtTlH9UiXSaQZPWHmAw
     https://www.moxfield.com/decks/en5vUDJKOUOUnJhheZfV-g
     https://www.moxfield.com/decks/Ro6H90x5-0-jcov-KXDK1A
     https://www.moxfield.com/decks/1SQaR_oI4ECm2IGfy9qJtQ
     https://www.moxfield.com/decks/PBzz28rKSEW-AgCWk88S3g
     https://www.moxfield.com/decks/6w2rIU2sWkiEuw6-1u90Ow
     https://www.moxfield.com/decks/yhug2loZzE6lgbxhQZlP2w
-    https://www.moxfield.com/decks/B9D5r22TeE-u2xeIT3DwSg
     https://www.moxfield.com/decks/yGS9fF5onUCaYyhV9gfUUg
     https://www.moxfield.com/decks/a4t9wvKMo0Kt-JweW-mkNw
     https://www.moxfield.com/decks/7YIwzJbyS0-YS48VvFhlAg
@@ -343,4 +648,3 @@
     https://www.moxfield.com/decks/dUoA_8XwdkO74GsVN-7xxA
     https://www.moxfield.com/decks/9Vm6DRCG1U-46PE-o81YOw
     https://www.moxfield.com/decks/apW8HJzU_UGeMTYFkLqv4Q
-    https://www.moxfield.com/decks/a6OXPC8lykqAihx3PX6t7Q

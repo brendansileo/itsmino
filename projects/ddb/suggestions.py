@@ -1,12 +1,11 @@
-from audioop import avg
 import json
 import psycopg2
 
-commander_name = 'Yuriko, the Tiger\'\'s Shadow'
+commander_name = 'Yuriko, the Tiger\'s Shadow'
 
 conn = psycopg2.connect("dbname='ddb' user='ddb' host='localhost' password='ddb'")
 cur = conn.cursor()
-cur.execute("select * from decks where commander='"+commander_name+"';")
+cur.execute("select * from decks where commander='"+commander_name.replace('\'', '\'\'')+"';")
 decks = cur.fetchall()
 
 
@@ -16,8 +15,7 @@ for deck in decks:
         differences.append(len(set(deck2[2]).symmetric_difference(set(deck[2])))/2)
 commander_avg_difference = sum(differences)/len(differences)
 
-avg_limit = 15
-pet_limit = 20
+avg_limit = 20
 
 def filter(decks):
     deck_groups = []
@@ -28,7 +26,7 @@ def filter(decks):
             group_distances = []
             for i, group in enumerate(deck_groups):
                 distances = []
-                for x, deck2 in enumerate(group):
+                for deck2 in group:
                     distance = len(set(deck2[2]).symmetric_difference(set(deck[2])))/2
                     distances.append(distance)
                 group_distances.append(sum(distances)/len(distances))
@@ -46,32 +44,24 @@ def filter(decks):
             biggest_group = group
             biggest_index = i
 
-    pet_cards_group = []
     other_group = []
     for i, group in enumerate(deck_groups):
         if i == biggest_index:
             continue
         for deck in group:
-            distances = []
-            for deck2 in biggest_group:
-                distance = len(set(deck2[2]).symmetric_difference(set(deck[2])))/2
-                distances.append(distance)
-            avg_distance = sum(distances)/len(distances)
-            if avg_distance > pet_limit:
-                other_group.append(deck)
-            else:
-                pet_cards_group.append(deck)
+            other_group.append(deck)
 
-    main_cards = []
+    main_cards = {}
     for deck in biggest_group:
         for card in deck[2]:
-            main_cards.append(card)
-
+            if card not in main_cards:
+                main_cards[card] = 0
+            main_cards[card] += 1
+    
     pet_cards = []
-    for deck in pet_cards_group:
-        for card in deck[2]:
-            if card not in main_cards and card not in pet_cards:
-                pet_cards.append(card)
+    for card, count in main_cards.items():
+        if count == 1:
+            pet_cards.append(card)
 
     repeat = False
     for deck in other_group:
@@ -80,18 +70,26 @@ def filter(decks):
                 distance = len(set(deck2[2]).symmetric_difference(set(deck[2])))/2
                 if distance <= avg_limit:
                     repeat = True 
-    print(len(biggest_group), len(pet_cards_group), len(other_group), len(pet_cards), repeat)
-    return biggest_group, pet_cards_group, other_group, pet_cards, repeat
+    print(len(biggest_group), len(other_group), len(pet_cards), repeat)
+    return biggest_group, other_group, pet_cards, repeat
 
 groups = []
-biggest_group, pet_cards_group, other_group, pet_cards, repeat = filter(decks)
-groups.append({'main': biggest_group, 'secondary': pet_cards_group, 'pet_cards': pet_cards})
+biggest_group, other_group, pet_cards, repeat = filter(decks)
+groups.append({'decks': biggest_group, 'pet_cards': pet_cards})
 while repeat:
-    biggest_group, pet_cards_group, other_group, pet_cards, repeat = filter(other_group)
-    groups.append({'main': biggest_group, 'secondary': pet_cards_group, 'pet_cards': pet_cards})
+    biggest_group, other_group, pet_cards, repeat = filter(other_group)
+    groups.append({'decks': biggest_group, 'pet_cards': pet_cards})
+
+group_counts = []
+for group in groups:
+    group_counts.append(len(group['decks']))
+
+filter_size = sum(group_counts)/len(group_counts)
 
 with open('output/'+commander_name+'.txt', 'w') as f:
     for group in groups:
+        if len(group['decks']) < filter_size:
+            continue
         f.write('~~~~~\n')
         for g, decks in group.items():
             f.write('    '+g+'\n')
@@ -100,9 +98,11 @@ with open('output/'+commander_name+'.txt', 'w') as f:
                     f.write('        '+deck+'\n')
                 else:
                     f.write('        '+deck[0]+'\n')
+"""
     f.write('~~~~other decks~~~~\n')
     for deck in other_group:
         f.write('    '+deck[0]+'\n')
+"""
 """    
     f.write('~~~~~~average builds~~~~~~\n')
     for deck in biggest_group:

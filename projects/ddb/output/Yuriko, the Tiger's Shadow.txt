@@ -1,82 +1,70 @@
 ~~~~~
-    main
+    decks
         https://www.moxfield.com/decks/N1VNylbgskmYWa09r26ygQ
+        https://www.moxfield.com/decks/-i_BXzI-k0WbhSJ2vO4wCQ
         https://www.moxfield.com/decks/TMdw00QTpkGlE_W0I7SWrw
         https://www.moxfield.com/decks/SsZ4qdUa3UK1qt_O32DL3A
         https://www.moxfield.com/decks/9QCvdGGqa0u2uDI9mCTFkQ
         https://www.moxfield.com/decks/Qu6ta1_Ct06jei8B6Wh3vw
+        https://www.moxfield.com/decks/56YHa0m-N0arv6nUEfCb3Q
         https://www.moxfield.com/decks/i-pLUymOP0O4oQOBPEmSVA
         https://www.moxfield.com/decks/4T9m59ilNECT-fPzWIv1RQ
         https://www.moxfield.com/decks/2vx7AN2kdUewxm0YMBzxzA
         https://www.moxfield.com/decks/cCGcYxYwg0WPvdIq8F03XA
-        https://www.moxfield.com/decks/-hDsvJg_eUWEk2UAwgxlEw
-        https://www.moxfield.com/decks/ERK1HJx_x0GorNhQPLbdzQ
-        https://www.moxfield.com/decks/4jAcrH0IAkaqWOWr5PgSDw
-        https://www.moxfield.com/decks/DK8bcvrhd0yeIQRbnEr3xA
-    secondary
-        https://www.moxfield.com/decks/-i_BXzI-k0WbhSJ2vO4wCQ
-        https://www.moxfield.com/decks/v2q2YxEqEkS5vKGXh-cEmw
-        https://www.moxfield.com/decks/MbXLQi-eNkGx5a2rrSMRNg
-        https://www.moxfield.com/decks/BPB58UqbukenhfuIMElzJg
-        https://www.moxfield.com/decks/ZFaozrWAf0-LX4scBb65ig
-        https://www.moxfield.com/decks/rfEKV42GNU2CqedxL1dK-g
-        https://www.moxfield.com/decks/ANQhPMc-t0SHwe7ya4PwSg
-        https://www.moxfield.com/decks/56YHa0m-N0arv6nUEfCb3Q
         https://www.moxfield.com/decks/K86zGcpgfU--VwdnSoma0Q
         https://www.moxfield.com/decks/CGVE-Fi9vkyPgfovzYhqRA
         https://www.moxfield.com/decks/t85Rc1GpPEW6OknG45cERQ
-        https://www.moxfield.com/decks/B1W-W3Hxzkieq3dxYRvrEQ
+        https://www.moxfield.com/decks/-hDsvJg_eUWEk2UAwgxlEw
         https://www.moxfield.com/decks/1iTkFge4WkS6dKq5xEOU0Q
-        https://www.moxfield.com/decks/8NHNo1kuskqPTwA9WFGZZw
+        https://www.moxfield.com/decks/ERK1HJx_x0GorNhQPLbdzQ
+        https://www.moxfield.com/decks/B1W-W3Hxzkieq3dxYRvrEQ
         https://www.moxfield.com/decks/azT8bMMZp0K_csVFvea1JA
         https://www.moxfield.com/decks/uKlyAbrGO0KjXbAt2ulVpw
-        https://www.moxfield.com/decks/gEtMM1J740S6C0oPEjgxJA
         https://www.moxfield.com/decks/qLvFRN9DREax63OCDhTusQ
+        https://www.moxfield.com/decks/4jAcrH0IAkaqWOWr5PgSDw
+        https://www.moxfield.com/decks/DK8bcvrhd0yeIQRbnEr3xA
     pet_cards
-        Reflecting Pool
         Praetor's Grasp
         Spellseeker
         Mystical Dispute
-        Cabal Pit
         Time Stretch
         Nexus of Fate
         Fallen Shinobi
-        Nashi, Moon Sage's Scion
-        Consign // Oblivion
-        Contagion
-        Personal Tutor
-        March of Swirling Mist
-        Step Through
-        Entomb
-        Wonder
-        Grim Hireling
+        Thran Portal
+        Leyline of the Void
+        Ledger Shredder
+        Bloodchief Ascension
+        Insidious Dreams
+        Weathered Runestone
         Narset's Reversal
-        Mana Drain
-        Ponder
         Murderous Cut
         Consider
         Muddle the Mixture
+        Crippling Fear
+        Mnemonic Betrayal
+        Dress Down
+        Cut Down
+        Silver-Fur Master
         Commit // Memory
         Windfall
-        Delay
-        Drowned Catacomb
         Yawgmoth's Will
         Subtlety
         Gemstone Mine
         Mutavault
+        Contagion
+        Personal Tutor
         Preordain
         Devastation Tide
         Ancient Tomb
         Hullbreacher
-        Rishadan Dockhand
         Necropotence
-        Snap
+        Reliquary Tower
+        Jace, Wielder of Mysteries
+        Dokuchi Silencer
         Capture of Jingzhou
         Abjure
-        Time Warp
-        Temporal Manipulation
-        Spellstutter Sprite
-        Suspend
+        Enter the Infinite
+        Snap
         Pithing Needle
         Grazilaxx, Illithid Scholar
         Snapback
@@ -86,144 +74,64 @@
         Triton Shorestalker
         Slither Blade
         Damping Sphere
-        Unsubstantiate
-        Phyrexian Tower
         Shipwreck Marsh
         Reanimate
+        Varragoth, Bloodsky Sire
 ~~~~~
-    main
+    decks
+        https://www.moxfield.com/decks/7KY99LZSWUC55kFU2bXbAw
+        https://www.moxfield.com/decks/v2q2YxEqEkS5vKGXh-cEmw
         https://www.moxfield.com/decks/s_wB7OlKF0OLdkQ0OqIJ7g
         https://www.moxfield.com/decks/RVugI3H5X0y3smI4TnpTMw
         https://www.moxfield.com/decks/W0OXT7FkZEaOD6ACWiyPGA
+        https://www.moxfield.com/decks/MbXLQi-eNkGx5a2rrSMRNg
+        https://www.moxfield.com/decks/BPB58UqbukenhfuIMElzJg
+        https://www.moxfield.com/decks/hB4a2xC-vkmibNRa2TjlJg
+        https://www.moxfield.com/decks/Dy-lEGzIEkObHagGQbHFIg
+        https://www.moxfield.com/decks/2vq6Ds_Ws0C9wG8Ejz5Jug
+        https://www.moxfield.com/decks/8NHNo1kuskqPTwA9WFGZZw
+        https://www.moxfield.com/decks/NvLqaH9Lmki_RkQcegvLlQ
+        https://www.moxfield.com/decks/ZFaozrWAf0-LX4scBb65ig
+        https://www.moxfield.com/decks/5MkLVGiRa0KUzszooTnf7Q
         https://www.moxfield.com/decks/lN2j9Ed0MkGVtwXN4aYDzQ
         https://www.moxfield.com/decks/H1Zpbi9qvUGsWn3jqt3U0w
         https://www.moxfield.com/decks/Ly6kn_gJJ0q-k5yGXInqqA
-    secondary
-        https://www.moxfield.com/decks/hB4a2xC-vkmibNRa2TjlJg
-        https://www.moxfield.com/decks/Dy-lEGzIEkObHagGQbHFIg
-        https://www.moxfield.com/decks/5MkLVGiRa0KUzszooTnf7Q
-        https://www.moxfield.com/decks/2vq6Ds_Ws0C9wG8Ejz5Jug
-        https://www.moxfield.com/decks/NvLqaH9Lmki_RkQcegvLlQ
         https://www.moxfield.com/decks/01UXMWEo_EKIwyXNWHTwIw
+        https://www.moxfield.com/decks/rfEKV42GNU2CqedxL1dK-g
         https://www.moxfield.com/decks/6_p7mZPfOku_aTww4hwybA
+        https://www.moxfield.com/decks/ANQhPMc-t0SHwe7ya4PwSg
     pet_cards
+        Bojuka Bog
+        Talisman of Dominance
+        Negate
+        Arcane Signet
+        Drowned Catacomb
+        Sensei's Divining Top
+        Gitaxian Probe
+        Gush
+        Ashiok, Dream Render
+        Jace, the Mind Sculptor
+        Bloodchief Ascension
+        Phyrexian Tower
         Blinkmoth Infusion
-        Sidisi's Faithful
         Psychic Surgery
         Sol Ring
-        Urborg, Tomb of Yawgmoth
-        Toxic Deluge
-        Rhystic Study
         Windcaller Aven
-        Stonecoil Serpent
-        Ledger Shredder
         Unmarked Grave
+        Phantasmal Image
+        Spellstutter Sprite
+        Gilded Drake
+        Suspend
         Coastal Breach
         Mutavault
         Abjure
         Damping Sphere
-        Back to Basics
-        Chains of Mephistopheles
-        Reanimate
-        Intuition
-~~~~~
-    main
-        https://www.moxfield.com/decks/EO8QhvClUkaeYpc31Ij9iQ
-        https://www.moxfield.com/decks/eCwKkoYxmEWTN6idEfX0NA
-        https://www.moxfield.com/decks/I_qOUw4uME2X8_pVglbM6Q
-    secondary
-        https://www.moxfield.com/decks/z3EnSsBNhkmdfb65yeVBeQ
-    pet_cards
-        Mausoleum Wanderer
-        Tetsuko Umezawa, Fugitive
-        Grazilaxx, Illithid Scholar
-        Cursed Totem
-        Sea Gate Restoration // Sea Gate, Reborn
-        Back to Basics
-        Clearwater Pathway // Murkwater Pathway
-        Lim-Dûl's Vault
-        Consign // Oblivion
-        Dauthi Voidwalker
-        Thieving Skydiver
-        Sensei's Divining Top
-        Thousand-Faced Shadow
-        Mystic Remora
-        Scroll Rack
-        Force of Negation
-        Moon-Circuit Hacker
-        Lotus Petal
-        Prosperous Thief
-        Hope of Ghirapur
-~~~~~
-    main
-        https://www.moxfield.com/decks/u7DUUR_Lb0iL8RCITY23sw
-        https://www.moxfield.com/decks/ny8bTVCABEuIdGZQPz0RLQ
-    secondary
-    pet_cards
-~~~~~
-    main
-        https://www.moxfield.com/decks/yktQqckjC02NvPDUdJ5iJw
-        https://www.moxfield.com/decks/7MvGgpPoMkOtZiPoPUzARA
-    secondary
-        https://www.moxfield.com/decks/xct05p8aMUeGl8vpIIaKSA
-        https://www.moxfield.com/decks/yGKbzEFCu0yhNpzcSSOiIg
-    pet_cards
-        Counterspell
-        Misty Rainforest
-        Marsh Flats
-        Delay
-        Watery Grave
-        Underground River
-        Scalding Tarn
-        Swan Song
-        Dauthi Voidwalker
-        Wonder
-        Grim Hireling
-        Otawara, Soaring City
-        Scroll Rack
-        Verdant Catacombs
-        Soul Shatter
-        Shadow of Mortality
-        Back to Basics
-        Clearwater Pathway // Murkwater Pathway
-        Gingerbrute
-        Morphic Pool
-        Agadeem's Awakening // Agadeem, the Undercrypt
-        Mystic Remora
-        Darkslick Shores
-        Halimar Depths
-        Fierce Guardianship
-        Cyclonic Rift
-        Drowned Catacomb
-        Gitaxian Probe
-        Cover of Darkness
-        Trickery Charm
-        Sidisi's Faithful
-        Pact of Negation
-        Cruel Tutor
-        Opposition Agent
-        Darkwater Catacombs
-        Snow-Covered Island
-        Abjure
-        Snow-Covered Swamp
-        Muddle the Mixture
-~~~~~
-    main
-        https://www.moxfield.com/decks/l8VrqTJprkK17KtdrSds5Q
-        https://www.moxfield.com/decks/3sgzGhGtdUmf3tT48-GVQg
-    secondary
-        https://www.moxfield.com/decks/vYW-7xuZkk6PLNPfx_j8Qw
-    pet_cards
-        Toxic Deluge
-        Liliana's Triumph
-        Cover of Darkness
-        Step Through
-        Snapcaster Mage
-        Psychic Surgery
-        Gitaxian Probe
-        Mausoleum Wanderer
+        Ledger Shredder
+        River of Tears
+        Drown in the Loch
+        Metallic Mimic
+        Scheming Symmetry
 ~~~~other decks~~~~
-    https://www.moxfield.com/decks/Bv8Jo8vkCUmHo-If-g6hug
     https://www.moxfield.com/decks/mMKcF7l6HU2CWFgSSkom5A
     https://www.moxfield.com/decks/ycM4d0k_DkO1YhO32-mpWA
     https://www.moxfield.com/decks/zHeH7W_PZ0S_h4L4EkPT0g
@@ -233,7 +141,6 @@
     https://www.moxfield.com/decks/Na34oAxtNE6-ImG4NRr1Rg
     https://www.moxfield.com/decks/_ZXtN9nYnkq_rzChd_hAFw
     https://www.moxfield.com/decks/DjZCbk7ZA0ysmaUi4qtbNA
-    https://www.moxfield.com/decks/7KY99LZSWUC55kFU2bXbAw
     https://www.moxfield.com/decks/bbgcR83UJE6wD62BB5c-iw
     https://www.moxfield.com/decks/6yIlVvmh90-5MdGtSxx35g
     https://www.moxfield.com/decks/Q5KcjFu9QkutspWchqkvcw
@@ -261,7 +168,6 @@
     https://www.moxfield.com/decks/QuE6ADPE1UeAPW51SPs3lA
     https://www.moxfield.com/decks/OxJG5vsk6EOEgFL_4-1jnw
     https://www.moxfield.com/decks/Yh7zc-HkskOJ-RtbcYejPg
-    https://www.moxfield.com/decks/j9-YX1xSGUC4_89kbS6zEw
     https://www.moxfield.com/decks/q9nnsDFXD0y1_mmY85bHkg
     https://www.moxfield.com/decks/sWiNEta5oU2oe9CFi0loUg
     https://www.moxfield.com/decks/zaPv2j8KB0i-SljXGiQT_A
@@ -288,7 +194,6 @@
     https://www.moxfield.com/decks/uBpVp5WbrkiVJLnSc8FN2A
     https://www.moxfield.com/decks/pY1McOFtG0mwR1nv7LFO8Q
     https://www.moxfield.com/decks/bDDxnbu1U0SOwSkVQOKkdQ
-    https://www.moxfield.com/decks/8CkGkfcOfkGNkYf0WnwzVg
     https://www.moxfield.com/decks/nx9x1HKiV0-t7ISr6HLjVQ
     https://www.moxfield.com/decks/tcBugKso9EizWnSr17g0AQ
     https://www.moxfield.com/decks/JCx-B2dTe0SePLeyM9OglQ
@@ -299,11 +204,11 @@
     https://www.moxfield.com/decks/Gkd85Bjlu0GPNjVnKDdH5Q
     https://www.moxfield.com/decks/bx4ZDJlsaUmZVnoNGNbQeQ
     https://www.moxfield.com/decks/egs7bD97l0-Mphi304x5FA
-    https://www.moxfield.com/decks/jOvpkGkQM0mCoGMdoZixWA
     https://www.moxfield.com/decks/OjY_CKVktkCQ3qR-gEpaPw
     https://www.moxfield.com/decks/-RlXdPtlpUaIewRqHXXZhQ
     https://www.moxfield.com/decks/q40dpbIUWECl3tHXURMCRQ
     https://www.moxfield.com/decks/0Z7aCLqcQEWOcBMMYOe3dQ
+    https://www.moxfield.com/decks/gEtMM1J740S6C0oPEjgxJA
     https://www.moxfield.com/decks/X92nyZuwGE2sSEN7txSe7g
     https://www.moxfield.com/decks/ScE-8tv4Hk6ITJ7nLMtsTw
     https://www.moxfield.com/decks/iF4XHUh7aEu_CCDhSOaGzg
