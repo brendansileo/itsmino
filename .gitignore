@@ -2,6 +2,7 @@ projects/mox_hubs/comp_decklists.json
 projects/cedh-network/ddb_deck*.json
 *.secret
 projects/*/comp_decks/*
+projects/ddb/output
 projects/openinghand/ddb.json
 site/ddb.json
 
