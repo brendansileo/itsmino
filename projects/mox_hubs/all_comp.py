@@ -6,7 +6,7 @@ import json
 sys.path.insert(0, '../api')
 import mtg_api
 
-#ran on 10/5/22
+#ran on 10/11/22
 
 comp_hub_url = 'https://api2.moxfield.com/v2/decks/search?pageNumber={page}&pageSize=64&sortType=created&sortDirection=Ascending&fmt=commander&hubName=Competitive&board=mainboard'
 r = requests.get(comp_hub_url.format(page='1')).json()
@@ -24,9 +24,9 @@ for i in range(total_pages):
         if item['mainboardCount'] != 100:
             continue
         deck = mtg_api.get_deck(item['publicUrl'])
-        decklists[item['publicUrl']] = {'decklist':deck.get_decklist(), 'commander':deck.get_commander(), 'created':item['createdAtUtc'], 'updated':item['lastUpdatedAtUtc']}
+        decklists[item['publicUrl']] = deck.get_deck()
         count += 1
         time.sleep(2)
 
-    with open('comp_decks/comp_decklists{page}.json'.format(page=str(i)), 'w') as f:
+    with open('../codex/comp_decks/comp_decklists{page}.json'.format(page=str(i)), 'w') as f:
         f.write(json.dumps(decklists, indent=4))

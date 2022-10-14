@@ -36,6 +36,9 @@ def get_deck(link):
     link_id = link.split('/')[-1]
     return Deck(requests.get('https://api.moxfield.com/v2/decks/all/'+link_id).json())
 
+def get_deck_json(data):
+    return Deck(data)
+
 def get_card(card_name):
     return requests.get('https://api.scryfall.com/cards/named?exact='+card_name.replace(' ','+')).json()
 

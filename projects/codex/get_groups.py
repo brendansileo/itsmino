@@ -1,14 +1,21 @@
-import json
 import psycopg2
-import random
 
-def show_codex(commander_name):
+def get_groups(commander_name):
+    print(commander_name)
     conn = psycopg2.connect("dbname='ddb' user='ddb' host='localhost' password='ddb'")
     cur = conn.cursor()
     cur.execute("select * from decks where commander='"+commander_name.replace('\'', '\'\'')+"';")
     decks = cur.fetchall()
     cur.close()
     conn.close()
+    
+    if len(decks) < 50:
+        if '//' in commander_name:
+            commander_name = commander_name.split('//')[0].strip()
+        with open('output-toosmall/'+commander_name+'.txt', 'w') as f:
+            f.write('most viewed list goes here\n')
+            f.write(str(len(decks)))
+        return [{'decks': decks}]
 
     differences = []
     for deck in decks:
@@ -16,9 +23,10 @@ def show_codex(commander_name):
             differences.append(len(set(deck2[2]).symmetric_difference(set(deck[2])))/2)
     commander_avg_difference = sum(differences)/len(differences)
 
-    avg_limit = 20
 
-    def filter(decks):
+    avg_limit = 20
+    
+    def filter(decks, limit):
         deck_groups = []
         for deck in decks:
             if deck_groups == []:
@@ -33,7 +41,7 @@ def show_codex(commander_name):
                     group_distances.append(sum(distances)/len(distances))
                 closest_distance = min(group_distances)
                 closest_group = group_distances.index(closest_distance)
-                if closest_distance > avg_limit:
+                if closest_distance > limit:
                     deck_groups.append([deck])
                 else:
                     deck_groups[closest_group].append(deck)
@@ -49,8 +57,7 @@ def show_codex(commander_name):
         for i, group in enumerate(deck_groups):
             if i == biggest_index:
                 continue
-            for deck in group:
-                other_group.append(deck)
+            other_group.extend(group)
 
         main_cards = {}
         for deck in biggest_group:
@@ -75,11 +82,12 @@ def show_codex(commander_name):
         return biggest_group, other_group, pet_cards, repeat
 
     groups = []
-    biggest_group, other_group, pet_cards, repeat = filter(decks)
+    biggest_group, other_group, pet_cards, repeat = filter(decks, avg_limit)
     groups.append({'decks': biggest_group, 'pet_cards': pet_cards})
     while repeat:
-        biggest_group, other_group, pet_cards, repeat = filter(other_group)
+        biggest_group, other_group, pet_cards, repeat = filter(other_group, avg_limit)
         groups.append({'decks': biggest_group, 'pet_cards': pet_cards})
+
     group_counts = []
     for group in groups:
         group_counts.append(len(group['decks']))
@@ -139,31 +147,5 @@ def show_codex(commander_name):
         while avg_distances[list(avg_distances.keys())[0]] == highest_distance or len(group['defining_cards']) < 5:
             group['defining_cards'].append(list(avg_distances.keys())[0])
             avg_distances.pop(list(avg_distances.keys())[0])
-
-    if '//' in commander_name:
-        commander_name = commander_name.split('//')[0].strip()
-    with open('output/'+commander_name+'.txt', 'w') as f:
-        for i, group in enumerate(filtered_groups):
-            f.write('Build '+str(i+1)+'\n')
-            miss = 1000
-            while miss < 2:
-                deck = random.choice(group['decks'])
-                miss = 0
-                for card in group['defining_cards']:
-                    if card not in deck[2]:
-                        miss += 1
-            f.write('    Example Deck: '+deck[0]+'\n')
-            f.write('    Defining Cards:\n')
-            for card in group['defining_cards']:
-                f.write('        '+card+'\n')
-            #for card, percent in group['updated_percents'].items():
-            #    f.write(card+' '+str(percent)+'%\n')
-
-conn = psycopg2.connect("dbname='ddb' user='ddb' host='localhost' password='ddb'")
-cur = conn.cursor()
-cur.execute("select distinct commander from decks;")
-commanders = cur.fetchall()
-cur.close()
-conn.close()
-
-show_codex('')
+    
+    return filtered_groups
