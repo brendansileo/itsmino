@@ -2,10 +2,12 @@ projects/mox_hubs/comp_decklists.json
 projects/cedh-network/ddb_deck*.json
 *.secret
 projects/*/comp_decks/*
+projects/*/comp_decks_prices/*
 projects/ddb/output
 projects/openinghand/ddb.json
 site/ddb.json
 projects/codex/output-*/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
