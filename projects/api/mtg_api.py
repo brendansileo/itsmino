@@ -1,6 +1,7 @@
 import requests
 import json
 import re
+import urllib.request
 
 class Deck:
     deck = None
@@ -130,6 +131,60 @@ def get_deckstats_deck(link):
     r = requests.delete('https://api2.moxfield.com/v1/decks/'+r['id'], headers=headers)
     return deck
 
+def get_mtggoldfish_deck(link):
+    split_link = link.split('#')[0].split('/')
+    deck_id = split_link[4]
+    fp = urllib.request.urlopen('https://www.mtggoldfish.com/deck/'+deck_id)
+    mybytes = fp.read()
+    mystr = mybytes.decode("utf8")
+    fp.close()
+    res = re.findall('<a href=\"/archetype/commander-.*?\">.*?</a>', mystr)
+    commander = re.findall('(?<=>).*?(?=<)', res[0])[0]
+    r = requests.get('https://www.mtggoldfish.com/deck/download/'+deck_id)
+    decklist = r.text.split('\n')
+    filter_decklist = []
+    for line in decklist:
+        if commander not in line:
+            filter_decklist.append(line)
+    filter_decklist = '\n'.join(filter_decklist)
+    username = 'cedhstats'
+    password = 'cedh1234'
+
+    headers={
+        'Content-type':'application/json',
+        'Accept':'application/json'
+    }
+
+    r = requests.post('https://api.moxfield.com/v1/account/token', json={'userName': username, 'password': password}, headers=headers)
+    token = r.json()['access_token']
+
+    headers = {
+            'Content-type':'application/json',
+            'Accept':'application/json',
+            'authorization':'Bearer '+ token
+    }
+
+    data = {
+        'commanderCardId': '',
+        'format': 'commander',
+        'mainboard':filter_decklist,
+        'name':commander, 
+        'maybeboard': '',
+        'playStyle': 'paperDollars',
+        'pricingProvider': 'tcgplayer',
+        'sideboard': '',
+        'visibility': 'public'
+    }
+
+    r = requests.post('https://api2.moxfield.com/v2/decks', json=data, headers=headers)
+    r = r.json()['deck']
+    r2 = requests.get('https://api.scryfall.com/cards/named?exact='+commander.replace(' ','+'))
+    r['commanders'][commander] = r2.json()
+    deck = Deck(r)
+    r = requests.delete('https://api2.moxfield.com/v1/decks/'+r['id'], headers=headers)
+    return deck
+
+
 def get_moxfield_deck(link):
     if 'www' not in link:
         r = requests.get(link)
@@ -155,3 +210,5 @@ def get_card(card_name):
 
 def get_picture(card_name, size):
     return requests.get('https://api.scryfall.com/cards/named?exact='+card_name.replace(' ','+')).json()['image_uris'][size]
+
+print(get_deck('https://www.mtggoldfish.com/deck/5173590#paper').get_decklist())
