@@ -1,0 +1,164 @@
+{
+    "100": [
+        []
+    ],
+    "90": [
+        []
+    ],
+    "80": [
+        []
+    ],
+    "70": [
+        [
+            [
+                "Sisay, Weatherlight Captain",
+                75.0
+            ]
+        ]
+    ],
+    "60": [
+        []
+    ],
+    "50": [
+        [
+            [
+                "Malcolm, Keen-Eyed Navigator;Tymna the Weaver",
+                50.0
+            ]
+        ]
+    ],
+    "40": [
+        [
+            [
+                "Kenrith, the Returned King",
+                41.66666666666667
+            ],
+            [
+                "Tivit, Seller of Secrets",
+                41.66666666666667
+            ],
+            [
+                "Tevesh Szat, Doom of Fools;Thrasios, Triton Hero",
+                40.0
+            ]
+        ]
+    ],
+    "30": [
+        [
+            [
+                "Rocco, Cabaretti Caterer",
+                33.33333333333333
+            ],
+            [
+                "Yuriko, the Tiger's Shadow",
+                33.33333333333333
+            ],
+            [
+                "Rograkh, Son of Rohgahh;Silas Renn, Seeker Adept",
+                31.25
+            ]
+        ]
+    ],
+    "20": [
+        [
+            [
+                "Niv-Mizzet, Parun",
+                28.57142857142857
+            ],
+            [
+                "Thrasios, Triton Hero;Tymna the Weaver",
+                28.57142857142857
+            ],
+            [
+                "Kraum, Ludevic's Opus;Tymna the Weaver",
+                28.000000000000004
+            ],
+            [
+                "Malcolm, Keen-Eyed Navigator;Tana, the Bloodsower",
+                27.27272727272727
+            ],
+            [
+                "Dargo, the Shipwrecker;Thrasios, Triton Hero",
+                25.0
+            ],
+            [
+                "Animar, Soul of Elements",
+                25.0
+            ],
+            [
+                "Urza, Lord High Artificer",
+                25.0
+            ],
+            [
+                "Armix, Filigree Thrasher;Kraum, Ludevic's Opus",
+                25.0
+            ],
+            [
+                "Winota, Joiner of Forces",
+                25.0
+            ],
+            [
+                "Bruse Tarl, Boorish Herder;Thrasios, Triton Hero",
+                23.076923076923077
+            ]
+        ],
+        [
+            [
+                "Najeela, the Blade-Blossom",
+                22.22222222222222
+            ],
+            [
+                "Krark, the Thumbless;Sakashima of a Thousand Faces",
+                20.0
+            ],
+            [
+                "Jetmir, Nexus of Revels",
+                20.0
+            ]
+        ]
+    ],
+    "10": [
+        [
+            [
+                "Malcolm, Keen-Eyed Navigator;Vial Smasher the Fierce",
+                16.666666666666664
+            ],
+            [
+                "Rograkh, Son of Rohgahh;Tevesh Szat, Doom of Fools",
+                16.666666666666664
+            ],
+            [
+                "Inalla, Archmage Ritualist",
+                12.5
+            ],
+            [
+                "Shorikai, Genesis Engine",
+                12.5
+            ],
+            [
+                "Thrasios, Triton Hero;Vial Smasher the Fierce",
+                11.11111111111111
+            ],
+            [
+                "Korvold, Fae-Cursed King",
+                11.11111111111111
+            ]
+        ]
+    ],
+    "0": [
+        [
+            [
+                "K'rrik, Son of Yawgmoth",
+                7.6923076923076925
+            ],
+            [
+                "Kinnan, Bonder Prodigy",
+                6.25
+            ],
+            [
+                "Minsc, Beloved Ranger",
+                0
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+<html>
+<head>
+  {% include 'includes.html' %}
+  <script src="{{ url_for('static', filename='tierlist.js') }}"></script>
+</head>
+<body>
+  Deck Plays Cutoff: <select id="cutoff_choice">
+    {% for value in cutoffs %}
+        <option value="{{value}}" {% if value|string == '7' %}selected{% endif %}>{{value}}</option>
+    {% endfor %}
+  </select>
+  <div id="list_container">
+    {% include 'graphs/graph_7.html' %}
+  </div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vis-network@latest/styles/vis-network.css" type="text/css" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vis-network@latest/dist/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "100% Turnover", "label": "100% Turnover", "level": 0, "shape": "circle"}, {"id": "90-99% Turnover", "label": "90-99% Turnover", "level": 1, "shape": "circle"}, {"id": "80-89% Turnover", "label": "80-89% Turnover", "level": 2, "shape": "circle"}, {"id": "70-79% Turnover", "label": "70-79% Turnover", "level": 3, "shape": "circle"}, {"id": "60-69% Turnover", "label": "60-69% Turnover", "level": 4, "shape": "circle"}, {"id": "50-59% Turnover", "label": "50-59% Turnover", "level": 5, "shape": "circle"}, {"id": "40-49% Turnover", "label": "40-49% Turnover", "level": 6, "shape": "circle"}, {"id": "30-39% Turnover", "label": "30-39% Turnover", "level": 7, "shape": "circle"}, {"id": "20-29% Turnover", "label": "20-29% Turnover", "level": 8, "shape": "circle"}, {"id": "10-19% Turnover", "label": "10-19% Turnover", "level": 9, "shape": "circle"}, {"id": "0-9% Turnover", "label": "0-9% Turnover", "level": 10, "shape": "circle"}, {"borderWidth": 5, "color": "green", "id": "Bruse Tarl, Boorish Herder;Thrasios, Triton Hero", "image": "https://cards.scryfall.io/art_crop/front/1/2/125b552b-45ea-4e0b-94a9-8131c97a04c0.jpg?1644853018", "label": "Bruse Tarl, Boorish Herder\nThrasios, Triton Hero", "level": 6, "shape": "circularImage", "size": 31.343283582089555, "title": "Played 21 times\n42.86% Conversion Rate\n128.19 Average Attendents"}, {"borderWidth": 5, "color": "green", "id": "Sisay, Weatherlight Captain", "image": "https://cards.scryfall.io/art_crop/front/5/a/5a293c45-1e73-4527-be2f-2dcd5c47b610.jpg?1650730165", "label": "Sisay, Weatherlight Captain", "level": 7, "shape": "circularImage", "size": 11.940298507462686, "title": "Played 8 times\n37.5% Conversion Rate\n95.88 Average Attendents"}, {"borderWidth": 5, "color": "green", "id": "Kenrith, the Returned King", "image": "https://cards.scryfall.io/art_crop/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1637568481", "label": "Kenrith, the Returned King", "level": 7, "shape": "circularImage", "size": 17.91044776119403, "title": "Played 12 times\n33.33% Conversion Rate\n137.92 Average Attendents"}, {"borderWidth": 5, "color": "green", "id": "Yuriko, the Tiger\u0027s Shadow", "image": "https://cards.scryfall.io/art_crop/front/3/b/3bd81ae6-e628-447a-a36b-597e63ede295.jpg?1592710334", "label": "Yuriko, the Tiger\u0027s Shadow", "level": 7, "shape": "circularImage", "size": 17.91044776119403, "title": "Played 12 times\n33.33% Conversion Rate\n89.75 Average Attendents"}, {"borderWidth": 5, "color": "green", "id": "Tivit, Seller of Secrets", "image": "https://cards.scryfall.io/art_crop/front/9/2/9235977e-a999-4ed0-83a3-742be87b13bb.jpg?1673481721", "label": "Tivit, Seller of Secrets", "level": 8, "shape": "circularImage", "size": 20.8955223880597, "title": "Played 14 times\n28.57% Conversion Rate\n123.14 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Thrasios, Triton Hero;Tymna the Weaver", "image": "https://cards.scryfall.io/art_crop/front/2/1/21e27b91-c7f1-4709-aa0d-8b5d81b22a0a.jpg?1606762176", "label": "Thrasios, Triton Hero\nTymna the Weaver", "level": 8, "shape": "circularImage", "size": 40.298507462686565, "title": "Played 27 times\n25.93% Conversion Rate\n122.48 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Malcolm, Keen-Eyed Navigator;Tana, the Bloodsower", "image": "https://cards.scryfall.io/art_crop/front/b/b/bbc3bbda-a4bc-4302-a3fc-b1c89f0f5461.jpg?1608909299", "label": "Malcolm, Keen-Eyed Navigator\nTana, the Bloodsower", "level": 8, "shape": "circularImage", "size": 17.91044776119403, "title": "Played 12 times\n25.0% Conversion Rate\n141.75 Average Attendents"}, {"borderWidth": 5, "color": "red", "id": "Kraum, Ludevic\u0027s Opus;Tymna the Weaver", "image": "https://cards.scryfall.io/art_crop/front/5/5/557fcd17-6cb3-414a-b2b1-ea9ae32e5aec.jpg?1644853032", "label": "Kraum, Ludevic\u0027s Opus\nTymna the Weaver", "level": 8, "shape": "circularImage", "size": 100.0, "title": "Played 67 times\n20.9% Conversion Rate\n129.07 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Niv-Mizzet, Parun", "image": "https://cards.scryfall.io/art_crop/front/3/0/3035a97f-5104-4b56-84a4-5206e75607fc.jpg?1674142512", "label": "Niv-Mizzet, Parun", "level": 8, "shape": "circularImage", "size": 14.925373134328357, "title": "Played 10 times\n20.0% Conversion Rate\n121.6 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Winota, Joiner of Forces", "image": "https://cards.scryfall.io/art_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1654630670", "label": "Winota, Joiner of Forces", "level": 9, "shape": "circularImage", "size": 38.80597014925373, "title": "Played 26 times\n19.23% Conversion Rate\n120.73 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Krark, the Thumbless;Sakashima of a Thousand Faces", "image": "https://cards.scryfall.io/art_crop/front/2/4/24614006-d99f-44b6-8ec1-29b48a1713d0.jpg?1661583571", "label": "Krark, the Thumbless\nSakashima of a Thousand Faces", "level": 9, "shape": "circularImage", "size": 25.37313432835821, "title": "Played 17 times\n17.65% Conversion Rate\n134.82 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Rograkh, Son of Rohgahh;Silas Renn, Seeker Adept", "image": "https://cards.scryfall.io/art_crop/front/a/4/a4fab67f-00c2-4125-9262-d21a29411797.jpg?1644853041", "label": "Rograkh, Son of Rohgahh\nSilas Renn, Seeker Adept", "level": 9, "shape": "circularImage", "size": 34.32835820895522, "title": "Played 23 times\n17.39% Conversion Rate\n128.39 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Najeela, the Blade-Blossom", "image": "https://cards.scryfall.io/art_crop/front/2/c/2cb1d1da-6077-46b5-8c63-39882b8016f2.jpg?1567181270", "label": "Najeela, the Blade-Blossom", "level": 9, "shape": "circularImage", "size": 40.298507462686565, "title": "Played 27 times\n14.81% Conversion Rate\n123.74 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Shorikai, Genesis Engine", "image": "https://cards.scryfall.io/art_crop/front/9/6/969ac7dd-f3aa-4888-9ff0-d16a31b5e7a9.jpg?1653966849", "label": "Shorikai, Genesis Engine", "level": 9, "shape": "circularImage", "size": 11.940298507462686, "title": "Played 8 times\n12.5% Conversion Rate\n136.88 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Kinnan, Bonder Prodigy", "image": "https://cards.scryfall.io/art_crop/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1591228085", "label": "Kinnan, Bonder Prodigy", "level": 9, "shape": "circularImage", "size": 25.37313432835821, "title": "Played 17 times\n11.76% Conversion Rate\n136.41 Average Attendents"}, {"borderWidth": 5, "color": "red", "id": "Inalla, Archmage Ritualist", "image": "https://cards.scryfall.io/art_crop/front/7/c/7c6e803a-451c-4aa6-97a2-400077f32c47.jpg?1627406462", "label": "Inalla, Archmage Ritualist", "level": 10, "shape": "circularImage", "size": 17.91044776119403, "title": "Played 12 times\n8.33% Conversion Rate\n147.5 Average Attendents"}, {"borderWidth": 5, "color": "red", "id": "K\u0027rrik, Son of Yawgmoth", "image": "https://cards.scryfall.io/art_crop/front/3/5/3592fbe4-8588-486e-99ba-c327b0b6ba24.jpg?1568003491", "label": "K\u0027rrik, Son of Yawgmoth", "level": 10, "shape": "circularImage", "size": 17.91044776119403, "title": "Played 12 times\n8.33% Conversion Rate\n117.67 Average Attendents"}, {"borderWidth": 5, "color": "red", "id": "Malcolm, Keen-Eyed Navigator;Vial Smasher the Fierce", "image": "https://cards.scryfall.io/art_crop/front/b/b/bbc3bbda-a4bc-4302-a3fc-b1c89f0f5461.jpg?1608909299", "label": "Malcolm, Keen-Eyed Navigator\nVial Smasher the Fierce", "level": 10, "shape": "circularImage", "size": 20.8955223880597, "title": "Played 14 times\n7.14% Conversion Rate\n137.64 Average Attendents"}, {"borderWidth": 5, "color": "red", "id": "Korvold, Fae-Cursed King", "image": "https://cards.scryfall.io/art_crop/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1571197150", "label": "Korvold, Fae-Cursed King", "level": 10, "shape": "circularImage", "size": 20.8955223880597, "title": "Played 14 times\n7.14% Conversion Rate\n129.64 Average Attendents"}]);
+        edges = new vis.DataSet([{"color": "white", "from": "100% Turnover", "to": "90-99% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "80-89% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "70-79% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "60-69% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "50-59% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "40-49% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "30-39% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "20-29% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "10-19% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "0-9% Turnover"}, {"color": "white", "from": "Bruse Tarl, Boorish Herder;Thrasios, Triton Hero", "to": "Sisay, Weatherlight Captain"}, {"color": "white", "from": "Bruse Tarl, Boorish Herder;Thrasios, Triton Hero", "to": "Tivit, Seller of Secrets"}, {"color": "white", "from": "Bruse Tarl, Boorish Herder;Thrasios, Triton Hero", "to": "Winota, Joiner of Forces"}, {"color": "white", "from": "Bruse Tarl, Boorish Herder;Thrasios, Triton Hero", "to": "Inalla, Archmage Ritualist"}, {"color": "white", "from": "Sisay, Weatherlight Captain", "to": "Tivit, Seller of Secrets"}, {"color": "white", "from": "Sisay, Weatherlight Captain", "to": "Winota, Joiner of Forces"}, {"color": "white", "from": "Sisay, Weatherlight Captain", "to": "Inalla, Archmage Ritualist"}, {"color": "white", "from": "Tivit, Seller of Secrets", "to": "Winota, Joiner of Forces"}, {"color": "white", "from": "Tivit, Seller of Secrets", "to": "Inalla, Archmage Ritualist"}, {"color": "white", "from": "Winota, Joiner of Forces", "to": "Inalla, Archmage Ritualist"}, {"color": "white", "from": "Kenrith, the Returned King", "to": "Thrasios, Triton Hero;Tymna the Weaver"}, {"color": "white", "from": "Kenrith, the Returned King", "to": "Krark, the Thumbless;Sakashima of a Thousand Faces"}, {"color": "white", "from": "Kenrith, the Returned King", "to": "K\u0027rrik, Son of Yawgmoth"}, {"color": "white", "from": "Thrasios, Triton Hero;Tymna the Weaver", "to": "Krark, the Thumbless;Sakashima of a Thousand Faces"}, {"color": "white", "from": "Thrasios, Triton Hero;Tymna the Weaver", "to": "K\u0027rrik, Son of Yawgmoth"}, {"color": "white", "from": "Krark, the Thumbless;Sakashima of a Thousand Faces", "to": "K\u0027rrik, Son of Yawgmoth"}, {"color": "white", "from": "Yuriko, the Tiger\u0027s Shadow", "to": "Malcolm, Keen-Eyed Navigator;Tana, the Bloodsower"}, {"color": "white", "from": "Yuriko, the Tiger\u0027s Shadow", "to": "Rograkh, Son of Rohgahh;Silas Renn, Seeker Adept"}, {"color": "white", "from": "Yuriko, the Tiger\u0027s Shadow", "to": "Malcolm, Keen-Eyed Navigator;Vial Smasher the Fierce"}, {"color": "white", "from": "Malcolm, Keen-Eyed Navigator;Tana, the Bloodsower", "to": "Rograkh, Son of Rohgahh;Silas Renn, Seeker Adept"}, {"color": "white", "from": "Malcolm, Keen-Eyed Navigator;Tana, the Bloodsower", "to": "Malcolm, Keen-Eyed Navigator;Vial Smasher the Fierce"}, {"color": "white", "from": "Rograkh, Son of Rohgahh;Silas Renn, Seeker Adept", "to": "Malcolm, Keen-Eyed Navigator;Vial Smasher the Fierce"}, {"color": "white", "from": "Kraum, Ludevic\u0027s Opus;Tymna the Weaver", "to": "Najeela, the Blade-Blossom"}, {"color": "white", "from": "Kraum, Ludevic\u0027s Opus;Tymna the Weaver", "to": "Korvold, Fae-Cursed King"}, {"color": "white", "from": "Najeela, the Blade-Blossom", "to": "Korvold, Fae-Cursed King"}, {"color": "white", "from": "Niv-Mizzet, Parun", "to": "Shorikai, Genesis Engine"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {"layout": {"hierarchical": {"direction": "UD", "nodeSpacing": 10}}};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

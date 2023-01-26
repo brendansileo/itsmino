@@ -1,0 +1,12 @@
+<html>
+    <head>
+        {% include 'includes.html' %}
+        <script src="{{ url_for('static', filename='tokens.js') }}"></script>
+    </head>
+    <body>
+        Deck URL: <input id="url" />
+        <button onclick="get_tokens()">Submit</button>
+        <br><br>
+        <textarea id="output" rows="20" cols="50"></textarea>
+    </body>
+</html>

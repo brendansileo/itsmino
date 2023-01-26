@@ -1,0 +1,2070 @@
+{
+    "https://www.moxfield.com/decks/xmH0i1HMHUi2iCd279RYPA": {
+        "commander": "Magda, Brazen Outlaw",
+        "uniqueness": 39,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Magda, Brazen Outlaw",
+                "Clock of Omens",
+                "Liquimetal Coating"
+            ]
+        ],
+        "total": 39.0
+    },
+    "https://www.moxfield.com/decks/PQPz_KSrV0S5_Huk1zh_tg": {
+        "commander": "Selvala, Heart of the Wilds",
+        "uniqueness": 28,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Selvala, Heart of the Wilds",
+                "Temur Sabertooth",
+                "Wirewood Symbiote",
+                "Elvish Mystic"
+            ]
+        ],
+        "total": 28.0
+    },
+    "https://www.moxfield.com/decks/yzDOi2MmnUaR6YNAMjnpeQ": {
+        "commander": "Sakashima of a Thousand Faces;Kodama of the East Tree",
+        "uniqueness": 22,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Kodama of the East Tree",
+                "Meloku the Clouded Mirror"
+            ]
+        ],
+        "total": 22.0
+    },
+    "https://www.moxfield.com/decks/urs4pKTeCUyZ-FJimN5prA": {
+        "commander": "Heliod, Sun-Crowned",
+        "uniqueness": 20,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Heliod, Sun-Crowned",
+                "Triskelion"
+            ]
+        ],
+        "total": 20.0
+    },
+    "https://www.moxfield.com/decks/eFkXZM94iEeHTknHjzjesw": {
+        "commander": "Mizzix of the Izmagnus",
+        "uniqueness": 16,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Mizzix of the Izmagnus",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Lotus Petal"
+            ]
+        ],
+        "total": 16.0
+    },
+    "https://www.moxfield.com/decks/ksOWqeElwUaNmAeybXoEjw": {
+        "commander": "K'rrik, Son of Yawgmoth",
+        "uniqueness": 31,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Aetherflux Reservoir",
+                "Leshrac's Sigil",
+                "K'rrik, Son of Yawgmoth"
+            ],
+            [
+                "Necrotic Ooze",
+                "Walking Ballista",
+                "Phyrexian Devourer"
+            ]
+        ],
+        "total": 15.5
+    },
+    "https://www.moxfield.com/decks/CBUSkWmVckSqKs_2hj8f0Q": {
+        "commander": "Anje Falkenrath",
+        "uniqueness": 44,
+        "combo_multiplier": 0.3333333333333333,
+        "combos": [
+            [
+                "Anje Falkenrath",
+                "Dockside Extortionist",
+                "Cloudstone Curio",
+                "Blazing Rootwalla"
+            ],
+            [
+                "Animate Dead",
+                "Worldgorger Dragon"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ]
+        ],
+        "total": 14.666666666666666
+    },
+    "https://www.moxfield.com/decks/URpEcoe6e0GBp3GzsstyBg": {
+        "commander": "Godo, Bandit Warlord",
+        "uniqueness": 14,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Godo, Bandit Warlord",
+                "Helm of the Host"
+            ]
+        ],
+        "total": 14.0
+    },
+    "https://www.moxfield.com/decks/4fbiNVFpr0edHL5Y3IKecg": {
+        "commander": "The Gitrog Monster",
+        "uniqueness": 13,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "The Gitrog Monster",
+                "Dakmor Salvage",
+                "Ulamog, the Infinite Gyre",
+                "Oblivion Crown"
+            ]
+        ],
+        "total": 13.0
+    },
+    "https://www.moxfield.com/decks/BPErFu24x0S37bFE_Ibp8w": {
+        "commander": "Koll, the Forgemaster",
+        "uniqueness": 21,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Koll, the Forgemaster",
+                "Skullclamp",
+                "Auriok Steelshaper",
+                "Crimson Kobolds"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ]
+        ],
+        "total": 10.5
+    },
+    "https://www.moxfield.com/decks/5pYP-HNgsUyl2NfZSBXkFg": {
+        "commander": "Chulane, Teller of Tales",
+        "uniqueness": 7,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Chulane, Teller of Tales",
+                "Mana Breach",
+                "Shrieking Drake"
+            ]
+        ],
+        "total": 7.0
+    },
+    "https://www.moxfield.com/decks/EN1m3TWUzkCTK5r5K1q4vQ": {
+        "commander": "Jhoira, Weatherlight Captain",
+        "uniqueness": 17,
+        "combo_multiplier": 0.3333333333333333,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ],
+            [
+                "The Reality Chip",
+                "Sensei's Divining Top",
+                "Helm of Awakening"
+            ],
+            [
+                "Jhoira, Weatherlight Captain",
+                "Words of Wind",
+                "Mana Crypt",
+                "Sol Ring"
+            ]
+        ],
+        "total": 5.666666666666666
+    },
+    "https://www.moxfield.com/decks/s2jUy7wW1kipTK8IXXpuzQ": {
+        "commander": "Animar, Soul of Elements",
+        "uniqueness": 11,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Animar, Soul of Elements",
+                "Ancestral Statue"
+            ],
+            [
+                "Dockside Extortionist",
+                "Barrin, Master Wizard"
+            ]
+        ],
+        "total": 5.5
+    },
+    "https://www.moxfield.com/decks/HmRJ5ju54USIf9UVsl5kwQ": {
+        "commander": "Niv-Mizzet, Parun",
+        "uniqueness": 5,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Niv-Mizzet, Parun",
+                "Ophidian Eye"
+            ]
+        ],
+        "total": 5.0
+    },
+    "https://www.moxfield.com/decks/bowilU8pp0ehbGPapI6vpA": {
+        "commander": "Derevi, Empyrial Tactician",
+        "uniqueness": 4,
+        "combo_multiplier": 1.0,
+        "combos": [
+            [
+                "Derevi, Empyrial Tactician",
+                "Scorched Ruins",
+                "Eldrazi Displacer"
+            ]
+        ],
+        "total": 4.0
+    },
+    "https://www.moxfield.com/decks/O7RMsRcwN0uyxGp9et_L2g": {
+        "commander": "Kinnan, Bonder Prodigy",
+        "uniqueness": 10,
+        "combo_multiplier": 0.3333333333333333,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Vault",
+                "Mana Crypt"
+            ],
+            [
+                "Kinnan, Bonder Prodigy",
+                "Basalt Monolith"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 3.333333333333333
+    },
+    "https://www.moxfield.com/decks/hKdjzlf7fk698xwMS01tAw": {
+        "commander": "Falco Spara, Pactweaver",
+        "uniqueness": 5,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Falco Spara, Pactweaver",
+                "Devoted Druid",
+                "Sensei's Divining Top"
+            ],
+            [
+                "Thassa's Oracle",
+                "Thought Lash"
+            ]
+        ],
+        "total": 2.5
+    },
+    "https://www.moxfield.com/decks/jT8Y9X4tlUmeNZ2AjkD1Vg": {
+        "commander": "Najeela, the Blade-Blossom",
+        "uniqueness": 5,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Najeela, the Blade-Blossom",
+                "Derevi, Empyrial Tactician"
+            ],
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 2.5
+    },
+    "https://www.moxfield.com/decks/yrFKOscy6kWLOZ6otDtXKw": {
+        "commander": "Inalla, Archmage Ritualist",
+        "uniqueness": 7,
+        "combo_multiplier": 0.3333333333333333,
+        "combos": [
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ],
+            [
+                "Scholar of the Ages",
+                "Burnt Offering",
+                "Shallow Grave"
+            ],
+            [
+                "Inalla, Archmage Ritualist",
+                "Bloodline Necromancer",
+                "Ruthless Technomancer"
+            ]
+        ],
+        "total": 2.333333333333333
+    },
+    "https://www.moxfield.com/decks/RLpZNOsiLEWvzuZwIGevXA": {
+        "commander": "Thrasios, Triton Hero;Dargo, the Shipwrecker",
+        "uniqueness": 7,
+        "combo_multiplier": 0.25,
+        "combos": [
+            [
+                "Dockside Extortionist",
+                "Cloudstone Curio"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ],
+            [
+                "Dargo, the Shipwrecker",
+                "Phyrexian Altar"
+            ],
+            [
+                "Kinnan, Bonder Prodigy",
+                "Basalt Monolith"
+            ]
+        ],
+        "total": 1.75
+    },
+    "https://www.moxfield.com/decks/IpKNjemMhUy1cGGAK-zFOA": {
+        "commander": "Dina, Soul Steeper",
+        "uniqueness": 2,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Viscera Seer",
+                "Protean Hulk",
+                "Disciple of the Vault",
+                "Lesser Masticore",
+                "Melira, Sylvok Outcast"
+            ],
+            [
+                "Dina, Soul Steeper",
+                "Exquisite Blood"
+            ]
+        ],
+        "total": 1.0
+    },
+    "https://www.moxfield.com/decks/6eP7MUADUUWoW4wsWIcf0Q": {
+        "commander": "Prosper, Tome-Bound",
+        "uniqueness": 4,
+        "combo_multiplier": 0.25,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ],
+            [
+                "Prosper, Tome-Bound",
+                "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
+                "Sensei's Divining Top"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Dockside Extortionist",
+                "Cloudstone Curio"
+            ]
+        ],
+        "total": 1.0
+    },
+    "https://www.moxfield.com/decks/MmSuGNGj8U27MCQriiSofg": {
+        "commander": "Omnath, Locus of Creation",
+        "uniqueness": 3,
+        "combo_multiplier": 0.3333333333333333,
+        "combos": [
+            [
+                "Dockside Extortionist",
+                "Barrin, Master Wizard"
+            ],
+            [
+                "Spellseeker",
+                "Ephemerate",
+                "Final Fortune",
+                "Enlightened Tutor",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Lion's Eye Diamond"
+            ],
+            [
+                "Food Chain",
+                "Squee, the Immortal",
+                "Omnath, Locus of Creation"
+            ]
+        ],
+        "total": 1.0
+    },
+    "https://www.moxfield.com/decks/tj910qUf9Uq-Iibp40QfKw": {
+        "commander": "Elsha of the Infinite",
+        "uniqueness": 2,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Elsha of the Infinite",
+                "Sensei's Divining Top",
+                "Helm of Awakening"
+            ],
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ]
+        ],
+        "total": 1.0
+    },
+    "https://www.moxfield.com/decks/tBKBPjKgvUC23trKJkfXag": {
+        "commander": "Yidris, Maelstrom Wielder",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/JTmZTle4SE2WFF3EuLi45w": {
+        "commander": "Old Rutstein",
+        "uniqueness": 7,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Eternal Scourge",
+                "Food Chain"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/4VETNnvuVEewJUoIuSW81Q": {
+        "commander": "Thrasios, Triton Hero;Kraum, Ludevic's Opus",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Deadeye Navigator",
+                "Dockside Extortionist"
+            ],
+            [
+                "Kinnan, Bonder Prodigy",
+                "Basalt Monolith"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/dd-7fRM6_ECUV1VqZdK9uA": {
+        "commander": "Thrasios, Triton Hero;Jeska, Thrice Reborn",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ],
+            [
+                "Dockside Extortionist",
+                "Barrin, Master Wizard"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/Ext2hjPQ80iuh3IOKf4FfQ": {
+        "commander": "Neera, Wild Mage",
+        "uniqueness": 14,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/8FWLwNGoDUWnHnRsFK3Y4w": {
+        "commander": "Raffine, Scheming Seer",
+        "uniqueness": 17,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/FEkmHUNbo064BnPMW4g9dw": {
+        "commander": "Tivit, Seller of Secrets",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ],
+            [
+                "Teferi, Time Raveler",
+                "Displacer Kitten",
+                "Sol Ring"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/ejKmivgBUk-kg1cTY3jOyQ": {
+        "commander": "Nalia de'Arnise",
+        "uniqueness": 18,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Uba Mask",
+                "Drannith Magistrate"
+            ],
+            [
+                "Professor Onyx",
+                "Chain of Smog"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/-W2r39NqZUCoDJGstpNptw": {
+        "commander": "Tymna the Weaver;Armix, Filigree Thrasher",
+        "uniqueness": 8,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Abdel Adrian, Gorion's Ward",
+                "Animate Dead"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/EwavwZ8WQ0KMlK5KK3QSUw": {
+        "commander": "Scion of Halaster;Gale, Waterdeep Prodigy",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/-MpWhvWOQkqfzF9_nD1msw": {
+        "commander": "Tevesh Szat, Doom of Fools;Malcolm, Keen-Eyed Navigator",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ],
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/CEe3xXhPrk-hiZn1hndjCA": {
+        "commander": "Dargo, the Shipwrecker;Ikra Shidiqi, the Usurper",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/0PUe61NpYUSan8sLy6GX1Q": {
+        "commander": "Cormela, Glamour Thief",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze",
+                "Gamble"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/L_4fHsZzgkShtaIiUpu2Ww": {
+        "commander": "Rionya, Fire Dancer",
+        "uniqueness": 21,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Magda, Brazen Outlaw",
+                "Aggravated Assault"
+            ],
+            [
+                "Dualcaster Mage",
+                "Heat Shimmer"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/QOk9qheOTEKpV-KzARK8jQ": {
+        "commander": "Evelyn, the Covetous",
+        "uniqueness": 4,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Animate Dead",
+                "Worldgorger Dragon"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze",
+                "Gamble"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/vtxzVKeWv0yHGp8xp7ZS1w": {
+        "commander": "Oskar, Rubbish Reclaimer",
+        "uniqueness": 7,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/AbW16uisfE2aiDV40qNTpA": {
+        "commander": "Rocco, Cabaretti Caterer",
+        "uniqueness": 7,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Kiki-Jiki, Mirror Breaker",
+                "Felidar Guardian"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/tqOHMcZh1EClUVwDs7TbtQ": {
+        "commander": "Armix, Filigree Thrasher;Kraum, Ludevic's Opus",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/c2a_lnOZ3EOGWzgdp--a7w": {
+        "commander": "Kraum, Ludevic's Opus;Armix, Filigree Thrasher",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Tainted Pact",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/3MSTqK1_YU6X1-_amNDrmA": {
+        "commander": "Krark, the Thumbless;Silas Renn, Seeker Adept",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/aFbbkDjO6Ue-GnNPQazA4w": {
+        "commander": "Rograkh, Son of Rohgahh;Ardenn, Intrepid Archaeologist",
+        "uniqueness": 16,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Godo, Bandit Warlord",
+                "Helm of the Host"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/c0vCJr_6eEmf7AECzDNFTA": {
+        "commander": "Yasharn, Implacable Earth",
+        "uniqueness": 17,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Heliod, Sun-Crowned",
+                "Walking Ballista"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/Q5GFGDOtqk6-ri92lbDxsg": {
+        "commander": "Shorikai, Genesis Engine",
+        "uniqueness": 11,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/0Ju920mYx02oiXs8eZkOWg": {
+        "commander": "Thrasios, Triton Hero;Yoshimaru, Ever Faithful",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Devoted Druid",
+                "Swift Reconfiguration"
+            ],
+            [
+                "Hullbreaker Horror",
+                "Sol Ring",
+                "Mana Crypt"
+            ],
+            [
+                "Kinnan, Bonder Prodigy",
+                "Basalt Monolith"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/cAzAX1Ii6EKYvJob3swtbA": {
+        "commander": "Yoshimaru, Ever Faithful;Thrasios, Triton Hero",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Devoted Druid",
+                "Swift Reconfiguration"
+            ],
+            [
+                "Kinnan, Bonder Prodigy",
+                "Basalt Monolith"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/SBCYdcdc4EmteUIw7Ql0Jg": {
+        "commander": "Pako, Arcane Retriever;Haldan, Avid Arcanist",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ],
+            [
+                "Capture of Jingzhou",
+                "Seasons Past",
+                "Personal Tutor"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/ZNsUwYgeIkesOMmn2Q8TZQ": {
+        "commander": "Haldan, Avid Arcanist;Pako, Arcane Retriever",
+        "uniqueness": 4,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/iTyVq4sC1USM_1jDtBQpMg": {
+        "commander": "Toxrill, the Corrosive",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ],
+            [
+                "Tainted Pact",
+                "Thassa's Oracle"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/tuiIisSbZk63xjCIR1nCvQ": {
+        "commander": "Grolnok, the Omnivore",
+        "uniqueness": 8,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hermit Druid",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/QoIOksCLh0ik6w2h9c7Xkg": {
+        "commander": "Ishai, Ojutai Dragonspeaker;Thrasios, Triton Hero",
+        "uniqueness": 4,
+        "combo_multiplier": 0,
+        "combos": [],
+        "total": 0
+    },
+    "https://www.moxfield.com/decks/pKFOTQpWwUS_UBLjSjPivw": {
+        "commander": "Malcolm, Keen-Eyed Navigator;Bruse Tarl, Boorish Herder",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Glint-Horn Buccaneer",
+                "Curiosity"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/Mp9uOFjZfEi2Pa4Ju-3Enw": {
+        "commander": "Old Stickfingers",
+        "uniqueness": 14,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Professor Onyx",
+                "Chain of Smog"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/gkpHICzhz0yXruRZy9weoA": {
+        "commander": "Tevesh Szat, Doom of Fools;Ishai, Ojutai Dragonspeaker",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Jace, Wielder of Mysteries"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/yBih2LlY3UmOJkvNuocfCg": {
+        "commander": "Varolz, the Scar-Striped",
+        "uniqueness": 6,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Viscera Seer",
+                "Protean Hulk",
+                "Disciple of the Vault",
+                "Lesser Masticore",
+                "Melira, Sylvok Outcast"
+            ],
+            [
+                "Maralen of the Mornsong",
+                "Opposition Agent"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/6qvBeZsl5UOtt3jk0f3n3w": {
+        "commander": "Grist, the Hunger Tide",
+        "uniqueness": 10,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Mikaeus, the Unhallowed",
+                "Walking Ballista",
+                "Viscera Seer"
+            ],
+            [
+                "Maralen of the Mornsong",
+                "Opposition Agent"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/DSMA6dSn7Ey6ENoHKdYvxQ": {
+        "commander": "Tymna the Weaver;Kamahl, Heart of Krosa",
+        "uniqueness": 2,
+        "combo_multiplier": 0,
+        "combos": [],
+        "total": 0
+    },
+    "https://www.moxfield.com/decks/QSOSSOWsOE6-bpoZG2H_Fg": {
+        "commander": "Oswald Fiddlebender",
+        "uniqueness": 19,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Uba Mask",
+                "Drannith Magistrate"
+            ],
+            [
+                "Teferi's Puzzle Box",
+                "Spirit of the Labyrinth"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/Wrcumkgcc0qjIB2bwoDvqQ": {
+        "commander": "Codie, Vociferous Codex",
+        "uniqueness": 7,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze",
+                "Gamble"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/z_DLWYstvUiZZ6GGVsh_LA": {
+        "commander": "Thrasios, Triton Hero;Armix, Filigree Thrasher",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/9iK5H63Ij0qSxkFhgwQT7A": {
+        "commander": "Minsc, Beloved Ranger",
+        "uniqueness": 7,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Kiki-Jiki, Mirror Breaker",
+                "Felidar Guardian"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/sEjrjHmKk0ukA6ZkmjiW5g": {
+        "commander": "Sythis, Harvest's Hand",
+        "uniqueness": 21,
+        "combo_multiplier": 0,
+        "combos": [],
+        "total": 0
+    },
+    "https://www.moxfield.com/decks/CBzP1wRIXEOxR1IC6c0icw": {
+        "commander": "Malcolm, Keen-Eyed Navigator;Rograkh, Son of Rohgahh",
+        "uniqueness": 6,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Glint-Horn Buccaneer",
+                "Curiosity"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/TW26GjX_5ku6qXzUrshy3g": {
+        "commander": "Kraum, Ludevic's Opus;Jeska, Thrice Reborn",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ],
+            [
+                "Dockside Extortionist",
+                "Barrin, Master Wizard"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/rZ2SB35PsUSFMxbL6K44JA": {
+        "commander": "Rograkh, Son of Rohgahh;Ikra Shidiqi, the Usurper",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Culling the Weak",
+                "Stitcher's Supplier"
+            ],
+            [
+                "Chain of Smog",
+                "Witherbloom Apprentice"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/4SVV8sxDbUmLfSmTRHsCIg": {
+        "commander": "Jeska, Thrice Reborn;Ikra Shidiqi, the Usurper",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Dockside Extortionist",
+                "Temur Sabertooth"
+            ],
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Chain of Smog",
+                "Witherbloom Apprentice"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/oQ2waBUnukehFIS4swH14w": {
+        "commander": "Tana, the Bloodsower;Ardenn, Intrepid Archaeologist",
+        "uniqueness": 13,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Godo, Bandit Warlord",
+                "Helm of the Host"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/qIMSXOm7V06XyV72btdzkA": {
+        "commander": "Kediss, Emberclaw Familiar;Malcolm, Keen-Eyed Navigator",
+        "uniqueness": 5,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Glint-Horn Buccaneer",
+                "Curiosity"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/ruGozy12MUCHeG4FuvJP4Q": {
+        "commander": "Malcolm, Keen-Eyed Navigator;Breeches, Brazen Plunderer",
+        "uniqueness": 9,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Glint-Horn Buccaneer",
+                "Curiosity"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze",
+                "Gamble"
+            ],
+            [
+                "Kiki-Jiki, Mirror Breaker",
+                "Deceiver Exarch"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/P_HpAjOOsEW7a12ir626FA": {
+        "commander": "Captain Sisay",
+        "uniqueness": 10,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Ashaya, Soul of the Wild",
+                "Quirion Ranger",
+                "Lightning Greaves"
+            ],
+            [
+                "Living Plane",
+                "Elesh Norn, Grand Cenobite"
+            ],
+            [
+                "Village Bell-Ringer",
+                "Emiel the Blessed"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/W0tbKZGNyEa5vXx9JBOxNA": {
+        "commander": "Jorn, God of Winter // Kaldring, the Rimestaff",
+        "uniqueness": 7,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ],
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/u8vKYsL9mkWTItI1JCR85Q": {
+        "commander": "Tevesh Szat, Doom of Fools;Kraum, Ludevic's Opus",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ],
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/kFQFNAM0U0msYLs0pTKtCw": {
+        "commander": "Krark, the Thumbless;Thrasios, Triton Hero",
+        "uniqueness": 6,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze",
+                "Gamble"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Frenetic Efreet",
+                "Tavern Scoundrel"
+            ],
+            [
+                "Dockside Extortionist",
+                "Barrin, Master Wizard"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/yWSH2CBfQ0iaQL03CxAs9g": {
+        "commander": "Thrasios, Triton Hero;Krark, the Thumbless",
+        "uniqueness": 9,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/YClMqfqWRUqdrw6_gLGT3A": {
+        "commander": "Kodama of the East Tree;Tymna the Weaver",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Felidar Guardian",
+                "Restoration Angel"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/7z2H2haMwUaDAyB2pjWrUA": {
+        "commander": "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
+        "uniqueness": 31,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ],
+            [
+                "Reiterate",
+                "Seething Song",
+                "Bonus Round"
+            ],
+            [
+                "Treasonous Ogre",
+                "Aetherflux Reservoir",
+                "Grinning Ignus"
+            ],
+            [
+                "Dockside Extortionist",
+                "Cloudstone Curio"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Experimental Frenzy",
+                "Sensei's Divining Top",
+                "Helm of Awakening"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/G-RUVy_CMUWzXlhJknIzZg/": {
+        "commander": "Krark, the Thumbless;Sakashima of a Thousand Faces",
+        "uniqueness": 8,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/LvX86uPuNUai_jGJWNiaiA": {
+        "commander": "Malcolm, Keen-Eyed Navigator;Tymna the Weaver",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Doomsday",
+                "Gush",
+                "Gitaxian Probe",
+                "Lion's Eye Diamond",
+                "Yawgmoth's Will",
+                "Laboratory Maniac"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/NfayMzX0JkWVyrUshHev7A": {
+        "commander": "Tymna the Weaver;Malcolm, Keen-Eyed Navigator",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Tainted Pact",
+                "Laboratory Maniac"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/cB06iazvt0iaM5OJB0htow": {
+        "commander": "Sakashima of a Thousand Faces;Tymna the Weaver",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/y_1TTfniakWpJj-EA599Wg": {
+        "commander": "Tymna the Weaver;Rograkh, Son of Rohgahh",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Leonin Relic-Warder",
+                "Animate Dead"
+            ],
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/AAfKuJsUnEOSI66_zBUlJw": {
+        "commander": "Thrasios, Triton Hero;Tevesh Szat, Doom of Fools",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Tainted Pact",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/1lr83pnZzkGuN7usk86-6g": {
+        "commander": "Tevesh Szat, Doom of Fools;Thrasios, Triton Hero",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Laboratory Maniac"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/AwvOht5A9EiKavXOram1bA": {
+        "commander": "Tevesh Szat, Doom of Fools;Tymna the Weaver",
+        "uniqueness": 8,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Leonin Relic-Warder",
+                "Animate Dead"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/Y2cdFYZw_0-isKafmKXgNw": {
+        "commander": "Orvar, the All-Form",
+        "uniqueness": 28,
+        "combo_multiplier": 0,
+        "combos": [],
+        "total": 0
+    },
+    "https://www.moxfield.com/decks/CcXt4W8USUWj2d6SzTZh6w": {
+        "commander": "Tevesh Szat, Doom of Fools;Rograkh, Son of Rohgahh",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Culling the Weak",
+                "Stitcher's Supplier"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/FE8jEIHr50Wrtx9psV6NbQ": {
+        "commander": "Rograkh, Son of Rohgahh;Tevesh Szat, Doom of Fools",
+        "uniqueness": 4,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/OSZYIdU-bUmA7MifJQ_fYg": {
+        "commander": "Thrasios, Triton Hero;Rograkh, Son of Rohgahh",
+        "uniqueness": 4,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze",
+                "Gamble"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/qkNhwyfNEkaCEtIxoZ0Beg": {
+        "commander": "Malcolm, Keen-Eyed Navigator;Tana, the Bloodsower",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Glint-Horn Buccaneer",
+                "Curiosity"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/yRsS18tYsE-jVgqmK7_Z0w": {
+        "commander": "Rograkh, Son of Rohgahh;Silas Renn, Seeker Adept",
+        "uniqueness": 4,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/G2X0-rE780KKIeYUOqM0Gg": {
+        "commander": "Ishai, Ojutai Dragonspeaker;Jeska, Thrice Reborn",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ],
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/r1w331Sl2EOL1Sj24Rrosw": {
+        "commander": "Jeska, Thrice Reborn;Ishai, Ojutai Dragonspeaker",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ],
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Wheel of Fortune"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/LqXPi1OW706_6rZsXrXXmg": {
+        "commander": "Jeleva, Nephalia's Scourge",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ],
+            [
+                "Dockside Extortionist",
+                "Barrin, Master Wizard"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/K0exUYW-gE-g2sPIAaqSng": {
+        "commander": "Vial Smasher the Fierce;Malcolm, Keen-Eyed Navigator",
+        "uniqueness": 0,
+        "combo_multiplier": 0.5,
+        "combos": [
+            [
+                "Malcolm, Keen-Eyed Navigator",
+                "Glint-Horn Buccaneer"
+            ],
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/mNapLrgSiUaA17cl9XNCpw": {
+        "commander": "Urza, Lord High Artificer",
+        "uniqueness": 10,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hullbreaker Horror",
+                "Mana Crypt",
+                "Lotus Petal"
+            ],
+            [
+                "Power Artifact",
+                "Grim Monolith"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/jU1S6wncyUmNA3J5UA-a_A": {
+        "commander": "Grenzo, Dungeon Warden",
+        "uniqueness": 6,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Maralen of the Mornsong",
+                "Opposition Agent"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/j-0aJlxuOUm9FnKRvJcfZw": {
+        "commander": "Winota, Joiner of Forces",
+        "uniqueness": 26,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Combat Celebrant",
+                "Kiki-Jiki, Mirror Breaker"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/WeAFAZwIAkGWF-SYFfWAag": {
+        "commander": "Ikra Shidiqi, the Usurper;Kraum, Ludevic's Opus",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/Re-_xtEbCkyNdH69vyGR8w": {
+        "commander": "Korvold, Fae-Cursed King",
+        "uniqueness": 4,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ],
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Chain of Smog",
+                "Witherbloom Apprentice"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/RM9tBCjdsEOUQQpleGI4Gw": {
+        "commander": "Yuriko, the Tiger's Shadow",
+        "uniqueness": 32,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Enter the Infinite",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/ilvW7g3hsUio09K2gLuDmg": {
+        "commander": "Yisan, the Wanderer Bard",
+        "uniqueness": 22,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Ashaya, Soul of the Wild",
+                "Scryb Ranger",
+                "Priest of Titania"
+            ],
+            [
+                "Temur Sabertooth",
+                "Circle of Dreams Druid",
+                "Wirewood Symbiote",
+                "Llanowar Elves"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/3qBRL7s02UG7yFKUnILbOw": {
+        "commander": "Thrasios, Triton Hero;Bruse Tarl, Boorish Herder",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Emiel the Blessed",
+                "Dockside Extortionist"
+            ],
+            [
+                "Training Grounds",
+                "Auriok Salvagers",
+                "Lotus Petal"
+            ],
+            [
+                "Spellseeker",
+                "Ephemerate",
+                "Final Fortune",
+                "Enlightened Tutor",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Lion's Eye Diamond"
+            ],
+            [
+                "Devoted Druid",
+                "Swift Reconfiguration"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/KtYYMEkhuUeFdC-LerpWEA": {
+        "commander": "Bruse Tarl, Boorish Herder;Thrasios, Triton Hero",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Emiel the Blessed",
+                "Dockside Extortionist"
+            ],
+            [
+                "Spellseeker",
+                "Ephemerate",
+                "Final Fortune",
+                "Enlightened Tutor",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Lion's Eye Diamond"
+            ],
+            [
+                "Devoted Druid",
+                "Vizier of Remedies"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/DujxA8PlG0eTQZ_hawsTmQ": {
+        "commander": "The First Sliver",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Tainted Pact",
+                "Thassa's Oracle"
+            ],
+            [
+                "Squee, the Immortal",
+                "Food Chain"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/6tdUx3hbGUq8Oz2Y6Q6W-w": {
+        "commander": "Kess, Dissident Mage",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/W3Ko6od8a0CJ5T2Kd1ftdQ": {
+        "commander": "Sidisi, Brood Tyrant",
+        "uniqueness": 5,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Hermit Druid",
+                "Thassa's Oracle"
+            ],
+            [
+                "Cephalid Illusionist",
+                "Lightning Greaves"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/OjY9mvS_eUqlNUqdSpfPTQ": {
+        "commander": "Cazur, Ruthless Stalker;Ukkima, Stalking Shadow",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ],
+            [
+                "Eternal Scourge",
+                "Food Chain"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/WuFgkXDyCUOl8kMaiqIioA": {
+        "commander": "Sisay, Weatherlight Captain",
+        "uniqueness": 8,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Najeela, the Blade-Blossom",
+                "Derevi, Empyrial Tactician"
+            ],
+            [
+                "Teferi, Time Raveler",
+                "Displacer Kitten",
+                "Mana Crypt"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/rVEjo7IdpECuP96MlsjcrQ": {
+        "commander": "Tayam, Luminous Enigma",
+        "uniqueness": 8,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Earthcraft",
+                "Squirrel Nest"
+            ],
+            [
+                "Chain of Smog",
+                "Witherbloom Apprentice"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/-MbskARpZEunKrzXVvrNmw": {
+        "commander": "Kenrith, the Returned King",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/LcNaaKov-kGLxjUvclpDdg": {
+        "commander": "Tasigur, the Golden Fang",
+        "uniqueness": 4,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ],
+            [
+                "Hullbreaker Horror",
+                "Sol Ring",
+                "Mana Crypt"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/1t0Cpm1xqUeyA-6xi2TrGQ": {
+        "commander": "Zur the Enchanter",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ],
+            [
+                "Heliod, Sun-Crowned",
+                "Walking Ballista"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/YAaImlptyUifCfct1hbF7Q": {
+        "commander": "Tymna the Weaver;Tana, the Bloodsower",
+        "uniqueness": 3,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Kiki-Jiki, Mirror Breaker",
+                "Felidar Guardian"
+            ],
+            [
+                "Goblin Sharpshooter",
+                "Splinter Twin"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/3RPLVO_070KCSBu7ENDM6g": {
+        "commander": "Vial Smasher the Fierce;Thrasios, Triton Hero",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Tainted Pact",
+                "Thassa's Oracle"
+            ],
+            [
+                "Dockside Extortionist",
+                "Barrin, Master Wizard"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/7mG6bOalaEGehafbyyF84A": {
+        "commander": "Thrasios, Triton Hero;Vial Smasher the Fierce",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/bWs_cWqrj0aXrheGN-k08w": {
+        "commander": "Tymna the Weaver;Jeska, Thrice Reborn",
+        "uniqueness": 5,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Dualcaster Mage",
+                "Twinflame"
+            ],
+            [
+                "Underworld Breach",
+                "Grinding Station",
+                "Mana Crypt"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/Vva2blXPDEWTPCIW7QfpbA": {
+        "commander": "Tatyova, Benthic Druid",
+        "uniqueness": 14,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Walk the Aeons",
+                "Azusa, Lost but Seeking",
+                "Ramunap Excavator"
+            ],
+            [
+                "Mystic Sanctuary",
+                "Trade Routes",
+                "Temporal Manipulation"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/aR00ZuPWTkCfKtK6lZAm-w": {
+        "commander": "Tymna the Weaver;Kodama of the East Tree",
+        "uniqueness": 2,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Leonin Relic-Warder",
+                "Animate Dead"
+            ],
+            [
+                "Earthcraft",
+                "Squirrel Nest"
+            ],
+            [
+                "Chain of Smog",
+                "Witherbloom Apprentice"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/2zSXC86KokyKs6vAS9-_sw": {
+        "commander": "Kraum, Ludevic's Opus;Tymna the Weaver",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Underworld Breach",
+                "Lion's Eye Diamond",
+                "Brain Freeze",
+                "Gamble"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/6KnPPbyVxUW2R4uPV9A3rw": {
+        "commander": "Tymna the Weaver;Thrasios, Triton Hero",
+        "uniqueness": 1,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Tainted Pact",
+                "Thassa's Oracle"
+            ],
+            [
+                "Lion's Eye Diamond",
+                "Auriok Salvagers"
+            ],
+            [
+                "Dramatic Reversal",
+                "Isochron Scepter"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/CuKho0dh4UaVpYJWy3xG4A": {
+        "commander": "Thrasios, Triton Hero;Tymna the Weaver",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Demonic Consultation",
+                "Laboratory Maniac"
+            ],
+            [
+                "Devoted Druid",
+                "Swift Reconfiguration"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/7iwPSXSVlEy5fvKqDTCNEg": {
+        "commander": "Tana, the Bloodsower;Tymna the Weaver",
+        "uniqueness": 5,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Leonin Relic-Warder",
+                "Dance of the Dead"
+            ]
+        ],
+        "total": 0.0
+    },
+    "https://www.moxfield.com/decks/OurmvUhkrUOz1Zb7Oa4Mbg": {
+        "commander": "Breya, Etherium Shaper",
+        "uniqueness": 0,
+        "combo_multiplier": 0.0,
+        "combos": [
+            [
+                "Lion's Eye Diamond",
+                "Underworld Breach",
+                "Brain Freeze",
+                "Thassa's Oracle"
+            ]
+        ],
+        "total": 0.0
+    }
+}

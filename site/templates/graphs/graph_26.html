@@ -1,0 +1,80 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vis-network@latest/styles/vis-network.css" type="text/css" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vis-network@latest/dist/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "100% Turnover", "label": "100% Turnover", "level": 0, "shape": "circle"}, {"id": "90-99% Turnover", "label": "90-99% Turnover", "level": 1, "shape": "circle"}, {"id": "80-89% Turnover", "label": "80-89% Turnover", "level": 2, "shape": "circle"}, {"id": "70-79% Turnover", "label": "70-79% Turnover", "level": 3, "shape": "circle"}, {"id": "60-69% Turnover", "label": "60-69% Turnover", "level": 4, "shape": "circle"}, {"id": "50-59% Turnover", "label": "50-59% Turnover", "level": 5, "shape": "circle"}, {"id": "40-49% Turnover", "label": "40-49% Turnover", "level": 6, "shape": "circle"}, {"id": "30-39% Turnover", "label": "30-39% Turnover", "level": 7, "shape": "circle"}, {"id": "20-29% Turnover", "label": "20-29% Turnover", "level": 8, "shape": "circle"}, {"id": "10-19% Turnover", "label": "10-19% Turnover", "level": 9, "shape": "circle"}, {"id": "0-9% Turnover", "label": "0-9% Turnover", "level": 10, "shape": "circle"}, {"borderWidth": 5, "color": "green", "id": "Thrasios, Triton Hero;Tymna the Weaver", "image": "https://cards.scryfall.io/art_crop/front/2/1/21e27b91-c7f1-4709-aa0d-8b5d81b22a0a.jpg?1606762176", "label": "Thrasios, Triton Hero\nTymna the Weaver", "level": 8, "shape": "circularImage", "size": 40.298507462686565, "title": "Played 27 times\n25.93% Conversion Rate\n122.48 Average Attendents"}, {"borderWidth": 5, "color": "red", "id": "Kraum, Ludevic\u0027s Opus;Tymna the Weaver", "image": "https://cards.scryfall.io/art_crop/front/5/5/557fcd17-6cb3-414a-b2b1-ea9ae32e5aec.jpg?1644853032", "label": "Kraum, Ludevic\u0027s Opus\nTymna the Weaver", "level": 8, "shape": "circularImage", "size": 100.0, "title": "Played 67 times\n20.9% Conversion Rate\n129.07 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Winota, Joiner of Forces", "image": "https://cards.scryfall.io/art_crop/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1654630670", "label": "Winota, Joiner of Forces", "level": 9, "shape": "circularImage", "size": 38.80597014925373, "title": "Played 26 times\n19.23% Conversion Rate\n120.73 Average Attendents"}, {"borderWidth": 1, "color": "black", "id": "Najeela, the Blade-Blossom", "image": "https://cards.scryfall.io/art_crop/front/2/c/2cb1d1da-6077-46b5-8c63-39882b8016f2.jpg?1567181270", "label": "Najeela, the Blade-Blossom", "level": 9, "shape": "circularImage", "size": 40.298507462686565, "title": "Played 27 times\n14.81% Conversion Rate\n123.74 Average Attendents"}]);
+        edges = new vis.DataSet([{"color": "white", "from": "100% Turnover", "to": "90-99% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "80-89% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "70-79% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "60-69% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "50-59% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "40-49% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "30-39% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "20-29% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "10-19% Turnover"}, {"color": "white", "from": "100% Turnover", "to": "0-9% Turnover"}, {"color": "white", "from": "Thrasios, Triton Hero;Tymna the Weaver", "to": "Winota, Joiner of Forces"}, {"color": "white", "from": "Kraum, Ludevic\u0027s Opus;Tymna the Weaver", "to": "Najeela, the Blade-Blossom"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {"layout": {"hierarchical": {"direction": "UD", "nodeSpacing": 10}}};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

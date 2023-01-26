@@ -1,3 +1,4 @@
+projects/deckstats/decks.json
 projects/mox_hubs/comp_decklists.json
 projects/cedh-network/ddb_deck*.json
 *.secret
@@ -7,6 +8,9 @@ projects/ddb/output
 projects/openinghand/ddb.json
 site/ddb.json
 projects/codex/output-*/*
+projects/tierlist/eminence/*
+projects/tierlist/data.json
+projects/packages/ddb_lists.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -15,6 +15,9 @@ for entry in data:
         continue
     for link in entry['decklists']:
         print(link['link'])
+        if link == 'https://www.moxfield.com/decks/-y9F8aROsUyKhNBiYexXkQ':
+            print('skipping this')
+            continue
         deck = mtg_api.get_deck(link['link'])
         if deck != None:
             d = deck.get_deck()
@@ -27,8 +30,8 @@ for entry in data:
             colors.sort()
             all_lists[deck.get_name()] = deck.get_decklist()
         else:
-            print('non-moxfield')
-        print(count)
+            print('not supported')
+        print(count, '/', len(data))
         count += 1
         time.sleep(2)
 with open('ddb_lists.json', 'w') as f:
