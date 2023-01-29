@@ -8,9 +8,10 @@ projects/ddb/output
 projects/openinghand/ddb.json
 site/ddb.json
 projects/codex/output-*/*
-projects/tierlist/eminence/*
-projects/tierlist/data.json
+projects/tournaments/eminence/*
+projects/tournaments/data.json
 projects/packages/ddb_lists.json
+projects/type_cohesion/*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
